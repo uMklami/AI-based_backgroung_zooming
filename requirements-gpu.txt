@@ -1,0 +1,7 @@
+# Extra dependencies for the Stable Diffusion inpainting backend
+# (INPAINT_BACKEND=sd or auto with CUDA). GPU strongly recommended.
+-r requirements.txt
+diffusers
+transformers
+accelerate
+safetensors

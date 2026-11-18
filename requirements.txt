@@ -1,0 +1,16 @@
+Flask==2.3.3
+gunicorn
+opencv-python-headless
+numpy
+Pillow
+scikit-image
+scikit-learn
+torch
+torchvision
+lpips
+carvekit
+simple-lama-inpainting
+# MobileSAM (Apache-2.0) — smart click/box selection, no AGPL deps
+# timm is an undeclared dependency of MobileSAM's TinyViT encoder
+timm
+git+https://github.com/ChaoningZhang/MobileSAM.git

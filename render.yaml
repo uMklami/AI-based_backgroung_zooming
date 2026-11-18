@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: AI-Selective-Zoom
+    env: python
+    # CPU inference needs plenty of RAM: use at least the "standard" plan
+    plan: standard
+    buildCommand: pip install -r requirements.txt
+    # 1 worker (models load once), threads for the async job/polling routes,
+    # long timeout because first-request model loading is slow on CPU
+    startCommand: gunicorn -w 1 --threads 8 -t 600 -b 0.0.0.0:$PORT app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.10"
+      # set to "0" to disable AI upscaling if the instance is too slow
+      - key: USE_AI_UPSCALE
+        value: "1"
+      # "lama" (CPU default) | "sd" (GPU: Stable Diffusion inpainting,
+      # needs requirements-gpu.txt) | "auto" (sd if CUDA available)
+      - key: INPAINT_BACKEND
+        value: "lama"

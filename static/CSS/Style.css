@@ -1,0 +1,135 @@
+ body {
+            background-color: #f8f9fa;
+        }
+        .main-container {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+        }
+        .card-header {
+            background-color:  #000000;
+            color: white;
+            border-radius: 15px 15px 0 0 !important;
+        }
+        .btn-primary {
+            background-color: #000000;
+            border-color: #4CAF50;
+        }
+        .btn-primary:hover {
+            background-color: #3e8e41;
+            border-color: #3e8e41;
+        }
+        .image-preview, #videoPreview {
+            max-height: 400px;
+            object-fit: contain;
+            border-radius: 10px;
+        }
+        .zoom-factor-display {
+            font-weight: bold;
+            color: #4CAF50;
+        }
+        #videoPreview {
+            width: 100%;
+            background: #000;
+        }
+        #captureBtn {
+            margin-top: 10px;
+        }
+        #captureSection {
+            text-align: center;
+        }
+        .d-none {
+            display: none !important;
+        }
+
+         .spinner-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(255,255,255,0.85);
+            z-index: 2000;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.2s;
+        }
+        .spinner-overlay .spinner-border {
+            width: 4rem;
+            height: 4rem;
+            color: #4CAF50;
+        }
+        .spinner-overlay .progress-label {
+            margin-top: 1rem;
+            font-size: 1.25rem;
+            color: #4CAF50;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+        }
+        .spinner-overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+        .preview-image {
+          max-width: 100%;
+          max-height: 60vh;
+          cursor: pointer;
+          border: 1px solid #ddd;
+          border-radius: 4px;
+        }
+          .result-container {
+            text-align: center;
+            padding: 20px;
+        }
+        .result-image {
+            max-width: 100%;
+            max-height: 70vh;
+            margin-bottom: 20px;
+        }
+        .download-btn {
+            padding: 10px 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+
+
+
+
+        .comparison-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem;
+}
+
+.image-block {
+  text-align: center;
+}
+
+.comparison-image {
+  max-width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.download-btn,
+.open-btn {
+  display: inline-block;
+  margin: 0.5rem 0.25rem;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 0.9rem;
+}
+.open-btn { background-color: #28a745; }

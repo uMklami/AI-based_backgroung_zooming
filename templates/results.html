@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Image Comparison</title>
+  <!-- Bootstrap CSS (no integrity attributes for simplicity) -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container py-5">
+    <h2 class="text-center mb-4">Image Comparison</h2>
+    <div class="row justify-content-center">
+      <div class="col-md-5 mb-4">
+        <div class="card h-100">
+          <div class="card-header text-center bg-light">
+            Original
+          </div>
+          <div class="card-body d-flex align-items-center justify-content-center">
+            <img src="{{ original_url }}" alt="Original Image" class="img-fluid rounded">
+          </div>
+           <div class="card-footer text-center">
+            <a href="{{ original_url  }}" download="processed_image.png" class="btn btn-success me-2">
+              <i class="bi bi-download"></i> Download
+            </a>
+            <a href="{{ original_url  }}" target="_blank" class="btn btn-primary">
+              <i class="bi bi-arrows-fullscreen"></i> View Full-Res
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5 mb-4">
+        <div class="card h-100">
+          <div class="card-header text-center bg-light">
+            Processed &bull; Scale: <strong>{{ zoom }}×</strong>
+          </div>
+          <div class="card-body d-flex align-items-center justify-content-center">
+            <img src="{{ result_url }}" alt="Processed Image" class="img-fluid rounded">
+          </div>
+          <div class="card-footer text-center">
+            <a href="{{ result_url }}" download="processed_image.png" class="btn btn-success me-2">
+              <i class="bi bi-download"></i> Download
+            </a>
+            <a href="{{ result_url }}" target="_blank" class="btn btn-primary">
+              <i class="bi bi-arrows-fullscreen"></i> View Full-Res
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <a href="{{ url_for('index') }}" class="btn btn-outline-secondary">
+        <i class="bi bi-arrow-left"></i> Process Another Image
+      </a>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

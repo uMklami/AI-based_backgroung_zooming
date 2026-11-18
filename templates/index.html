@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Selective Zoom</title>
+<!-- PWA -->
+<link rel="manifest" href="{{ url_for('static', filename='manifest.webmanifest') }}">
+<meta name="theme-color" content="#0d6efd">
+<!-- iOS install support -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="SelectiveZoom">
+<link rel="apple-touch-icon" href="{{ url_for('static', filename='icons/icon-180.png') }}">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='CSS/Style.css') }}">
+<style>
+  body { background: #f4f6f9; }
+  .hidden { display: none !important; }
+  #editorWrap { position: relative; width: 100%; touch-action: none; user-select: none; }
+  #baseCanvas, #overlayCanvas {
+    width: 100%; height: auto; display: block; border-radius: .5rem;
+  }
+  #overlayCanvas { position: absolute; inset: 0; cursor: crosshair; }
+  .tool-btn.active { background: #198754; color: #fff; border-color: #198754; }
+  .tool-btn.active-blue { background: #0d6efd; color: #fff; border-color: #0d6efd; }
+  .tool-btn.active-info { background: #0dcaf0; color: #000; border-color: #0dcaf0; }
+  #videoPreview { width: 100%; border-radius: .5rem; }
+  /* progress steps */
+  .step-item { display: flex; align-items: center; gap: .6rem; padding: .35rem 0; color: #999; }
+  .step-item.active { color: #0d6efd; font-weight: 600; }
+  .step-item.done { color: #198754; }
+  /* comparison slider */
+  #compareBox { position: relative; overflow: hidden; border-radius: .5rem; }
+  #compareBox img { width: 100%; display: block; }
+  #imgAfter { position: absolute; inset: 0; }
+  #compareHandle {
+    position: absolute; top: 0; bottom: 0; width: 3px; background: #fff;
+    box-shadow: 0 0 6px rgba(0,0,0,.6); pointer-events: none;
+  }
+  .compare-label {
+    position: absolute; top: .5rem; padding: .15rem .5rem; font-size: .75rem;
+    background: rgba(0,0,0,.55); color: #fff; border-radius: .25rem;
+  }
+</style>
+</head>
+<body>
+<div class="container py-4" style="max-width: 900px;">
+  <h1 class="text-center mb-4">AI Selective Zoom</h1>
+
+  <!-- STEP 1: choose image -->
+  <div id="stepSource" class="card mb-4">
+    <div class="card-header"><strong>1.</strong> Choose an image</div>
+    <div class="card-body">
+      <input class="form-control mb-3" type="file" id="fileInput" accept="image/png,image/jpeg">
+      <div class="text-center text-muted mb-2">— or —</div>
+      <button type="button" class="btn btn-outline-secondary w-100" id="openCameraBtn">
+        <i class="bi bi-camera"></i> Use camera
+      </button>
+      <div id="cameraArea" class="hidden mt-3">
+        <video id="videoPreview" autoplay playsinline></video>
+        <button type="button" class="btn btn-secondary w-100 mt-2" id="captureBtn">
+          <i class="bi bi-record-circle"></i> Capture photo
+        </button>
+      </div>
+      <div id="sourceError" class="alert alert-danger mt-3 hidden"></div>
+    </div>
+  </div>
+
+  <!-- STEP 2: edit / select -->
+  <div id="stepEdit" class="card mb-4 hidden">
+    <div class="card-header d-flex justify-content-between align-items-center">
+      <span><strong>2.</strong> Select areas <span class="text-muted small">(optional — skip for automatic mode)</span></span>
+      <button class="btn btn-sm btn-outline-secondary" id="changeImageBtn">Change image</button>
+    </div>
+    <div class="card-body">
+      <div class="btn-group mb-2 flex-wrap" role="group">
+        <button type="button" class="btn btn-outline-info tool-btn" id="toolSam">
+          <i class="bi bi-magic"></i> Smart select
+        </button>
+        <button type="button" class="btn btn-outline-success tool-btn" id="toolFg">
+          <i class="bi bi-brush"></i> Foreground brush
+        </button>
+        <button type="button" class="btn btn-outline-danger tool-btn" id="toolErase">
+          <i class="bi bi-eraser"></i> Eraser
+        </button>
+        <button type="button" class="btn btn-outline-primary tool-btn" id="toolRect">
+          <i class="bi bi-bounding-box"></i> Zoom region
+        </button>
+      </div>
+
+      <div id="samControls" class="hidden mb-2">
+        <div class="row g-2 align-items-center">
+          <div class="col-auto">
+            <div class="btn-group btn-group-sm" role="group">
+              <button type="button" class="btn btn-success active" id="samInclude">
+                <i class="bi bi-plus-circle"></i> Include
+              </button>
+              <button type="button" class="btn btn-outline-danger" id="samExclude">
+                <i class="bi bi-dash-circle"></i> Exclude
+              </button>
+            </div>
+          </div>
+          <div class="col-auto">
+            <button type="button" class="btn btn-sm btn-info" id="samAdd" disabled>
+              <i class="bi bi-check-lg"></i> Add to foreground
+            </button>
+            <button type="button" class="btn btn-sm btn-danger" id="samRemove" disabled>
+              <i class="bi bi-trash"></i> Remove from photo
+            </button>
+            <button type="button" class="btn btn-sm btn-outline-info hidden" id="samFill">
+              <i class="bi bi-square-fill"></i> Use box as-is
+            </button>
+            <button type="button" class="btn btn-sm btn-outline-secondary" id="samClear">
+              Reset
+            </button>
+          </div>
+          <div class="col-auto"><span class="small text-muted" id="samStatus">
+            Click an object, or drag a box around it
+          </span></div>
+        </div>
+      </div>
+      <div class="row g-2 align-items-center mb-3">
+        <div class="col-auto"><label class="col-form-label">Brush size</label></div>
+        <div class="col"><input type="range" class="form-range" id="brushSize" min="5" max="120" value="35"></div>
+        <div class="col-auto">
+          <button type="button" class="btn btn-sm btn-outline-dark" id="undoBtn"><i class="bi bi-arrow-counterclockwise"></i> Undo</button>
+          <button type="button" class="btn btn-sm btn-outline-dark" id="clearBtn"><i class="bi bi-x-circle"></i> Clear</button>
+        </div>
+      </div>
+
+      <div id="editorWrap" class="mb-3">
+        <canvas id="baseCanvas"></canvas>
+        <canvas id="overlayCanvas"></canvas>
+      </div>
+
+      <div class="row g-2 align-items-center mb-3" id="zoomSliderRow">
+        <div class="col-auto"><label for="zoomRange" class="col-form-label">Zoom factor</label></div>
+        <div class="col"><input type="range" class="form-range" id="zoomRange" min="1.0" max="3.0" step="0.1" value="1.5"></div>
+        <div class="col-auto"><span class="badge bg-secondary" id="zoomVal">1.5×</span></div>
+      </div>
+      <div class="alert alert-info py-2 hidden" id="rectInfo">
+        Zoom region selected — background will zoom <strong id="rectZoom">?</strong>.
+        The <strong>white dashed outline</strong> is the exact final framing;
+        everything dimmed will leave the photo.
+        <a href="#" id="removeRect">Remove region</a>
+      </div>
+      <div class="alert alert-secondary py-2 small">
+        <i class="bi bi-info-circle"></i>
+        Paint <span class="text-success fw-bold">green</span> over anything to keep at original size (added to auto-detected subject).
+        Smart select can also mark objects <span class="text-danger fw-bold">red</span> to erase them from the photo.
+        Draw a <span class="text-primary fw-bold">blue box</span> on the background to zoom toward that area.
+        No selections = fully automatic.
+      </div>
+      <div class="d-grid">
+        <button type="button" class="btn btn-primary btn-lg" id="processBtn">
+          <i class="bi bi-magic"></i> Process image
+        </button>
+      </div>
+      <div id="editError" class="alert alert-danger mt-3 hidden"></div>
+    </div>
+  </div>
+
+  <!-- STEP 3: progress -->
+  <div id="stepProgress" class="card mb-4 hidden">
+    <div class="card-header"><strong>3.</strong> Processing…</div>
+    <div class="card-body">
+      <div class="progress mb-3" style="height: 10px;">
+        <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0%"></div>
+      </div>
+      <div id="stepList">
+        <div class="step-item" data-step="models"><i class="bi bi-circle"></i> Loading AI models</div>
+        <div class="step-item" data-step="foreground"><i class="bi bi-circle"></i> Extracting foreground</div>
+        <div class="step-item" data-step="mask"><i class="bi bi-circle"></i> Building selection mask</div>
+        <div class="step-item" data-step="inpaint"><i class="bi bi-circle"></i> Reconstructing background (AI inpainting)</div>
+        <div class="step-item" data-step="zoom"><i class="bi bi-circle"></i> Zooming &amp; enhancing background</div>
+        <div class="step-item" data-step="composite"><i class="bi bi-circle"></i> Compositing final image</div>
+      </div>
+      <div id="jobError" class="alert alert-danger mt-3 hidden"></div>
+    </div>
+  </div>
+
+  <!-- STEP 4: result -->
+  <div id="stepResult" class="card mb-4 hidden">
+    <div class="card-header"><strong>4.</strong> Result — drag the slider to compare</div>
+    <div class="card-body">
+      <div id="compareBox" class="mb-2">
+        <img id="imgBefore" alt="Original">
+        <div id="imgAfter"><img id="imgAfterImg" alt="Processed"></div>
+        <div id="compareHandle"></div>
+        <span class="compare-label" style="left:.5rem;">Original</span>
+        <span class="compare-label" style="right:.5rem;">Processed</span>
+      </div>
+      <input type="range" class="form-range mb-3" id="compareRange" min="0" max="100" value="50">
+      <div class="text-center">
+        <a id="downloadBtn" class="btn btn-success me-2" download="selective_zoom.png">
+          <i class="bi bi-download"></i> Download result
+        </a>
+        <a id="fullResBtn" class="btn btn-primary me-2" target="_blank">
+          <i class="bi bi-arrows-fullscreen"></i> Full resolution
+        </a>
+        <button class="btn btn-outline-secondary" id="restartBtn">
+          <i class="bi bi-arrow-left"></i> Process another image
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+(() => {
+  // ---------- state ----------
+  let imgBitmap = null;        // loaded image
+  let imgW = 0, imgH = 0;
+  let sourceBlob = null;       // original file/capture blob
+  let sourceName = "image.jpg";
+  let tool = "fg";             // fg | erase | rect | sam
+  let drawing = false;
+  let hasStrokes = false;
+  let zoomRect = null;         // {x,y,w,h} in image px
+  let rectStart = null;
+  let undoStack = [];
+  let pollTimer = null;
+  let cameraStream = null;
+  // smart select state
+  let segId = null;
+  let samPoints = [];          // {x, y, label}
+  let samLabel = 1;            // 1 include, 0 exclude
+  let samPreview = null;       // Image of current AI mask
+  let samBusy = false;
+  let samBox = null;           // {x1,y1,x2,y2} box prompt (image px)
+  let samTempBox = null;       // box while dragging
+  let samDragStart = null;
+  let samDragging = false;
+
+  const $ = id => document.getElementById(id);
+  const baseCanvas = $("baseCanvas"), overlayCanvas = $("overlayCanvas");
+  const baseCtx = baseCanvas.getContext("2d");
+  const overlayCtx = overlayCanvas.getContext("2d");
+  const maskCanvas = document.createElement("canvas");
+  const maskCtx = maskCanvas.getContext("2d");
+  const tintCanvas = document.createElement("canvas");
+  const tintCtx = tintCanvas.getContext("2d");
+  const samTintCanvas = document.createElement("canvas");
+  const samTintCtx = samTintCanvas.getContext("2d");
+  const removeCanvas = document.createElement("canvas");
+  const removeCtx = removeCanvas.getContext("2d");
+  const removeTintCanvas = document.createElement("canvas");
+  const removeTintCtx = removeTintCanvas.getContext("2d");
+
+  const show = el => el.classList.remove("hidden");
+  const hide = el => el.classList.add("hidden");
+
+  function setSection(name) {
+    ["stepSource","stepEdit","stepProgress","stepResult"].forEach(s =>
+      s === name ? show($(s)) : hide($(s)));
+  }
+
+  // ---------- image loading ----------
+  $("fileInput").addEventListener("change", e => {
+    if (e.target.files.length) loadImage(e.target.files[0], e.target.files[0].name);
+  });
+
+  $("openCameraBtn").addEventListener("click", async () => {
+    try {
+      cameraStream = await navigator.mediaDevices.getUserMedia(
+        { video: { facingMode: "environment" }, audio: false });
+      $("videoPreview").srcObject = cameraStream;
+      show($("cameraArea"));
+    } catch (err) {
+      $("sourceError").textContent = "Camera error: " + err.message;
+      show($("sourceError"));
+    }
+  });
+
+  $("captureBtn").addEventListener("click", () => {
+    const v = $("videoPreview");
+    if (!v.videoWidth) return;
+    const c = document.createElement("canvas");
+    c.width = v.videoWidth; c.height = v.videoHeight;
+    c.getContext("2d").drawImage(v, 0, 0);
+    c.toBlob(b => loadImage(b, "captured.jpg"), "image/jpeg", 0.95);
+  });
+
+  function stopCamera() {
+    if (cameraStream) { cameraStream.getTracks().forEach(t => t.stop()); cameraStream = null; }
+    hide($("cameraArea"));
+  }
+
+  async function loadImage(blob, name) {
+    sourceBlob = blob; sourceName = name || "image.jpg";
+    imgBitmap = await createImageBitmap(blob);
+    imgW = imgBitmap.width; imgH = imgBitmap.height;
+    [baseCanvas, overlayCanvas, maskCanvas, tintCanvas, samTintCanvas,
+     removeCanvas, removeTintCanvas].forEach(c => { c.width = imgW; c.height = imgH; });
+    baseCtx.drawImage(imgBitmap, 0, 0);
+    maskCtx.clearRect(0, 0, imgW, imgH);
+    removeCtx.clearRect(0, 0, imgW, imgH);
+    hasStrokes = false; zoomRect = null; undoStack = [];
+    segId = null; samPoints = []; samPreview = null;
+    samBox = null; samTempBox = null; samDragging = false;
+    $("samAdd").disabled = true;
+    hide($("samFill"));
+    stopCamera();
+    updateRectUI(); redraw();
+    setSection("stepEdit");
+    setTool("fg");
+    // Upload once and let the server compute the MobileSAM image
+    // embedding now, so the first smart-select click only runs the decoder
+    segInitPromise = initSegSession().catch(() => null);
+  }
+
+  let segInitPromise = null;
+  async function initSegSession() {
+    const fd = new FormData();
+    fd.append("file", sourceBlob, sourceName);
+    const r = await fetch("/segment_init", { method: "POST", body: fd });
+    const d = await r.json();
+    if (!r.ok) throw new Error(d.error || "Init failed");
+    segId = d.seg_id;
+    return segId;
+  }
+
+  $("changeImageBtn").addEventListener("click", () => { setSection("stepSource"); });
+  $("restartBtn").addEventListener("click", () => {
+    $("fileInput").value = ""; setSection("stepSource");
+  });
+
+  // ---------- tools ----------
+  function setTool(t) {
+    tool = t;
+    $("toolFg").classList.toggle("active", t === "fg");
+    $("toolErase").classList.toggle("active", t === "erase");
+    $("toolRect").classList.toggle("active-blue", t === "rect");
+    $("toolSam").classList.toggle("active-info", t === "sam");
+    t === "sam" ? show($("samControls")) : hide($("samControls"));
+  }
+  $("toolFg").addEventListener("click", () => setTool("fg"));
+  $("toolErase").addEventListener("click", () => setTool("erase"));
+  $("toolRect").addEventListener("click", () => setTool("rect"));
+  $("toolSam").addEventListener("click", () => setTool("sam"));
+
+  // smart select controls
+  $("samInclude").addEventListener("click", () => {
+    samLabel = 1;
+    $("samInclude").classList.add("active", "btn-success");
+    $("samInclude").classList.remove("btn-outline-success");
+    $("samExclude").classList.remove("active", "btn-danger");
+    $("samExclude").classList.add("btn-outline-danger");
+  });
+  $("samExclude").addEventListener("click", () => {
+    samLabel = 0;
+    $("samExclude").classList.add("active", "btn-danger");
+    $("samExclude").classList.remove("btn-outline-danger");
+    $("samInclude").classList.remove("active", "btn-success");
+    $("samInclude").classList.add("btn-outline-success");
+  });
+
+  function samReset(statusMsg) {
+    samPoints = []; samPreview = null; samBox = null; samTempBox = null;
+    $("samAdd").disabled = true;
+    $("samRemove").disabled = true;
+    hide($("samFill"));
+    $("samStatus").textContent = statusMsg;
+    redraw();
+  }
+
+  $("samClear").addEventListener("click", () =>
+    samReset("Click an object, or drag a box around it"));
+
+  $("samAdd").addEventListener("click", () => {
+    if (!samPreview) return;
+    pushUndo();
+    maskCtx.globalCompositeOperation = "source-over";
+    maskCtx.drawImage(samPreview, 0, 0, imgW, imgH);
+    hasStrokes = true;
+    samReset("Added! Select another object, or process the image");
+  });
+
+  // erase the selected object from the photo entirely
+  $("samRemove").addEventListener("click", () => {
+    if (!samPreview) return;
+    pushUndo();
+    removeCtx.globalCompositeOperation = "source-over";
+    removeCtx.drawImage(samPreview, 0, 0, imgW, imgH);
+    samReset("Marked for removal! Select more, or process the image");
+  });
+
+  // literal rectangle fill (everything inside the box becomes foreground)
+  $("samFill").addEventListener("click", () => {
+    if (!samBox) return;
+    pushUndo();
+    maskCtx.globalCompositeOperation = "source-over";
+    maskCtx.fillStyle = "#ffffff";
+    maskCtx.fillRect(samBox.x1, samBox.y1,
+                     samBox.x2 - samBox.x1, samBox.y2 - samBox.y1);
+    hasStrokes = true;
+    samReset("Box added! Select more, or process the image");
+  });
+
+  async function samRequest() {
+    if (samBusy) return;
+    samBusy = true;
+    redraw();
+    $("samStatus").textContent = "Segmenting…";
+    try {
+      if (!segId && segInitPromise) await segInitPromise;
+      if (!segId) await initSegSession();
+      const body = {
+        seg_id: segId,
+        points: samPoints.map(q => [Math.round(q.x), Math.round(q.y)]),
+        labels: samPoints.map(q => q.label)
+      };
+      if (samBox) {
+        body.bbox = [Math.round(samBox.x1), Math.round(samBox.y1),
+                     Math.round(samBox.x2), Math.round(samBox.y2)];
+      }
+      const r = await fetch("/segment", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body)
+      });
+      const d = await r.json();
+      if (!r.ok) throw new Error(d.error || "Segmentation failed");
+      samPreview = new Image();
+      samPreview.onload = () => redraw();
+      samPreview.src = d.mask;
+      $("samAdd").disabled = false;
+      $("samRemove").disabled = false;
+      $("samStatus").textContent =
+        "Refine with clicks or a new box, then “Add to foreground”";
+    } catch (err) {
+      if (!samBox) samPoints.pop();
+      $("samStatus").textContent = "⚠ " + err.message;
+      redraw();
+    } finally {
+      samBusy = false;
+    }
+  }
+
+  $("undoBtn").addEventListener("click", () => {
+    if (!undoStack.length) return;
+    const snap = undoStack.pop();
+    maskCtx.clearRect(0, 0, imgW, imgH);
+    maskCtx.putImageData(snap.fg, 0, 0);
+    removeCtx.clearRect(0, 0, imgW, imgH);
+    removeCtx.putImageData(snap.rm, 0, 0);
+    hasStrokes = checkStrokes();
+    redraw();
+  });
+
+  $("clearBtn").addEventListener("click", () => {
+    pushUndo();
+    maskCtx.clearRect(0, 0, imgW, imgH);
+    removeCtx.clearRect(0, 0, imgW, imgH);
+    hasStrokes = false; zoomRect = null;
+    samPoints = []; samPreview = null; samBox = null; samTempBox = null;
+    $("samAdd").disabled = true;
+    $("samRemove").disabled = true;
+    hide($("samFill"));
+    updateRectUI(); redraw();
+  });
+
+  $("removeRect").addEventListener("click", e => {
+    e.preventDefault(); zoomRect = null; updateRectUI(); redraw();
+  });
+
+  function pushUndo() {
+    if (undoStack.length >= 10) undoStack.shift();
+    undoStack.push({
+      fg: maskCtx.getImageData(0, 0, imgW, imgH),
+      rm: removeCtx.getImageData(0, 0, imgW, imgH)
+    });
+  }
+
+  function checkStrokes(ctx) {
+    const d = (ctx || maskCtx).getImageData(0, 0, imgW, imgH).data;
+    for (let i = 3; i < d.length; i += 4) if (d[i] > 0) return true;
+    return false;
+  }
+
+  // ---------- drawing ----------
+  function canvasPos(e) {
+    const r = overlayCanvas.getBoundingClientRect();
+    return {
+      x: (e.clientX - r.left) * (imgW / r.width),
+      y: (e.clientY - r.top) * (imgH / r.height)
+    };
+  }
+
+  overlayCanvas.addEventListener("pointerdown", e => {
+    if (!imgBitmap) return;
+    const p = canvasPos(e);
+    if (tool === "sam") {
+      overlayCanvas.setPointerCapture(e.pointerId);
+      samDragStart = p; samDragging = true; samTempBox = null;
+      return;
+    }
+    overlayCanvas.setPointerCapture(e.pointerId);
+    drawing = true;
+    if (tool === "rect") {
+      rectStart = p; zoomRect = { x: p.x, y: p.y, w: 0, h: 0 };
+    } else {
+      pushUndo();
+      strokeTo(p, true);
+    }
+  });
+
+  overlayCanvas.addEventListener("pointermove", e => {
+    if (samDragging) {
+      const p = canvasPos(e);
+      const dx = Math.abs(p.x - samDragStart.x), dy = Math.abs(p.y - samDragStart.y);
+      samTempBox = (dx > 8 || dy > 8) ? {
+        x1: Math.min(samDragStart.x, p.x), y1: Math.min(samDragStart.y, p.y),
+        x2: Math.max(samDragStart.x, p.x), y2: Math.max(samDragStart.y, p.y)
+      } : null;
+      redraw();
+      return;
+    }
+    if (!drawing) return;
+    const p = canvasPos(e);
+    if (tool === "rect") {
+      zoomRect = {
+        x: Math.min(rectStart.x, p.x), y: Math.min(rectStart.y, p.y),
+        w: Math.abs(p.x - rectStart.x), h: Math.abs(p.y - rectStart.y)
+      };
+      redraw();
+    } else {
+      strokeTo(p, false);
+    }
+  });
+
+  ["pointerup", "pointercancel"].forEach(ev =>
+    overlayCanvas.addEventListener(ev, () => {
+      if (samDragging) {
+        samDragging = false;
+        if (samTempBox) {
+          samBox = samTempBox; samTempBox = null;
+          samPoints = [];              // fresh prompt for the new box
+          show($("samFill"));
+          samRequest();
+        } else {
+          samPoints.push({ x: samDragStart.x, y: samDragStart.y, label: samLabel });
+          samRequest();
+        }
+        return;
+      }
+      if (!drawing) return;
+      drawing = false;
+      if (tool === "rect") {
+        if (zoomRect && (zoomRect.w < 10 || zoomRect.h < 10)) zoomRect = null;
+        updateRectUI(); redraw();
+      } else {
+        maskCtx.beginPath();
+        hasStrokes = hasStrokes || tool === "fg" ? checkStrokes() : checkStrokes();
+        redraw();
+      }
+    }));
+
+  let lastP = null;
+  function strokeTo(p, start) {
+    const size = parseInt($("brushSize").value, 10) * (imgW / overlayCanvas.getBoundingClientRect().width);
+    maskCtx.lineCap = "round"; maskCtx.lineJoin = "round";
+    maskCtx.lineWidth = size;
+    maskCtx.strokeStyle = "#ffffff";
+    maskCtx.globalCompositeOperation = tool === "erase" ? "destination-out" : "source-over";
+    if (start) { maskCtx.beginPath(); maskCtx.moveTo(p.x, p.y); lastP = p; }
+    maskCtx.lineTo(p.x, p.y);
+    maskCtx.stroke();
+    lastP = p;
+    if (tool === "fg") hasStrokes = true;
+    redraw();
+  }
+
+  // ---------- overlay rendering ----------
+  function redraw() {
+    overlayCtx.clearRect(0, 0, imgW, imgH);
+    // green tint for painted foreground
+    tintCtx.clearRect(0, 0, imgW, imgH);
+    tintCtx.globalCompositeOperation = "source-over";
+    tintCtx.drawImage(maskCanvas, 0, 0);
+    tintCtx.globalCompositeOperation = "source-in";
+    tintCtx.fillStyle = "rgba(25,135,84,0.5)";
+    tintCtx.fillRect(0, 0, imgW, imgH);
+    overlayCtx.drawImage(tintCanvas, 0, 0);
+    // red tint for areas marked for removal
+    removeTintCtx.clearRect(0, 0, imgW, imgH);
+    removeTintCtx.globalCompositeOperation = "source-over";
+    removeTintCtx.drawImage(removeCanvas, 0, 0);
+    removeTintCtx.globalCompositeOperation = "source-in";
+    removeTintCtx.fillStyle = "rgba(220,53,69,0.5)";
+    removeTintCtx.fillRect(0, 0, imgW, imgH);
+    overlayCtx.drawImage(removeTintCanvas, 0, 0);
+    // cyan tint for the pending smart-select preview
+    if (samPreview && samPreview.complete) {
+      samTintCtx.clearRect(0, 0, imgW, imgH);
+      samTintCtx.globalCompositeOperation = "source-over";
+      samTintCtx.drawImage(samPreview, 0, 0, imgW, imgH);
+      samTintCtx.globalCompositeOperation = "source-in";
+      samTintCtx.fillStyle = "rgba(13,202,240,0.5)";
+      samTintCtx.fillRect(0, 0, imgW, imgH);
+      overlayCtx.drawImage(samTintCanvas, 0, 0);
+    }
+    // smart-select box prompt (dashed cyan)
+    const sb = samTempBox || samBox;
+    if (sb) {
+      overlayCtx.save();
+      overlayCtx.setLineDash([8, 6]);
+      overlayCtx.strokeStyle = "#0dcaf0";
+      overlayCtx.lineWidth = Math.max(2, imgW / 300);
+      overlayCtx.strokeRect(sb.x1, sb.y1, sb.x2 - sb.x1, sb.y2 - sb.y1);
+      overlayCtx.restore();
+    }
+    // smart-select point markers
+    if (samPoints.length) {
+      const r = Math.max(5, imgW / 120);
+      samPoints.forEach(q => {
+        overlayCtx.beginPath();
+        overlayCtx.arc(q.x, q.y, r, 0, Math.PI * 2);
+        overlayCtx.fillStyle = q.label === 1 ? "#198754" : "#dc3545";
+        overlayCtx.fill();
+        overlayCtx.lineWidth = Math.max(1.5, r / 4);
+        overlayCtx.strokeStyle = "#fff";
+        overlayCtx.stroke();
+      });
+    }
+    // zoom rect: show the EFFECTIVE final framing (aspect-corrected,
+    // zoom-capped, edge-clamped — mirrors backend rect_to_zoom math)
+    if (zoomRect && zoomRect.w > 0 && zoomRect.h > 0) {
+      const { x, y, w, h } = zoomRect;
+      const aspect = imgW / imgH;
+      let cw = Math.max(w, h * aspect);
+      cw = Math.min(cw, imgW);
+      const z = Math.max(1, Math.min(imgW / cw, 4));
+      const ecw = imgW / z, ech = imgH / z;
+      let ex = x + w / 2 - ecw / 2;
+      let ey = y + h / 2 - ech / 2;
+      ex = Math.max(0, Math.min(ex, imgW - ecw));
+      ey = Math.max(0, Math.min(ey, imgH - ech));
+
+      // dim everything OUTSIDE the final framing (what leaves the photo)
+      overlayCtx.fillStyle = "rgba(0,0,0,0.35)";
+      overlayCtx.fillRect(0, 0, imgW, ey);
+      overlayCtx.fillRect(0, ey + ech, imgW, imgH - ey - ech);
+      overlayCtx.fillRect(0, ey, ex, ech);
+      overlayCtx.fillRect(ex + ecw, ey, imgW - ex - ecw, ech);
+
+      // dashed outline = exact final framing
+      overlayCtx.save();
+      overlayCtx.setLineDash([10, 7]);
+      overlayCtx.strokeStyle = "#ffffff";
+      overlayCtx.lineWidth = Math.max(2, imgW / 300);
+      overlayCtx.strokeRect(ex, ey, ecw, ech);
+      overlayCtx.restore();
+
+      // solid blue = the box you drew
+      overlayCtx.strokeStyle = "#0d6efd";
+      overlayCtx.lineWidth = Math.max(2, imgW / 300);
+      overlayCtx.strokeRect(x, y, w, h);
+    }
+  }
+
+  function estZoom() {
+    if (!zoomRect) return null;
+    const z = 1 / Math.max(zoomRect.w / imgW, zoomRect.h / imgH);
+    return Math.min(Math.max(z, 1), 4);
+  }
+
+  function updateRectUI() {
+    const z = estZoom();
+    if (z) {
+      $("rectZoom").textContent = z.toFixed(2) + "×";
+      show($("rectInfo")); hide($("zoomSliderRow"));
+    } else {
+      hide($("rectInfo")); show($("zoomSliderRow"));
+    }
+  }
+
+  $("zoomRange").addEventListener("input", () =>
+    $("zoomVal").textContent = parseFloat($("zoomRange").value).toFixed(1) + "×");
+
+  // ---------- submit & polling ----------
+  $("processBtn").addEventListener("click", async () => {
+    hide($("editError"));
+    const fd = new FormData();
+    fd.append("file", sourceBlob, sourceName);
+    fd.append("zoom", $("zoomRange").value);
+    if (zoomRect) {
+      fd.append("zoom_rect", JSON.stringify({
+        x: zoomRect.x / imgW, y: zoomRect.y / imgH,
+        w: zoomRect.w / imgW, h: zoomRect.h / imgH
+      }));
+    }
+    // export masks on solid black (erased areas must be black, not transparent)
+    const exportMask = async (canvas) => {
+      const ec = document.createElement("canvas");
+      ec.width = imgW; ec.height = imgH;
+      const ectx = ec.getContext("2d");
+      ectx.fillStyle = "#000"; ectx.fillRect(0, 0, imgW, imgH);
+      ectx.drawImage(canvas, 0, 0);
+      return new Promise(res => ec.toBlob(res, "image/png"));
+    };
+    if (hasStrokes) {
+      fd.append("fg_mask", await exportMask(maskCanvas), "fg_mask.png");
+    }
+    if (checkStrokes(removeCtx)) {
+      fd.append("remove_mask", await exportMask(removeCanvas), "remove_mask.png");
+    }
+
+    try {
+      const resp = await fetch("/process", { method: "POST", body: fd });
+      const data = await resp.json();
+      if (!resp.ok) throw new Error(data.error || "Upload failed");
+      setSection("stepProgress");
+      resetProgressUI();
+      pollTimer = setInterval(() => poll(data.job_id), 1200);
+    } catch (err) {
+      $("editError").textContent = err.message;
+      show($("editError"));
+    }
+  });
+
+  const STEP_ORDER = ["models", "foreground", "mask", "inpaint", "zoom", "composite"];
+
+  function resetProgressUI() {
+    hide($("jobError"));
+    $("progressBar").style.width = "0%";
+    document.querySelectorAll(".step-item").forEach(el => {
+      el.className = "step-item";
+      el.querySelector("i").className = "bi bi-circle";
+    });
+  }
+
+  async function poll(jobId) {
+    try {
+      const resp = await fetch("/status/" + jobId);
+      const j = await resp.json();
+      if (!resp.ok) throw new Error(j.error || "Status error");
+
+      $("progressBar").style.width = (j.progress || 0) + "%";
+      const cur = STEP_ORDER.indexOf(j.step);
+      document.querySelectorAll(".step-item").forEach(el => {
+        const idx = STEP_ORDER.indexOf(el.dataset.step);
+        el.className = "step-item";
+        const icon = el.querySelector("i");
+        if (j.status === "done" || idx < cur) {
+          el.classList.add("done"); icon.className = "bi bi-check-circle-fill";
+        } else if (idx === cur) {
+          el.classList.add("active"); icon.className = "bi bi-arrow-repeat";
+        } else {
+          icon.className = "bi bi-circle";
+        }
+      });
+
+      if (j.status === "done") {
+        clearInterval(pollTimer);
+        showResult(j.original_url, j.result_url);
+      } else if (j.status === "error") {
+        clearInterval(pollTimer);
+        $("jobError").textContent = "Processing failed: " + (j.error || "unknown error");
+        show($("jobError"));
+      }
+    } catch (err) {
+      clearInterval(pollTimer);
+      $("jobError").textContent = err.message;
+      show($("jobError"));
+    }
+  }
+
+  // ---------- result comparison ----------
+  function showResult(originalUrl, resultUrl) {
+    $("imgBefore").src = originalUrl;
+    $("imgAfterImg").src = resultUrl;
+    $("downloadBtn").href = resultUrl;
+    $("fullResBtn").href = resultUrl;
+    $("compareRange").value = 50;
+    applyCompare(50);
+    setSection("stepResult");
+  }
+
+  function applyCompare(v) {
+    $("imgAfter").style.clipPath = `inset(0 0 0 ${v}%)`;
+    $("compareHandle").style.left = v + "%";
+  }
+  $("compareRange").addEventListener("input", e => applyCompare(e.target.value));
+
+  // ---------- PWA service worker ----------
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () =>
+      navigator.serviceWorker.register("/sw.js").catch(() => {}));
+  }
+})();
+</script>
+</body>
+</html>

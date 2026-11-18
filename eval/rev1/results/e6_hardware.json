@@ -1,0 +1,10 @@
+{
+ "platform": "Linux-6.17.0-1032-oem-x86_64-with-glibc2.39",
+ "processor": "x86_64",
+ "python": "3.11.16",
+ "torch": "2.11.0+cu128",
+ "gpu": "cuda",
+ "gpu_name": "NVIDIA RTX PRO 4000 Blackwell",
+ "gpu_mem_gb": 23.41741943359375,
+ "cuda": "12.8"
+}

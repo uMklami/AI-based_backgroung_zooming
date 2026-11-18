@@ -1,0 +1,4502 @@
+[
+ {
+  "file": "o_004cddc9.png",
+  "mask_file": "o_004cddc9.png",
+  "name": "o_004cddc9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_009542a4.png",
+  "mask_file": "o_009542a4.png",
+  "name": "o_009542a4",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_029a8efe.png",
+  "mask_file": "o_029a8efe.png",
+  "name": "o_029a8efe",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_03d296a3.png",
+  "mask_file": "o_03d296a3.png",
+  "name": "o_03d296a3",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_045bfd05.png",
+  "mask_file": "o_045bfd05.png",
+  "name": "o_045bfd05",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0530e2e7.png",
+  "mask_file": "o_0530e2e7.png",
+  "name": "o_0530e2e7",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_053490ad.png",
+  "mask_file": "o_053490ad.png",
+  "name": "o_053490ad",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0594a762.png",
+  "mask_file": "o_0594a762.png",
+  "name": "o_0594a762",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0723d28f.png",
+  "mask_file": "o_0723d28f.png",
+  "name": "o_0723d28f",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0810cb44.png",
+  "mask_file": "o_0810cb44.png",
+  "name": "o_0810cb44",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_093764ca.png",
+  "mask_file": "o_093764ca.png",
+  "name": "o_093764ca",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_099cc48f.png",
+  "mask_file": "o_099cc48f.png",
+  "name": "o_099cc48f",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_09b8ed47.png",
+  "mask_file": "o_09b8ed47.png",
+  "name": "o_09b8ed47",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0a09b978.png",
+  "mask_file": "o_0a09b978.png",
+  "name": "o_0a09b978",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0a0ae43d.png",
+  "mask_file": "o_0a0ae43d.png",
+  "name": "o_0a0ae43d",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0a5e5a64.png",
+  "mask_file": "o_0a5e5a64.png",
+  "name": "o_0a5e5a64",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0b376f13.png",
+  "mask_file": "o_0b376f13.png",
+  "name": "o_0b376f13",
+  "type": "STM",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0b7228ec.png",
+  "mask_file": "o_0b7228ec.png",
+  "name": "o_0b7228ec",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0bcaa573.png",
+  "mask_file": "o_0bcaa573.png",
+  "name": "o_0bcaa573",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0bf712f6.png",
+  "mask_file": "o_0bf712f6.png",
+  "name": "o_0bf712f6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0c33063a.png",
+  "mask_file": "o_0c33063a.png",
+  "name": "o_0c33063a",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0c8f03f0.png",
+  "mask_file": "o_0c8f03f0.png",
+  "name": "o_0c8f03f0",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0d55695f.png",
+  "mask_file": "o_0d55695f.png",
+  "name": "o_0d55695f",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0df5178f.png",
+  "mask_file": "o_0df5178f.png",
+  "name": "o_0df5178f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_0fc8d771.png",
+  "mask_file": "o_0fc8d771.png",
+  "name": "o_0fc8d771",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_10c239b7.png",
+  "mask_file": "o_10c239b7.png",
+  "name": "o_10c239b7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_11fef2b7.png",
+  "mask_file": "o_11fef2b7.png",
+  "name": "o_11fef2b7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_122b2e34.png",
+  "mask_file": "o_122b2e34.png",
+  "name": "o_122b2e34",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_125071d5.png",
+  "mask_file": "o_125071d5.png",
+  "name": "o_125071d5",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_12b8b946.png",
+  "mask_file": "o_12b8b946.png",
+  "name": "o_12b8b946",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_12c828bc.png",
+  "mask_file": "o_12c828bc.png",
+  "name": "o_12c828bc",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1462ee19.png",
+  "mask_file": "o_1462ee19.png",
+  "name": "o_1462ee19",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1467861e.png",
+  "mask_file": "o_1467861e.png",
+  "name": "o_1467861e",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_14a9d723.png",
+  "mask_file": "o_14a9d723.png",
+  "name": "o_14a9d723",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_14cfc225.png",
+  "mask_file": "o_14cfc225.png",
+  "name": "o_14cfc225",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_152611ad.png",
+  "mask_file": "o_152611ad.png",
+  "name": "o_152611ad",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1546f28b.png",
+  "mask_file": "o_1546f28b.png",
+  "name": "o_1546f28b",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_162b27f9.png",
+  "mask_file": "o_162b27f9.png",
+  "name": "o_162b27f9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_16511265.png",
+  "mask_file": "o_16511265.png",
+  "name": "o_16511265",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_16740854.png",
+  "mask_file": "o_16740854.png",
+  "name": "o_16740854",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_16bf19b5.png",
+  "mask_file": "o_16bf19b5.png",
+  "name": "o_16bf19b5",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_197d7af1.png",
+  "mask_file": "o_197d7af1.png",
+  "name": "o_197d7af1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1a9abc07.png",
+  "mask_file": "o_1a9abc07.png",
+  "name": "o_1a9abc07",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1ab9353d.png",
+  "mask_file": "o_1ab9353d.png",
+  "name": "o_1ab9353d",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1ae3ae29.png",
+  "mask_file": "o_1ae3ae29.png",
+  "name": "o_1ae3ae29",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1b0bfdee.png",
+  "mask_file": "o_1b0bfdee.png",
+  "name": "o_1b0bfdee",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1b224771.png",
+  "mask_file": "o_1b224771.png",
+  "name": "o_1b224771",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1b4c1dfc.png",
+  "mask_file": "o_1b4c1dfc.png",
+  "name": "o_1b4c1dfc",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1b6adf19.png",
+  "mask_file": "o_1b6adf19.png",
+  "name": "o_1b6adf19",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1bedbb91.png",
+  "mask_file": "o_1bedbb91.png",
+  "name": "o_1bedbb91",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1c321c56.png",
+  "mask_file": "o_1c321c56.png",
+  "name": "o_1c321c56",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1c640020.png",
+  "mask_file": "o_1c640020.png",
+  "name": "o_1c640020",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1ea2b894.png",
+  "mask_file": "o_1ea2b894.png",
+  "name": "o_1ea2b894",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1eb22a49.png",
+  "mask_file": "o_1eb22a49.png",
+  "name": "o_1eb22a49",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1edbc402.png",
+  "mask_file": "o_1edbc402.png",
+  "name": "o_1edbc402",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1f05f13c.png",
+  "mask_file": "o_1f05f13c.png",
+  "name": "o_1f05f13c",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_1f836c45.png",
+  "mask_file": "o_1f836c45.png",
+  "name": "o_1f836c45",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_202fb858.png",
+  "mask_file": "o_202fb858.png",
+  "name": "o_202fb858",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_214a5da4.png",
+  "mask_file": "o_214a5da4.png",
+  "name": "o_214a5da4",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_21c101d5.png",
+  "mask_file": "o_21c101d5.png",
+  "name": "o_21c101d5",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_22627075.png",
+  "mask_file": "o_22627075.png",
+  "name": "o_22627075",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_22dc01b9.png",
+  "mask_file": "o_22dc01b9.png",
+  "name": "o_22dc01b9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2309157d.png",
+  "mask_file": "o_2309157d.png",
+  "name": "o_2309157d",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_23bbcc9d.png",
+  "mask_file": "o_23bbcc9d.png",
+  "name": "o_23bbcc9d",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2427e4a6.png",
+  "mask_file": "o_2427e4a6.png",
+  "name": "o_2427e4a6",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_246bd3c3.png",
+  "mask_file": "o_246bd3c3.png",
+  "name": "o_246bd3c3",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_247d445d.png",
+  "mask_file": "o_247d445d.png",
+  "name": "o_247d445d",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_260f47c8.png",
+  "mask_file": "o_260f47c8.png",
+  "name": "o_260f47c8",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_26268b4b.png",
+  "mask_file": "o_26268b4b.png",
+  "name": "o_26268b4b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_263a94b8.png",
+  "mask_file": "o_263a94b8.png",
+  "name": "o_263a94b8",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_268a126b.png",
+  "mask_file": "o_268a126b.png",
+  "name": "o_268a126b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_26afdcad.png",
+  "mask_file": "o_26afdcad.png",
+  "name": "o_26afdcad",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_26b16002.png",
+  "mask_file": "o_26b16002.png",
+  "name": "o_26b16002",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2749e288.png",
+  "mask_file": "o_2749e288.png",
+  "name": "o_2749e288",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_27a6c2d7.png",
+  "mask_file": "o_27a6c2d7.png",
+  "name": "o_27a6c2d7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_28ad039c.png",
+  "mask_file": "o_28ad039c.png",
+  "name": "o_28ad039c",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2941a07a.png",
+  "mask_file": "o_2941a07a.png",
+  "name": "o_2941a07a",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2972dbc2.png",
+  "mask_file": "o_2972dbc2.png",
+  "name": "o_2972dbc2",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2a4715ae.png",
+  "mask_file": "o_2a4715ae.png",
+  "name": "o_2a4715ae",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2b0e2eed.png",
+  "mask_file": "o_2b0e2eed.png",
+  "name": "o_2b0e2eed",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2b9227eb.png",
+  "mask_file": "o_2b9227eb.png",
+  "name": "o_2b9227eb",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2be0f6c9.png",
+  "mask_file": "o_2be0f6c9.png",
+  "name": "o_2be0f6c9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2c03ea4e.png",
+  "mask_file": "o_2c03ea4e.png",
+  "name": "o_2c03ea4e",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2c5d1d42.png",
+  "mask_file": "o_2c5d1d42.png",
+  "name": "o_2c5d1d42",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2d4043cb.png",
+  "mask_file": "o_2d4043cb.png",
+  "name": "o_2d4043cb",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2edac560.png",
+  "mask_file": "o_2edac560.png",
+  "name": "o_2edac560",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_2f033b3c.png",
+  "mask_file": "o_2f033b3c.png",
+  "name": "o_2f033b3c",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_32846c6a.png",
+  "mask_file": "o_32846c6a.png",
+  "name": "o_32846c6a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_32b692c3.png",
+  "mask_file": "o_32b692c3.png",
+  "name": "o_32b692c3",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_32e8ba1e.png",
+  "mask_file": "o_32e8ba1e.png",
+  "name": "o_32e8ba1e",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3312a26e.png",
+  "mask_file": "o_3312a26e.png",
+  "name": "o_3312a26e",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_33a4da38.png",
+  "mask_file": "o_33a4da38.png",
+  "name": "o_33a4da38",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_33d1515f.png",
+  "mask_file": "o_33d1515f.png",
+  "name": "o_33d1515f",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_34cddc11.png",
+  "mask_file": "o_34cddc11.png",
+  "name": "o_34cddc11",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_34d216ed.png",
+  "mask_file": "o_34d216ed.png",
+  "name": "o_34d216ed",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3579fa4c.png",
+  "mask_file": "o_3579fa4c.png",
+  "name": "o_3579fa4c",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_35d8df37.png",
+  "mask_file": "o_35d8df37.png",
+  "name": "o_35d8df37",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_36848b17.png",
+  "mask_file": "o_36848b17.png",
+  "name": "o_36848b17",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_36d9b42a.png",
+  "mask_file": "o_36d9b42a.png",
+  "name": "o_36d9b42a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_36fb7b85.png",
+  "mask_file": "o_36fb7b85.png",
+  "name": "o_36fb7b85",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3715959a.png",
+  "mask_file": "o_3715959a.png",
+  "name": "o_3715959a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_376c6d94.png",
+  "mask_file": "o_376c6d94.png",
+  "name": "o_376c6d94",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3794e715.png",
+  "mask_file": "o_3794e715.png",
+  "name": "o_3794e715",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_380bb319.png",
+  "mask_file": "o_380bb319.png",
+  "name": "o_380bb319",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3813eacb.png",
+  "mask_file": "o_3813eacb.png",
+  "name": "o_3813eacb",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_385e7ee8.png",
+  "mask_file": "o_385e7ee8.png",
+  "name": "o_385e7ee8",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_386e1cc3.png",
+  "mask_file": "o_386e1cc3.png",
+  "name": "o_386e1cc3",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3890ea10.png",
+  "mask_file": "o_3890ea10.png",
+  "name": "o_3890ea10",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_399eae2a.png",
+  "mask_file": "o_399eae2a.png",
+  "name": "o_399eae2a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3a9a5e7c.png",
+  "mask_file": "o_3a9a5e7c.png",
+  "name": "o_3a9a5e7c",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3b543a82.png",
+  "mask_file": "o_3b543a82.png",
+  "name": "o_3b543a82",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3b6f37e9.png",
+  "mask_file": "o_3b6f37e9.png",
+  "name": "o_3b6f37e9",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3c0b2617.png",
+  "mask_file": "o_3c0b2617.png",
+  "name": "o_3c0b2617",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3c65e352.png",
+  "mask_file": "o_3c65e352.png",
+  "name": "o_3c65e352",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3c7ed100.png",
+  "mask_file": "o_3c7ed100.png",
+  "name": "o_3c7ed100",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3e213bb1.png",
+  "mask_file": "o_3e213bb1.png",
+  "name": "o_3e213bb1",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_3e33c72d.png",
+  "mask_file": "o_3e33c72d.png",
+  "name": "o_3e33c72d",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_402b3954.png",
+  "mask_file": "o_402b3954.png",
+  "name": "o_402b3954",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_404618b5.png",
+  "mask_file": "o_404618b5.png",
+  "name": "o_404618b5",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_418d6d35.png",
+  "mask_file": "o_418d6d35.png",
+  "name": "o_418d6d35",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4259400f.png",
+  "mask_file": "o_4259400f.png",
+  "name": "o_4259400f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_428276f8.png",
+  "mask_file": "o_428276f8.png",
+  "name": "o_428276f8",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_42840dbf.png",
+  "mask_file": "o_42840dbf.png",
+  "name": "o_42840dbf",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_42cc3714.png",
+  "mask_file": "o_42cc3714.png",
+  "name": "o_42cc3714",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_433595f0.png",
+  "mask_file": "o_433595f0.png",
+  "name": "o_433595f0",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_43ebe1e3.png",
+  "mask_file": "o_43ebe1e3.png",
+  "name": "o_43ebe1e3",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_43fec7a1.png",
+  "mask_file": "o_43fec7a1.png",
+  "name": "o_43fec7a1",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_44068300.png",
+  "mask_file": "o_44068300.png",
+  "name": "o_44068300",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_443e89d1.png",
+  "mask_file": "o_443e89d1.png",
+  "name": "o_443e89d1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_44dd34a4.png",
+  "mask_file": "o_44dd34a4.png",
+  "name": "o_44dd34a4",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4622cbb8.png",
+  "mask_file": "o_4622cbb8.png",
+  "name": "o_4622cbb8",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_46818bea.png",
+  "mask_file": "o_46818bea.png",
+  "name": "o_46818bea",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_46886800.png",
+  "mask_file": "o_46886800.png",
+  "name": "o_46886800",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_46a94998.png",
+  "mask_file": "o_46a94998.png",
+  "name": "o_46a94998",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4729fa87.png",
+  "mask_file": "o_4729fa87.png",
+  "name": "o_4729fa87",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_479bb899.png",
+  "mask_file": "o_479bb899.png",
+  "name": "o_479bb899",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4852f7d4.png",
+  "mask_file": "o_4852f7d4.png",
+  "name": "o_4852f7d4",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_494867da.png",
+  "mask_file": "o_494867da.png",
+  "name": "o_494867da",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4abc8a81.png",
+  "mask_file": "o_4abc8a81.png",
+  "name": "o_4abc8a81",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4c33b91e.png",
+  "mask_file": "o_4c33b91e.png",
+  "name": "o_4c33b91e",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4cd1839f.png",
+  "mask_file": "o_4cd1839f.png",
+  "name": "o_4cd1839f",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4dbaa0fb.png",
+  "mask_file": "o_4dbaa0fb.png",
+  "name": "o_4dbaa0fb",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4f134e05.png",
+  "mask_file": "o_4f134e05.png",
+  "name": "o_4f134e05",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4f7b0699.png",
+  "mask_file": "o_4f7b0699.png",
+  "name": "o_4f7b0699",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_4faab6b7.png",
+  "mask_file": "o_4faab6b7.png",
+  "name": "o_4faab6b7",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5031923f.png",
+  "mask_file": "o_5031923f.png",
+  "name": "o_5031923f",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_507a9a58.png",
+  "mask_file": "o_507a9a58.png",
+  "name": "o_507a9a58",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_508fa8da.png",
+  "mask_file": "o_508fa8da.png",
+  "name": "o_508fa8da",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_50ebb2a6.png",
+  "mask_file": "o_50ebb2a6.png",
+  "name": "o_50ebb2a6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_51873814.png",
+  "mask_file": "o_51873814.png",
+  "name": "o_51873814",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_51f5ae17.png",
+  "mask_file": "o_51f5ae17.png",
+  "name": "o_51f5ae17",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5219d2ba.png",
+  "mask_file": "o_5219d2ba.png",
+  "name": "o_5219d2ba",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_527e5a54.png",
+  "mask_file": "o_527e5a54.png",
+  "name": "o_527e5a54",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_52a2115b.png",
+  "mask_file": "o_52a2115b.png",
+  "name": "o_52a2115b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_52aadf1d.png",
+  "mask_file": "o_52aadf1d.png",
+  "name": "o_52aadf1d",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_53100c73.png",
+  "mask_file": "o_53100c73.png",
+  "name": "o_53100c73",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5313b681.png",
+  "mask_file": "o_5313b681.png",
+  "name": "o_5313b681",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_542332e9.png",
+  "mask_file": "o_542332e9.png",
+  "name": "o_542332e9",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_54308893.png",
+  "mask_file": "o_54308893.png",
+  "name": "o_54308893",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5517109c.png",
+  "mask_file": "o_5517109c.png",
+  "name": "o_5517109c",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_561c2a05.png",
+  "mask_file": "o_561c2a05.png",
+  "name": "o_561c2a05",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_56af7329.png",
+  "mask_file": "o_56af7329.png",
+  "name": "o_56af7329",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_57102043.png",
+  "mask_file": "o_57102043.png",
+  "name": "o_57102043",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_57684f7c.png",
+  "mask_file": "o_57684f7c.png",
+  "name": "o_57684f7c",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_57993d37.png",
+  "mask_file": "o_57993d37.png",
+  "name": "o_57993d37",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_57e4d780.png",
+  "mask_file": "o_57e4d780.png",
+  "name": "o_57e4d780",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_57fd5490.png",
+  "mask_file": "o_57fd5490.png",
+  "name": "o_57fd5490",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5851551d.png",
+  "mask_file": "o_5851551d.png",
+  "name": "o_5851551d",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_588650fe.png",
+  "mask_file": "o_588650fe.png",
+  "name": "o_588650fe",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_58b0c79e.png",
+  "mask_file": "o_58b0c79e.png",
+  "name": "o_58b0c79e",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_599b2611.png",
+  "mask_file": "o_599b2611.png",
+  "name": "o_599b2611",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_59db95e2.png",
+  "mask_file": "o_59db95e2.png",
+  "name": "o_59db95e2",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5a15b5f2.png",
+  "mask_file": "o_5a15b5f2.png",
+  "name": "o_5a15b5f2",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5a248199.png",
+  "mask_file": "o_5a248199.png",
+  "name": "o_5a248199",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5c1f8c64.png",
+  "mask_file": "o_5c1f8c64.png",
+  "name": "o_5c1f8c64",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5d14b7e3.png",
+  "mask_file": "o_5d14b7e3.png",
+  "name": "o_5d14b7e3",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5d53cc84.png",
+  "mask_file": "o_5d53cc84.png",
+  "name": "o_5d53cc84",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5dad52d4.png",
+  "mask_file": "o_5dad52d4.png",
+  "name": "o_5dad52d4",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5e7d1db9.png",
+  "mask_file": "o_5e7d1db9.png",
+  "name": "o_5e7d1db9",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_5e83cbbe.png",
+  "mask_file": "o_5e83cbbe.png",
+  "name": "o_5e83cbbe",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_60104376.png",
+  "mask_file": "o_60104376.png",
+  "name": "o_60104376",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_610852d2.png",
+  "mask_file": "o_610852d2.png",
+  "name": "o_610852d2",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_61e47e14.png",
+  "mask_file": "o_61e47e14.png",
+  "name": "o_61e47e14",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_62645d10.png",
+  "mask_file": "o_62645d10.png",
+  "name": "o_62645d10",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_62ae16d7.png",
+  "mask_file": "o_62ae16d7.png",
+  "name": "o_62ae16d7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_62ecad5c.png",
+  "mask_file": "o_62ecad5c.png",
+  "name": "o_62ecad5c",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_62f63948.png",
+  "mask_file": "o_62f63948.png",
+  "name": "o_62f63948",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6372e660.png",
+  "mask_file": "o_6372e660.png",
+  "name": "o_6372e660",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_642f96e7.png",
+  "mask_file": "o_642f96e7.png",
+  "name": "o_642f96e7",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6440e51e.png",
+  "mask_file": "o_6440e51e.png",
+  "name": "o_6440e51e",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6449cd22.png",
+  "mask_file": "o_6449cd22.png",
+  "name": "o_6449cd22",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_659c5db8.png",
+  "mask_file": "o_659c5db8.png",
+  "name": "o_659c5db8",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_65e532ef.png",
+  "mask_file": "o_65e532ef.png",
+  "name": "o_65e532ef",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_660c8ca2.png",
+  "mask_file": "o_660c8ca2.png",
+  "name": "o_660c8ca2",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_663090ad.png",
+  "mask_file": "o_663090ad.png",
+  "name": "o_663090ad",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_669ed3b5.png",
+  "mask_file": "o_669ed3b5.png",
+  "name": "o_669ed3b5",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_66d830ec.png",
+  "mask_file": "o_66d830ec.png",
+  "name": "o_66d830ec",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_67b293e1.png",
+  "mask_file": "o_67b293e1.png",
+  "name": "o_67b293e1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_67f36f9b.png",
+  "mask_file": "o_67f36f9b.png",
+  "name": "o_67f36f9b",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_684f0dfb.png",
+  "mask_file": "o_684f0dfb.png",
+  "name": "o_684f0dfb",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_69419c83.png",
+  "mask_file": "o_69419c83.png",
+  "name": "o_69419c83",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_69a1b2bd.png",
+  "mask_file": "o_69a1b2bd.png",
+  "name": "o_69a1b2bd",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_69cc3268.png",
+  "mask_file": "o_69cc3268.png",
+  "name": "o_69cc3268",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6aad0ebc.png",
+  "mask_file": "o_6aad0ebc.png",
+  "name": "o_6aad0ebc",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6b15071e.png",
+  "mask_file": "o_6b15071e.png",
+  "name": "o_6b15071e",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6b25213e.png",
+  "mask_file": "o_6b25213e.png",
+  "name": "o_6b25213e",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6be50c56.png",
+  "mask_file": "o_6be50c56.png",
+  "name": "o_6be50c56",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6be8474d.png",
+  "mask_file": "o_6be8474d.png",
+  "name": "o_6be8474d",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6be972db.png",
+  "mask_file": "o_6be972db.png",
+  "name": "o_6be972db",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6c3d1433.png",
+  "mask_file": "o_6c3d1433.png",
+  "name": "o_6c3d1433",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6cd9e070.png",
+  "mask_file": "o_6cd9e070.png",
+  "name": "o_6cd9e070",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6d345648.png",
+  "mask_file": "o_6d345648.png",
+  "name": "o_6d345648",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6d96d978.png",
+  "mask_file": "o_6d96d978.png",
+  "name": "o_6d96d978",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6e470e4a.png",
+  "mask_file": "o_6e470e4a.png",
+  "name": "o_6e470e4a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6e4a7373.png",
+  "mask_file": "o_6e4a7373.png",
+  "name": "o_6e4a7373",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_6fe67986.png",
+  "mask_file": "o_6fe67986.png",
+  "name": "o_6fe67986",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7000c826.png",
+  "mask_file": "o_7000c826.png",
+  "name": "o_7000c826",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_701f4571.png",
+  "mask_file": "o_701f4571.png",
+  "name": "o_701f4571",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_706c33eb.png",
+  "mask_file": "o_706c33eb.png",
+  "name": "o_706c33eb",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_70f45df9.png",
+  "mask_file": "o_70f45df9.png",
+  "name": "o_70f45df9",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_71dcc519.png",
+  "mask_file": "o_71dcc519.png",
+  "name": "o_71dcc519",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_71ed1e79.png",
+  "mask_file": "o_71ed1e79.png",
+  "name": "o_71ed1e79",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_71f98381.png",
+  "mask_file": "o_71f98381.png",
+  "name": "o_71f98381",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_72a1f9ed.png",
+  "mask_file": "o_72a1f9ed.png",
+  "name": "o_72a1f9ed",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_72d7b2ec.png",
+  "mask_file": "o_72d7b2ec.png",
+  "name": "o_72d7b2ec",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_730a673b.png",
+  "mask_file": "o_730a673b.png",
+  "name": "o_730a673b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_73696a44.png",
+  "mask_file": "o_73696a44.png",
+  "name": "o_73696a44",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_73c97d7e.png",
+  "mask_file": "o_73c97d7e.png",
+  "name": "o_73c97d7e",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_740b4c5d.png",
+  "mask_file": "o_740b4c5d.png",
+  "name": "o_740b4c5d",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_741da4bb.png",
+  "mask_file": "o_741da4bb.png",
+  "name": "o_741da4bb",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_74234bc8.png",
+  "mask_file": "o_74234bc8.png",
+  "name": "o_74234bc8",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_74905c15.png",
+  "mask_file": "o_74905c15.png",
+  "name": "o_74905c15",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_751bcc44.png",
+  "mask_file": "o_751bcc44.png",
+  "name": "o_751bcc44",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_766d8742.png",
+  "mask_file": "o_766d8742.png",
+  "name": "o_766d8742",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_76b23f51.png",
+  "mask_file": "o_76b23f51.png",
+  "name": "o_76b23f51",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_76c7dc77.png",
+  "mask_file": "o_76c7dc77.png",
+  "name": "o_76c7dc77",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_76e29963.png",
+  "mask_file": "o_76e29963.png",
+  "name": "o_76e29963",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_776a8d45.png",
+  "mask_file": "o_776a8d45.png",
+  "name": "o_776a8d45",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_77d7a529.png",
+  "mask_file": "o_77d7a529.png",
+  "name": "o_77d7a529",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_780f404a.png",
+  "mask_file": "o_780f404a.png",
+  "name": "o_780f404a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_790c2756.png",
+  "mask_file": "o_790c2756.png",
+  "name": "o_790c2756",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_790de510.png",
+  "mask_file": "o_790de510.png",
+  "name": "o_790de510",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_79716548.png",
+  "mask_file": "o_79716548.png",
+  "name": "o_79716548",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_798a02d7.png",
+  "mask_file": "o_798a02d7.png",
+  "name": "o_798a02d7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_79c32126.png",
+  "mask_file": "o_79c32126.png",
+  "name": "o_79c32126",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7a796168.png",
+  "mask_file": "o_7a796168.png",
+  "name": "o_7a796168",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7b1db264.png",
+  "mask_file": "o_7b1db264.png",
+  "name": "o_7b1db264",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7c642e86.png",
+  "mask_file": "o_7c642e86.png",
+  "name": "o_7c642e86",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7c88f64e.png",
+  "mask_file": "o_7c88f64e.png",
+  "name": "o_7c88f64e",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7c8926da.png",
+  "mask_file": "o_7c8926da.png",
+  "name": "o_7c8926da",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7ccbf2cd.png",
+  "mask_file": "o_7ccbf2cd.png",
+  "name": "o_7ccbf2cd",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7e259686.png",
+  "mask_file": "o_7e259686.png",
+  "name": "o_7e259686",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7e3075f5.png",
+  "mask_file": "o_7e3075f5.png",
+  "name": "o_7e3075f5",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7e8fdc47.png",
+  "mask_file": "o_7e8fdc47.png",
+  "name": "o_7e8fdc47",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7f008485.png",
+  "mask_file": "o_7f008485.png",
+  "name": "o_7f008485",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7f028221.png",
+  "mask_file": "o_7f028221.png",
+  "name": "o_7f028221",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7f2daed3.png",
+  "mask_file": "o_7f2daed3.png",
+  "name": "o_7f2daed3",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7fe72892.png",
+  "mask_file": "o_7fe72892.png",
+  "name": "o_7fe72892",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_7ffe1249.png",
+  "mask_file": "o_7ffe1249.png",
+  "name": "o_7ffe1249",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_801135ce.png",
+  "mask_file": "o_801135ce.png",
+  "name": "o_801135ce",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_80193d44.png",
+  "mask_file": "o_80193d44.png",
+  "name": "o_80193d44",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8151559f.png",
+  "mask_file": "o_8151559f.png",
+  "name": "o_8151559f",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_819ee421.png",
+  "mask_file": "o_819ee421.png",
+  "name": "o_819ee421",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_81df2025.png",
+  "mask_file": "o_81df2025.png",
+  "name": "o_81df2025",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8215b759.png",
+  "mask_file": "o_8215b759.png",
+  "name": "o_8215b759",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_82a97798.png",
+  "mask_file": "o_82a97798.png",
+  "name": "o_82a97798",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_82d2a9b9.png",
+  "mask_file": "o_82d2a9b9.png",
+  "name": "o_82d2a9b9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8431ecb9.png",
+  "mask_file": "o_8431ecb9.png",
+  "name": "o_8431ecb9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_84860d09.png",
+  "mask_file": "o_84860d09.png",
+  "name": "o_84860d09",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_84d5e4e7.png",
+  "mask_file": "o_84d5e4e7.png",
+  "name": "o_84d5e4e7",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_84eeb5ed.png",
+  "mask_file": "o_84eeb5ed.png",
+  "name": "o_84eeb5ed",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8561c976.png",
+  "mask_file": "o_8561c976.png",
+  "name": "o_8561c976",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_85ac3d9a.png",
+  "mask_file": "o_85ac3d9a.png",
+  "name": "o_85ac3d9a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_86527a2b.png",
+  "mask_file": "o_86527a2b.png",
+  "name": "o_86527a2b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_868c53f0.png",
+  "mask_file": "o_868c53f0.png",
+  "name": "o_868c53f0",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_876ab6b6.png",
+  "mask_file": "o_876ab6b6.png",
+  "name": "o_876ab6b6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_87e77b32.png",
+  "mask_file": "o_87e77b32.png",
+  "name": "o_87e77b32",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_87ed5d9e.png",
+  "mask_file": "o_87ed5d9e.png",
+  "name": "o_87ed5d9e",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8861e554.png",
+  "mask_file": "o_8861e554.png",
+  "name": "o_8861e554",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8a402a51.png",
+  "mask_file": "o_8a402a51.png",
+  "name": "o_8a402a51",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8a66ede1.png",
+  "mask_file": "o_8a66ede1.png",
+  "name": "o_8a66ede1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8b80a750.png",
+  "mask_file": "o_8b80a750.png",
+  "name": "o_8b80a750",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8c19e1a8.png",
+  "mask_file": "o_8c19e1a8.png",
+  "name": "o_8c19e1a8",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8c31f783.png",
+  "mask_file": "o_8c31f783.png",
+  "name": "o_8c31f783",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8ca72949.png",
+  "mask_file": "o_8ca72949.png",
+  "name": "o_8ca72949",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8d099c35.png",
+  "mask_file": "o_8d099c35.png",
+  "name": "o_8d099c35",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8e17d667.png",
+  "mask_file": "o_8e17d667.png",
+  "name": "o_8e17d667",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8e2eb72f.png",
+  "mask_file": "o_8e2eb72f.png",
+  "name": "o_8e2eb72f",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8e8380f0.png",
+  "mask_file": "o_8e8380f0.png",
+  "name": "o_8e8380f0",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8ede15d6.png",
+  "mask_file": "o_8ede15d6.png",
+  "name": "o_8ede15d6",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8f254dc3.png",
+  "mask_file": "o_8f254dc3.png",
+  "name": "o_8f254dc3",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_8f8eb959.png",
+  "mask_file": "o_8f8eb959.png",
+  "name": "o_8f8eb959",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_90862fb0.png",
+  "mask_file": "o_90862fb0.png",
+  "name": "o_90862fb0",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_90a7597b.png",
+  "mask_file": "o_90a7597b.png",
+  "name": "o_90a7597b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_90c028ce.png",
+  "mask_file": "o_90c028ce.png",
+  "name": "o_90c028ce",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9109fee5.png",
+  "mask_file": "o_9109fee5.png",
+  "name": "o_9109fee5",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_91141ea8.png",
+  "mask_file": "o_91141ea8.png",
+  "name": "o_91141ea8",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_912d43be.png",
+  "mask_file": "o_912d43be.png",
+  "name": "o_912d43be",
+  "type": "SO",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_915eb7f8.png",
+  "mask_file": "o_915eb7f8.png",
+  "name": "o_915eb7f8",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9166152f.png",
+  "mask_file": "o_9166152f.png",
+  "name": "o_9166152f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9405fe2d.png",
+  "mask_file": "o_9405fe2d.png",
+  "name": "o_9405fe2d",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_94afaf0a.png",
+  "mask_file": "o_94afaf0a.png",
+  "name": "o_94afaf0a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9539f16c.png",
+  "mask_file": "o_9539f16c.png",
+  "name": "o_9539f16c",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9666a981.png",
+  "mask_file": "o_9666a981.png",
+  "name": "o_9666a981",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_97a204f5.png",
+  "mask_file": "o_97a204f5.png",
+  "name": "o_97a204f5",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_985513ba.png",
+  "mask_file": "o_985513ba.png",
+  "name": "o_985513ba",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_98c4c527.png",
+  "mask_file": "o_98c4c527.png",
+  "name": "o_98c4c527",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9992c618.png",
+  "mask_file": "o_9992c618.png",
+  "name": "o_9992c618",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9a3b9f8a.png",
+  "mask_file": "o_9a3b9f8a.png",
+  "name": "o_9a3b9f8a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9c2968c9.png",
+  "mask_file": "o_9c2968c9.png",
+  "name": "o_9c2968c9",
+  "type": "STM",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9d3a710b.png",
+  "mask_file": "o_9d3a710b.png",
+  "name": "o_9d3a710b",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9d777ce8.png",
+  "mask_file": "o_9d777ce8.png",
+  "name": "o_9d777ce8",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9dbaf589.png",
+  "mask_file": "o_9dbaf589.png",
+  "name": "o_9dbaf589",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9f06988d.png",
+  "mask_file": "o_9f06988d.png",
+  "name": "o_9f06988d",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_9fb57e99.png",
+  "mask_file": "o_9fb57e99.png",
+  "name": "o_9fb57e99",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a0c1d0d2.png",
+  "mask_file": "o_a0c1d0d2.png",
+  "name": "o_a0c1d0d2",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a1513d78.png",
+  "mask_file": "o_a1513d78.png",
+  "name": "o_a1513d78",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a2b8a909.png",
+  "mask_file": "o_a2b8a909.png",
+  "name": "o_a2b8a909",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a3132475.png",
+  "mask_file": "o_a3132475.png",
+  "name": "o_a3132475",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a31a0472.png",
+  "mask_file": "o_a31a0472.png",
+  "name": "o_a31a0472",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a3798f05.png",
+  "mask_file": "o_a3798f05.png",
+  "name": "o_a3798f05",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a3d4c2a6.png",
+  "mask_file": "o_a3d4c2a6.png",
+  "name": "o_a3d4c2a6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a5038aad.png",
+  "mask_file": "o_a5038aad.png",
+  "name": "o_a5038aad",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a5ba6f84.png",
+  "mask_file": "o_a5ba6f84.png",
+  "name": "o_a5ba6f84",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a73b4983.png",
+  "mask_file": "o_a73b4983.png",
+  "name": "o_a73b4983",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a7425b42.png",
+  "mask_file": "o_a7425b42.png",
+  "name": "o_a7425b42",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a77d35f1.png",
+  "mask_file": "o_a77d35f1.png",
+  "name": "o_a77d35f1",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a7df1f8f.png",
+  "mask_file": "o_a7df1f8f.png",
+  "name": "o_a7df1f8f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a8b755f5.png",
+  "mask_file": "o_a8b755f5.png",
+  "name": "o_a8b755f5",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a974d3a3.png",
+  "mask_file": "o_a974d3a3.png",
+  "name": "o_a974d3a3",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a9cac469.png",
+  "mask_file": "o_a9cac469.png",
+  "name": "o_a9cac469",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_a9d87400.png",
+  "mask_file": "o_a9d87400.png",
+  "name": "o_a9d87400",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_aa42b6b9.png",
+  "mask_file": "o_aa42b6b9.png",
+  "name": "o_aa42b6b9",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_aa56304c.png",
+  "mask_file": "o_aa56304c.png",
+  "name": "o_aa56304c",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_aaa92d0a.png",
+  "mask_file": "o_aaa92d0a.png",
+  "name": "o_aaa92d0a",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_aacf1d5c.png",
+  "mask_file": "o_aacf1d5c.png",
+  "name": "o_aacf1d5c",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_acbecac7.png",
+  "mask_file": "o_acbecac7.png",
+  "name": "o_acbecac7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_acc2727d.png",
+  "mask_file": "o_acc2727d.png",
+  "name": "o_acc2727d",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ad03d026.png",
+  "mask_file": "o_ad03d026.png",
+  "name": "o_ad03d026",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_adfe7dcc.png",
+  "mask_file": "o_adfe7dcc.png",
+  "name": "o_adfe7dcc",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_aeb6180f.png",
+  "mask_file": "o_aeb6180f.png",
+  "name": "o_aeb6180f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_aedf5701.png",
+  "mask_file": "o_aedf5701.png",
+  "name": "o_aedf5701",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_af1e10f2.png",
+  "mask_file": "o_af1e10f2.png",
+  "name": "o_af1e10f2",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_af47fb58.png",
+  "mask_file": "o_af47fb58.png",
+  "name": "o_af47fb58",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b061b5d7.png",
+  "mask_file": "o_b061b5d7.png",
+  "name": "o_b061b5d7",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b085e7dc.png",
+  "mask_file": "o_b085e7dc.png",
+  "name": "o_b085e7dc",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b0c6c2f9.png",
+  "mask_file": "o_b0c6c2f9.png",
+  "name": "o_b0c6c2f9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b1f17a6a.png",
+  "mask_file": "o_b1f17a6a.png",
+  "name": "o_b1f17a6a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b208fdc3.png",
+  "mask_file": "o_b208fdc3.png",
+  "name": "o_b208fdc3",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b286128e.png",
+  "mask_file": "o_b286128e.png",
+  "name": "o_b286128e",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b2dfc20d.png",
+  "mask_file": "o_b2dfc20d.png",
+  "name": "o_b2dfc20d",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b39cb6e4.png",
+  "mask_file": "o_b39cb6e4.png",
+  "name": "o_b39cb6e4",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b3b7ad01.png",
+  "mask_file": "o_b3b7ad01.png",
+  "name": "o_b3b7ad01",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b4074319.png",
+  "mask_file": "o_b4074319.png",
+  "name": "o_b4074319",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b40d228a.png",
+  "mask_file": "o_b40d228a.png",
+  "name": "o_b40d228a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b4157744.png",
+  "mask_file": "o_b4157744.png",
+  "name": "o_b4157744",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b508d293.png",
+  "mask_file": "o_b508d293.png",
+  "name": "o_b508d293",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b596f919.png",
+  "mask_file": "o_b596f919.png",
+  "name": "o_b596f919",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b62c06fe.png",
+  "mask_file": "o_b62c06fe.png",
+  "name": "o_b62c06fe",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b6b1fbea.png",
+  "mask_file": "o_b6b1fbea.png",
+  "name": "o_b6b1fbea",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b6b2771f.png",
+  "mask_file": "o_b6b2771f.png",
+  "name": "o_b6b2771f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b6f9703c.png",
+  "mask_file": "o_b6f9703c.png",
+  "name": "o_b6f9703c",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b71d875b.png",
+  "mask_file": "o_b71d875b.png",
+  "name": "o_b71d875b",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b7c72c0a.png",
+  "mask_file": "o_b7c72c0a.png",
+  "name": "o_b7c72c0a",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b8665a4d.png",
+  "mask_file": "o_b8665a4d.png",
+  "name": "o_b8665a4d",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b8de8b4b.png",
+  "mask_file": "o_b8de8b4b.png",
+  "name": "o_b8de8b4b",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_b93c74e0.png",
+  "mask_file": "o_b93c74e0.png",
+  "name": "o_b93c74e0",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ba1efe3b.png",
+  "mask_file": "o_ba1efe3b.png",
+  "name": "o_ba1efe3b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ba76c547.png",
+  "mask_file": "o_ba76c547.png",
+  "name": "o_ba76c547",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bab88684.png",
+  "mask_file": "o_bab88684.png",
+  "name": "o_bab88684",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bb67ca50.png",
+  "mask_file": "o_bb67ca50.png",
+  "name": "o_bb67ca50",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bbcef72a.png",
+  "mask_file": "o_bbcef72a.png",
+  "name": "o_bbcef72a",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bbf831ba.png",
+  "mask_file": "o_bbf831ba.png",
+  "name": "o_bbf831ba",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bc501d4e.png",
+  "mask_file": "o_bc501d4e.png",
+  "name": "o_bc501d4e",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bd1e0dfc.png",
+  "mask_file": "o_bd1e0dfc.png",
+  "name": "o_bd1e0dfc",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bd571707.png",
+  "mask_file": "o_bd571707.png",
+  "name": "o_bd571707",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bde965af.png",
+  "mask_file": "o_bde965af.png",
+  "name": "o_bde965af",
+  "type": "STM",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_be34e76b.png",
+  "mask_file": "o_be34e76b.png",
+  "name": "o_be34e76b",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_be63d1bf.png",
+  "mask_file": "o_be63d1bf.png",
+  "name": "o_be63d1bf",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_be721ca0.png",
+  "mask_file": "o_be721ca0.png",
+  "name": "o_be721ca0",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bea06fbe.png",
+  "mask_file": "o_bea06fbe.png",
+  "name": "o_bea06fbe",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bf22c3be.png",
+  "mask_file": "o_bf22c3be.png",
+  "name": "o_bf22c3be",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bf7d47a4.png",
+  "mask_file": "o_bf7d47a4.png",
+  "name": "o_bf7d47a4",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_bfe0af9f.png",
+  "mask_file": "o_bfe0af9f.png",
+  "name": "o_bfe0af9f",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c01ea2f5.png",
+  "mask_file": "o_c01ea2f5.png",
+  "name": "o_c01ea2f5",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c060bd1c.png",
+  "mask_file": "o_c060bd1c.png",
+  "name": "o_c060bd1c",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c074bd23.png",
+  "mask_file": "o_c074bd23.png",
+  "name": "o_c074bd23",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c0ca489f.png",
+  "mask_file": "o_c0ca489f.png",
+  "name": "o_c0ca489f",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c15a96a6.png",
+  "mask_file": "o_c15a96a6.png",
+  "name": "o_c15a96a6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c24515b4.png",
+  "mask_file": "o_c24515b4.png",
+  "name": "o_c24515b4",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c2cf00c3.png",
+  "mask_file": "o_c2cf00c3.png",
+  "name": "o_c2cf00c3",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c30a66c6.png",
+  "mask_file": "o_c30a66c6.png",
+  "name": "o_c30a66c6",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c46e3ddb.png",
+  "mask_file": "o_c46e3ddb.png",
+  "name": "o_c46e3ddb",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c4fce710.png",
+  "mask_file": "o_c4fce710.png",
+  "name": "o_c4fce710",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c56a90a4.png",
+  "mask_file": "o_c56a90a4.png",
+  "name": "o_c56a90a4",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c5fb15fd.png",
+  "mask_file": "o_c5fb15fd.png",
+  "name": "o_c5fb15fd",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c665e90e.png",
+  "mask_file": "o_c665e90e.png",
+  "name": "o_c665e90e",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c6ef7a25.png",
+  "mask_file": "o_c6ef7a25.png",
+  "name": "o_c6ef7a25",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c795d7e3.png",
+  "mask_file": "o_c795d7e3.png",
+  "name": "o_c795d7e3",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c8c91101.png",
+  "mask_file": "o_c8c91101.png",
+  "name": "o_c8c91101",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_c9160b3b.png",
+  "mask_file": "o_c9160b3b.png",
+  "name": "o_c9160b3b",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ca026994.png",
+  "mask_file": "o_ca026994.png",
+  "name": "o_ca026994",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ca9317f9.png",
+  "mask_file": "o_ca9317f9.png",
+  "name": "o_ca9317f9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cbe01a88.png",
+  "mask_file": "o_cbe01a88.png",
+  "name": "o_cbe01a88",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cc164147.png",
+  "mask_file": "o_cc164147.png",
+  "name": "o_cc164147",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cc63fd4a.png",
+  "mask_file": "o_cc63fd4a.png",
+  "name": "o_cc63fd4a",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ccf42a69.png",
+  "mask_file": "o_ccf42a69.png",
+  "name": "o_ccf42a69",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cd0a70e6.png",
+  "mask_file": "o_cd0a70e6.png",
+  "name": "o_cd0a70e6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cd5c068f.png",
+  "mask_file": "o_cd5c068f.png",
+  "name": "o_cd5c068f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ce5d20a0.png",
+  "mask_file": "o_ce5d20a0.png",
+  "name": "o_ce5d20a0",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cf6cd65c.png",
+  "mask_file": "o_cf6cd65c.png",
+  "name": "o_cf6cd65c",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_cfffcfb5.png",
+  "mask_file": "o_cfffcfb5.png",
+  "name": "o_cfffcfb5",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d103af2f.png",
+  "mask_file": "o_d103af2f.png",
+  "name": "o_d103af2f",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d186fbeb.png",
+  "mask_file": "o_d186fbeb.png",
+  "name": "o_d186fbeb",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d1c03e1c.png",
+  "mask_file": "o_d1c03e1c.png",
+  "name": "o_d1c03e1c",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d29dea14.png",
+  "mask_file": "o_d29dea14.png",
+  "name": "o_d29dea14",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d2a1bff3.png",
+  "mask_file": "o_d2a1bff3.png",
+  "name": "o_d2a1bff3",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d2d8aa47.png",
+  "mask_file": "o_d2d8aa47.png",
+  "name": "o_d2d8aa47",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d41b424a.png",
+  "mask_file": "o_d41b424a.png",
+  "name": "o_d41b424a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d45e64f1.png",
+  "mask_file": "o_d45e64f1.png",
+  "name": "o_d45e64f1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d5c111c4.png",
+  "mask_file": "o_d5c111c4.png",
+  "name": "o_d5c111c4",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d74e3ad1.png",
+  "mask_file": "o_d74e3ad1.png",
+  "name": "o_d74e3ad1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d776b3ca.png",
+  "mask_file": "o_d776b3ca.png",
+  "name": "o_d776b3ca",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d8b96fe7.png",
+  "mask_file": "o_d8b96fe7.png",
+  "name": "o_d8b96fe7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_d983e00f.png",
+  "mask_file": "o_d983e00f.png",
+  "name": "o_d983e00f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_da41b554.png",
+  "mask_file": "o_da41b554.png",
+  "name": "o_da41b554",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_da534991.png",
+  "mask_file": "o_da534991.png",
+  "name": "o_da534991",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_db5e685f.png",
+  "mask_file": "o_db5e685f.png",
+  "name": "o_db5e685f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_db8321fa.png",
+  "mask_file": "o_db8321fa.png",
+  "name": "o_db8321fa",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_dbef692f.png",
+  "mask_file": "o_dbef692f.png",
+  "name": "o_dbef692f",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_dc288b1a.png",
+  "mask_file": "o_dc288b1a.png",
+  "name": "o_dc288b1a",
+  "type": "NS",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_dd0868e0.png",
+  "mask_file": "o_dd0868e0.png",
+  "name": "o_dd0868e0",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ddae6d29.png",
+  "mask_file": "o_ddae6d29.png",
+  "name": "o_ddae6d29",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_dde31d9f.png",
+  "mask_file": "o_dde31d9f.png",
+  "name": "o_dde31d9f",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_de0bc50c.png",
+  "mask_file": "o_de0bc50c.png",
+  "name": "o_de0bc50c",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_df40d3d0.png",
+  "mask_file": "o_df40d3d0.png",
+  "name": "o_df40d3d0",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_df5b9e15.png",
+  "mask_file": "o_df5b9e15.png",
+  "name": "o_df5b9e15",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_dfcf2b98.png",
+  "mask_file": "o_dfcf2b98.png",
+  "name": "o_dfcf2b98",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e05960b7.png",
+  "mask_file": "o_e05960b7.png",
+  "name": "o_e05960b7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e0ab2760.png",
+  "mask_file": "o_e0ab2760.png",
+  "name": "o_e0ab2760",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e131f510.png",
+  "mask_file": "o_e131f510.png",
+  "name": "o_e131f510",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e225283a.png",
+  "mask_file": "o_e225283a.png",
+  "name": "o_e225283a",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e28df866.png",
+  "mask_file": "o_e28df866.png",
+  "name": "o_e28df866",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e2a6a947.png",
+  "mask_file": "o_e2a6a947.png",
+  "name": "o_e2a6a947",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e30ce6cb.png",
+  "mask_file": "o_e30ce6cb.png",
+  "name": "o_e30ce6cb",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e3fa38f7.png",
+  "mask_file": "o_e3fa38f7.png",
+  "name": "o_e3fa38f7",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e43c458b.png",
+  "mask_file": "o_e43c458b.png",
+  "name": "o_e43c458b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e4a72c06.png",
+  "mask_file": "o_e4a72c06.png",
+  "name": "o_e4a72c06",
+  "type": "STM",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e4f47cba.png",
+  "mask_file": "o_e4f47cba.png",
+  "name": "o_e4f47cba",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e584f46f.png",
+  "mask_file": "o_e584f46f.png",
+  "name": "o_e584f46f",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e5e50a19.png",
+  "mask_file": "o_e5e50a19.png",
+  "name": "o_e5e50a19",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e62df10b.png",
+  "mask_file": "o_e62df10b.png",
+  "name": "o_e62df10b",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e7597648.png",
+  "mask_file": "o_e7597648.png",
+  "name": "o_e7597648",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e78005d6.png",
+  "mask_file": "o_e78005d6.png",
+  "name": "o_e78005d6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e829249e.png",
+  "mask_file": "o_e829249e.png",
+  "name": "o_e829249e",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e82f8b02.png",
+  "mask_file": "o_e82f8b02.png",
+  "name": "o_e82f8b02",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e8ce31a6.png",
+  "mask_file": "o_e8ce31a6.png",
+  "name": "o_e8ce31a6",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e92b90fc.png",
+  "mask_file": "o_e92b90fc.png",
+  "name": "o_e92b90fc",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e92f575c.png",
+  "mask_file": "o_e92f575c.png",
+  "name": "o_e92f575c",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_e944bfaa.png",
+  "mask_file": "o_e944bfaa.png",
+  "name": "o_e944bfaa",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_eaeab68d.png",
+  "mask_file": "o_eaeab68d.png",
+  "name": "o_eaeab68d",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ebc2e45c.png",
+  "mask_file": "o_ebc2e45c.png",
+  "name": "o_ebc2e45c",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ec18734e.png",
+  "mask_file": "o_ec18734e.png",
+  "name": "o_ec18734e",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ec6becb3.png",
+  "mask_file": "o_ec6becb3.png",
+  "name": "o_ec6becb3",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ecd1265b.png",
+  "mask_file": "o_ecd1265b.png",
+  "name": "o_ecd1265b",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f07cde8a.png",
+  "mask_file": "o_f07cde8a.png",
+  "name": "o_f07cde8a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f0afb039.png",
+  "mask_file": "o_f0afb039.png",
+  "name": "o_f0afb039",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f0eaeebf.png",
+  "mask_file": "o_f0eaeebf.png",
+  "name": "o_f0eaeebf",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f12a8afc.png",
+  "mask_file": "o_f12a8afc.png",
+  "name": "o_f12a8afc",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f1ee35e0.png",
+  "mask_file": "o_f1ee35e0.png",
+  "name": "o_f1ee35e0",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f20f853b.png",
+  "mask_file": "o_f20f853b.png",
+  "name": "o_f20f853b",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f22363ac.png",
+  "mask_file": "o_f22363ac.png",
+  "name": "o_f22363ac",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f2347529.png",
+  "mask_file": "o_f2347529.png",
+  "name": "o_f2347529",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f3cc6fa1.png",
+  "mask_file": "o_f3cc6fa1.png",
+  "name": "o_f3cc6fa1",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f3d0f881.png",
+  "mask_file": "o_f3d0f881.png",
+  "name": "o_f3d0f881",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f4c2ba11.png",
+  "mask_file": "o_f4c2ba11.png",
+  "name": "o_f4c2ba11",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f515e5cf.png",
+  "mask_file": "o_f515e5cf.png",
+  "name": "o_f515e5cf",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f67a4a56.png",
+  "mask_file": "o_f67a4a56.png",
+  "name": "o_f67a4a56",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f67dd514.png",
+  "mask_file": "o_f67dd514.png",
+  "name": "o_f67dd514",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f6b02fc1.png",
+  "mask_file": "o_f6b02fc1.png",
+  "name": "o_f6b02fc1",
+  "type": "NS",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f6cd2fca.png",
+  "mask_file": "o_f6cd2fca.png",
+  "name": "o_f6cd2fca",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f71b4ba5.png",
+  "mask_file": "o_f71b4ba5.png",
+  "name": "o_f71b4ba5",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f7c5c922.png",
+  "mask_file": "o_f7c5c922.png",
+  "name": "o_f7c5c922",
+  "type": "SO",
+  "category": "fruit",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f82f042a.png",
+  "mask_file": "o_f82f042a.png",
+  "name": "o_f82f042a",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f8ba7ef6.png",
+  "mask_file": "o_f8ba7ef6.png",
+  "name": "o_f8ba7ef6",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f937f968.png",
+  "mask_file": "o_f937f968.png",
+  "name": "o_f937f968",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f95689c1.png",
+  "mask_file": "o_f95689c1.png",
+  "name": "o_f95689c1",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_f96afe15.png",
+  "mask_file": "o_f96afe15.png",
+  "name": "o_f96afe15",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fa41eb61.png",
+  "mask_file": "o_fa41eb61.png",
+  "name": "o_fa41eb61",
+  "type": "NS",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fabaf6e3.png",
+  "mask_file": "o_fabaf6e3.png",
+  "name": "o_fabaf6e3",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fad87b9e.png",
+  "mask_file": "o_fad87b9e.png",
+  "name": "o_fad87b9e",
+  "type": "SO",
+  "category": "toy",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fae80c63.png",
+  "mask_file": "o_fae80c63.png",
+  "name": "o_fae80c63",
+  "type": "STM",
+  "category": "transparent",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fb66f6f9.png",
+  "mask_file": "o_fb66f6f9.png",
+  "name": "o_fb66f6f9",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fbae5321.png",
+  "mask_file": "o_fbae5321.png",
+  "name": "o_fbae5321",
+  "type": "SO",
+  "category": "portrait",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fda66b96.png",
+  "mask_file": "o_fda66b96.png",
+  "name": "o_fda66b96",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fe2c82a9.png",
+  "mask_file": "o_fe2c82a9.png",
+  "name": "o_fe2c82a9",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fe6f4047.png",
+  "mask_file": "o_fe6f4047.png",
+  "name": "o_fe6f4047",
+  "type": "SO",
+  "category": "furniture",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_fee0e426.png",
+  "mask_file": "o_fee0e426.png",
+  "name": "o_fee0e426",
+  "type": "SO",
+  "category": "plant",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ff3c576e.png",
+  "mask_file": "o_ff3c576e.png",
+  "name": "o_ff3c576e",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ },
+ {
+  "file": "o_ff3d4315.png",
+  "mask_file": "o_ff3d4315.png",
+  "name": "o_ff3d4315",
+  "type": "SO",
+  "category": "animal",
+  "source": "AIM-500",
+  "alpha": true
+ }
+]

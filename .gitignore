@@ -1,0 +1,53 @@
+# Runtime data written by the web app
+uploads/
+results/
+images/
+masks/
+static/uploads/
+static/results/
+
+# Model weights (downloaded automatically on first run)
+weights/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Experiment outputs derived from third-party datasets (not redistributed)
+eval/rev1/results/outputs/
+eval/rev1/results/partial_mac/
+eval/rev1/results/gfm_buggy/
+eval/rev1/results/mac_synthzoom_v1/
+eval/rev1/results/latency_extract_on_gpu/
+eval/rev1/results/e5_stage_full_*.csv
+data/
+
+# Local-only legacy and scratch files
+project/
+project.zip
+cv and diffusion/
+CV Applications/
+colab_gpu_test.ipynb
+inpaint.py
+maskNbg.py
+templates/index1.html
+templates/results.html
+
+# Python cache & logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+.venv/

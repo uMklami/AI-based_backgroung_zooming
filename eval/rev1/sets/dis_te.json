@@ -1,0 +1,2802 @@
+[
+ {
+  "file": "1#Accessories#3#Eyeglasses#113601935_0e9b2c38e7_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#113601935_0e9b2c38e7_o.png",
+  "name": "1#Accessories#3#Eyeglasses#113601935_0e9b2c38e7_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#3#Eyeglasses#3530574307_5df2551eb7_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#3530574307_5df2551eb7_o.png",
+  "name": "1#Accessories#3#Eyeglasses#3530574307_5df2551eb7_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#3#Eyeglasses#3796931557_34d3cfb153_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#3796931557_34d3cfb153_o.png",
+  "name": "1#Accessories#3#Eyeglasses#3796931557_34d3cfb153_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#3#Eyeglasses#4714861082_d837a5be81_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#4714861082_d837a5be81_o.png",
+  "name": "1#Accessories#3#Eyeglasses#4714861082_d837a5be81_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#3#Eyeglasses#47958244331_9e28e009c1_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#47958244331_9e28e009c1_o.png",
+  "name": "1#Accessories#3#Eyeglasses#47958244331_9e28e009c1_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#3#Eyeglasses#6446510891_4d94b41544_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#6446510891_4d94b41544_o.png",
+  "name": "1#Accessories#3#Eyeglasses#6446510891_4d94b41544_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#3#Eyeglasses#7845652886_e30395a064_o.jpg",
+  "mask_file": "1#Accessories#3#Eyeglasses#7845652886_e30395a064_o.png",
+  "name": "1#Accessories#3#Eyeglasses#7845652886_e30395a064_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#8#Watch#15764653584_66c8307fea_o.jpg",
+  "mask_file": "1#Accessories#8#Watch#15764653584_66c8307fea_o.png",
+  "name": "1#Accessories#8#Watch#15764653584_66c8307fea_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#8#Watch#26502110600_928b0901ca_o.jpg",
+  "mask_file": "1#Accessories#8#Watch#26502110600_928b0901ca_o.png",
+  "name": "1#Accessories#8#Watch#26502110600_928b0901ca_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#1#BasketballHoop#IMG_20210701_214143.jpg",
+  "mask_file": "10#Frame#1#BasketballHoop#IMG_20210701_214143.png",
+  "name": "10#Frame#1#BasketballHoop#IMG_20210701_214143",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#3#BicycleStand#5279788922_16b4cca5bb_o.jpg",
+  "mask_file": "10#Frame#3#BicycleStand#5279788922_16b4cca5bb_o.png",
+  "name": "10#Frame#3#BicycleStand#5279788922_16b4cca5bb_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#13592685465_7334ced235_o.jpg",
+  "mask_file": "10#Frame#5#Rack#13592685465_7334ced235_o.png",
+  "name": "10#Frame#5#Rack#13592685465_7334ced235_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#16059334656_abbb257990_o.jpg",
+  "mask_file": "10#Frame#5#Rack#16059334656_abbb257990_o.png",
+  "name": "10#Frame#5#Rack#16059334656_abbb257990_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#25266717064_9655d2829c_o.jpg",
+  "mask_file": "10#Frame#5#Rack#25266717064_9655d2829c_o.png",
+  "name": "10#Frame#5#Rack#25266717064_9655d2829c_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#2634130269_9e5e22af7e_o.jpg",
+  "mask_file": "10#Frame#5#Rack#2634130269_9e5e22af7e_o.png",
+  "name": "10#Frame#5#Rack#2634130269_9e5e22af7e_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#IMG_20210518_194409.jpg",
+  "mask_file": "10#Frame#5#Rack#IMG_20210518_194409.png",
+  "name": "10#Frame#5#Rack#IMG_20210518_194409",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#11#Handrail#26041931538_fd34a0da5d_o.jpg",
+  "mask_file": "11#Furniture#11#Handrail#26041931538_fd34a0da5d_o.png",
+  "name": "11#Furniture#11#Handrail#26041931538_fd34a0da5d_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#11#Handrail#IMG_20210708_192009.jpg",
+  "mask_file": "11#Furniture#11#Handrail#IMG_20210708_192009.png",
+  "name": "11#Furniture#11#Handrail#IMG_20210708_192009",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#13#Ladder#2860189868_2a0582bef4_o.jpg",
+  "mask_file": "11#Furniture#13#Ladder#2860189868_2a0582bef4_o.png",
+  "name": "11#Furniture#13#Ladder#2860189868_2a0582bef4_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#13#Ladder#3642937354_64be12b3b3_o.jpg",
+  "mask_file": "11#Furniture#13#Ladder#3642937354_64be12b3b3_o.png",
+  "name": "11#Furniture#13#Ladder#3642937354_64be12b3b3_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#13#Ladder#3890115265_ae740eaaa7_o.jpg",
+  "mask_file": "11#Furniture#13#Ladder#3890115265_ae740eaaa7_o.png",
+  "name": "11#Furniture#13#Ladder#3890115265_ae740eaaa7_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#17#Table#3927090252_6bae260b3a_o.jpg",
+  "mask_file": "11#Furniture#17#Table#3927090252_6bae260b3a_o.png",
+  "name": "11#Furniture#17#Table#3927090252_6bae260b3a_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#17#Table#6999526977_8e1ee3b424_o.jpg",
+  "mask_file": "11#Furniture#17#Table#6999526977_8e1ee3b424_o.png",
+  "name": "11#Furniture#17#Table#6999526977_8e1ee3b424_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#IMG_20210707_224813.jpg",
+  "mask_file": "11#Furniture#18#TableChair#IMG_20210707_224813.png",
+  "name": "11#Furniture#18#TableChair#IMG_20210707_224813",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#19#Shower#5232656761_909dc9a1b8_o.jpg",
+  "mask_file": "11#Furniture#19#Shower#5232656761_909dc9a1b8_o.png",
+  "name": "11#Furniture#19#Shower#5232656761_909dc9a1b8_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#19#Shower#8325346891_097877fcaf_o.jpg",
+  "mask_file": "11#Furniture#19#Shower#8325346891_097877fcaf_o.png",
+  "name": "11#Furniture#19#Shower#8325346891_097877fcaf_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#14708047848_a4e4e8911b_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#14708047848_a4e4e8911b_o.png",
+  "name": "11#Furniture#2#Bench#14708047848_a4e4e8911b_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#22653754305_7d7153fb50_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#22653754305_7d7153fb50_o.png",
+  "name": "11#Furniture#2#Bench#22653754305_7d7153fb50_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#23585711179_cbe501228e_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#23585711179_cbe501228e_o.png",
+  "name": "11#Furniture#2#Bench#23585711179_cbe501228e_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#7912453566_e19ab76968_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#7912453566_e19ab76968_o.png",
+  "name": "11#Furniture#2#Bench#7912453566_e19ab76968_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#2886460384_ea259fb70f_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#2886460384_ea259fb70f_o.png",
+  "name": "11#Furniture#4#Chair#2886460384_ea259fb70f_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#7#Desk#4405547180_3ced729edf_o.jpg",
+  "mask_file": "11#Furniture#7#Desk#4405547180_3ced729edf_o.png",
+  "name": "11#Furniture#7#Desk#4405547180_3ced729edf_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#7#Desk#5646561164_4c8913ec08_o.jpg",
+  "mask_file": "11#Furniture#7#Desk#5646561164_4c8913ec08_o.png",
+  "name": "11#Furniture#7#Desk#5646561164_4c8913ec08_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#9#Easel#41350193222_e3b44174b9_o.jpg",
+  "mask_file": "11#Furniture#9#Easel#41350193222_e3b44174b9_o.png",
+  "name": "11#Furniture#9#Easel#41350193222_e3b44174b9_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#9#Easel#5861024736_ac064bb712_o.jpg",
+  "mask_file": "11#Furniture#9#Easel#5861024736_ac064bb712_o.png",
+  "name": "11#Furniture#9#Easel#5861024736_ac064bb712_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#3#Signboard#IMG_20210517_142559.jpg",
+  "mask_file": "12#Graphics#3#Signboard#IMG_20210517_142559.png",
+  "name": "12#Graphics#3#Signboard#IMG_20210517_142559",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#4#TrafficSign#33315225158_933e9560b6_o.jpg",
+  "mask_file": "12#Graphics#4#TrafficSign#33315225158_933e9560b6_o.png",
+  "name": "12#Graphics#4#TrafficSign#33315225158_933e9560b6_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#4#Butterfly#19291840361_07a4165c22_o.jpg",
+  "mask_file": "13#Insect#4#Butterfly#19291840361_07a4165c22_o.png",
+  "name": "13#Insect#4#Butterfly#19291840361_07a4165c22_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#1#Cup#24814482387_0232d4bd91_o.jpg",
+  "mask_file": "14#Kitchenware#1#Cup#24814482387_0232d4bd91_o.png",
+  "name": "14#Kitchenware#1#Cup#24814482387_0232d4bd91_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#10#WineGlass#2888346876_88032f3c48_o.jpg",
+  "mask_file": "14#Kitchenware#10#WineGlass#2888346876_88032f3c48_o.png",
+  "name": "14#Kitchenware#10#WineGlass#2888346876_88032f3c48_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#10#WineGlass#6630104095_a2f42cd3af_o.jpg",
+  "mask_file": "14#Kitchenware#10#WineGlass#6630104095_a2f42cd3af_o.png",
+  "name": "14#Kitchenware#10#WineGlass#6630104095_a2f42cd3af_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#11#WireWhisk#16214461594_0ece406239_o.jpg",
+  "mask_file": "14#Kitchenware#11#WireWhisk#16214461594_0ece406239_o.png",
+  "name": "14#Kitchenware#11#WireWhisk#16214461594_0ece406239_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#3#Hydrovalve#294039954_da2eb78be9_o.jpg",
+  "mask_file": "14#Kitchenware#3#Hydrovalve#294039954_da2eb78be9_o.png",
+  "name": "14#Kitchenware#3#Hydrovalve#294039954_da2eb78be9_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#3#Hydrovalve#392690459_87d7fd8f40_o.jpg",
+  "mask_file": "14#Kitchenware#3#Hydrovalve#392690459_87d7fd8f40_o.png",
+  "name": "14#Kitchenware#3#Hydrovalve#392690459_87d7fd8f40_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#4#Kitchenware#3016608756_5ace86031f_o.jpg",
+  "mask_file": "14#Kitchenware#4#Kitchenware#3016608756_5ace86031f_o.png",
+  "name": "14#Kitchenware#4#Kitchenware#3016608756_5ace86031f_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#5#Knife#21870310772_ba3d4291ce_o.jpg",
+  "mask_file": "14#Kitchenware#5#Knife#21870310772_ba3d4291ce_o.png",
+  "name": "14#Kitchenware#5#Knife#21870310772_ba3d4291ce_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#5#Knife#46962922304_c74076bc97_o.jpg",
+  "mask_file": "14#Kitchenware#5#Knife#46962922304_c74076bc97_o.png",
+  "name": "14#Kitchenware#5#Knife#46962922304_c74076bc97_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#6#Trumpet#8039331810_3590f22ce1_o.jpg",
+  "mask_file": "16#Music Instrument#6#Trumpet#8039331810_3590f22ce1_o.png",
+  "name": "16#Music Instrument#6#Trumpet#8039331810_3590f22ce1_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#8#Violin#38809677390_e68798ed57_o.jpg",
+  "mask_file": "16#Music Instrument#8#Violin#38809677390_e68798ed57_o.png",
+  "name": "16#Music Instrument#8#Violin#38809677390_e68798ed57_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#2#Canoe#9046961974_bcda21a4a5_o.jpg",
+  "mask_file": "19#Ship#2#Canoe#9046961974_bcda21a4a5_o.png",
+  "name": "19#Ship#2#Canoe#9046961974_bcda21a4a5_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#2195847099_534ce6c16a_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#2195847099_534ce6c16a_o.png",
+  "name": "2#Aircraft#1#Airplane#2195847099_534ce6c16a_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#39233090174_1c0df0ac9e_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#39233090174_1c0df0ac9e_o.png",
+  "name": "2#Aircraft#1#Airplane#39233090174_1c0df0ac9e_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#3#Fishing#20390116855_a90566f8cc_o.jpg",
+  "mask_file": "20#Sports#3#Fishing#20390116855_a90566f8cc_o.png",
+  "name": "20#Sports#3#Fishing#20390116855_a90566f8cc_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#9#RockClimbing#5461893003_0b16cda8a7_o.jpg",
+  "mask_file": "20#Sports#9#RockClimbing#5461893003_0b16cda8a7_o.png",
+  "name": "20#Sports#9#RockClimbing#5461893003_0b16cda8a7_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#1#Axe#45673228154_7c1bc976f3_o.jpg",
+  "mask_file": "21#Tool#1#Axe#45673228154_7c1bc976f3_o.png",
+  "name": "21#Tool#1#Axe#45673228154_7c1bc976f3_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#10#Spade#3061254_d14b01aa9b_o.jpg",
+  "mask_file": "21#Tool#10#Spade#3061254_d14b01aa9b_o.png",
+  "name": "21#Tool#10#Spade#3061254_d14b01aa9b_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#11#Stand#26260329424_efaf65bacb_o.jpg",
+  "mask_file": "21#Tool#11#Stand#26260329424_efaf65bacb_o.png",
+  "name": "21#Tool#11#Stand#26260329424_efaf65bacb_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#11#Stand#IMG_20210701_214624.jpg",
+  "mask_file": "21#Tool#11#Stand#IMG_20210701_214624.png",
+  "name": "21#Tool#11#Stand#IMG_20210701_214624",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#14#Sword#32473146960_dcc6b77848_o.jpg",
+  "mask_file": "21#Tool#14#Sword#32473146960_dcc6b77848_o.png",
+  "name": "21#Tool#14#Sword#32473146960_dcc6b77848_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#14#Sword#425635285_5d2e0670bf_o.jpg",
+  "mask_file": "21#Tool#14#Sword#425635285_5d2e0670bf_o.png",
+  "name": "21#Tool#14#Sword#425635285_5d2e0670bf_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#15#Tapeline#5165082993_93631090fc_o.jpg",
+  "mask_file": "21#Tool#15#Tapeline#5165082993_93631090fc_o.png",
+  "name": "21#Tool#15#Tapeline#5165082993_93631090fc_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#15#Tapeline#6829101536_e9556d6fda_o.jpg",
+  "mask_file": "21#Tool#15#Tapeline#6829101536_e9556d6fda_o.png",
+  "name": "21#Tool#15#Tapeline#6829101536_e9556d6fda_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#17#Tripod#13592188_a9ce0044b1_o.jpg",
+  "mask_file": "21#Tool#17#Tripod#13592188_a9ce0044b1_o.png",
+  "name": "21#Tool#17#Tripod#13592188_a9ce0044b1_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#17#Tripod#7942172334_8046b479d2_o.jpg",
+  "mask_file": "21#Tool#17#Tripod#7942172334_8046b479d2_o.png",
+  "name": "21#Tool#17#Tripod#7942172334_8046b479d2_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#27#Pillow#IMG_20210521_104048.jpg",
+  "mask_file": "21#Tool#27#Pillow#IMG_20210521_104048.png",
+  "name": "21#Tool#27#Pillow#IMG_20210521_104048",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#3#Clock#44011819935_378fff21aa_o.jpg",
+  "mask_file": "21#Tool#3#Clock#44011819935_378fff21aa_o.png",
+  "name": "21#Tool#3#Clock#44011819935_378fff21aa_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#4#Flag#507752845_ef852100f0_o.jpg",
+  "mask_file": "21#Tool#4#Flag#507752845_ef852100f0_o.png",
+  "name": "21#Tool#4#Flag#507752845_ef852100f0_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#4#Flag#5089561284_e2a2793cce_o.jpg",
+  "mask_file": "21#Tool#4#Flag#5089561284_e2a2793cce_o.png",
+  "name": "21#Tool#4#Flag#5089561284_e2a2793cce_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#5#Hook#4327295738_faebceeb0b_o.jpg",
+  "mask_file": "21#Tool#5#Hook#4327295738_faebceeb0b_o.png",
+  "name": "21#Tool#5#Hook#4327295738_faebceeb0b_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#6#Key#4288658681_58679b37e2_o.jpg",
+  "mask_file": "21#Tool#6#Key#4288658681_58679b37e2_o.png",
+  "name": "21#Tool#6#Key#4288658681_58679b37e2_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#7#Rope#26572625450_eaa2890642_o.jpg",
+  "mask_file": "21#Tool#7#Rope#26572625450_eaa2890642_o.png",
+  "name": "21#Tool#7#Rope#26572625450_eaa2890642_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#7#Rope#IMG_20210702_154304.jpg",
+  "mask_file": "21#Tool#7#Rope#IMG_20210702_154304.png",
+  "name": "21#Tool#7#Rope#IMG_20210702_154304",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#3#Missile#141510216_07bd835888_o.jpg",
+  "mask_file": "22#Weapon#3#Missile#141510216_07bd835888_o.png",
+  "name": "22#Weapon#3#Missile#141510216_07bd835888_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#4#Rifle#2551424753_bacdd4f9ce_o.jpg",
+  "mask_file": "22#Weapon#4#Rifle#2551424753_bacdd4f9ce_o.png",
+  "name": "22#Weapon#4#Rifle#2551424753_bacdd4f9ce_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#4#Rifle#6278983768_4a1a645c27_o.jpg",
+  "mask_file": "22#Weapon#4#Rifle#6278983768_4a1a645c27_o.png",
+  "name": "22#Weapon#4#Rifle#6278983768_4a1a645c27_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "3#Aquatic#7#Octopus#7231448750_2ee37630de_o.jpg",
+  "mask_file": "3#Aquatic#7#Octopus#7231448750_2ee37630de_o.png",
+  "name": "3#Aquatic#7#Octopus#7231448750_2ee37630de_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#11#Pipe#11454431176_f2d58ae756_o.jpg",
+  "mask_file": "4#Architecture#11#Pipe#11454431176_f2d58ae756_o.png",
+  "name": "4#Architecture#11#Pipe#11454431176_f2d58ae756_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#11#Pipe#7124946891_03a3a2a283_o.jpg",
+  "mask_file": "4#Architecture#11#Pipe#7124946891_03a3a2a283_o.png",
+  "name": "4#Architecture#11#Pipe#7124946891_03a3a2a283_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#11#Pipe#8973269623_35653a2ac4_o.jpg",
+  "mask_file": "4#Architecture#11#Pipe#8973269623_35653a2ac4_o.png",
+  "name": "4#Architecture#11#Pipe#8973269623_35653a2ac4_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#13#Sculpture#2685803731_7e5e04eaa7_o.jpg",
+  "mask_file": "4#Architecture#13#Sculpture#2685803731_7e5e04eaa7_o.png",
+  "name": "4#Architecture#13#Sculpture#2685803731_7e5e04eaa7_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#13#Sculpture#36636576362_aa1a141722_o.jpg",
+  "mask_file": "4#Architecture#13#Sculpture#36636576362_aa1a141722_o.png",
+  "name": "4#Architecture#13#Sculpture#36636576362_aa1a141722_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#13#Sculpture#48584319001_ff962bf0e6_o.jpg",
+  "mask_file": "4#Architecture#13#Sculpture#48584319001_ff962bf0e6_o.png",
+  "name": "4#Architecture#13#Sculpture#48584319001_ff962bf0e6_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#4#Fence#17809669353_a3f29323d3_o.jpg",
+  "mask_file": "4#Architecture#4#Fence#17809669353_a3f29323d3_o.png",
+  "name": "4#Architecture#4#Fence#17809669353_a3f29323d3_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#4#Fence#28176130929_d01b4b4f36_o.jpg",
+  "mask_file": "4#Architecture#4#Fence#28176130929_d01b4b4f36_o.png",
+  "name": "4#Architecture#4#Fence#28176130929_d01b4b4f36_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#4#Fence#2937017770_74707e09be_o.jpg",
+  "mask_file": "4#Architecture#4#Fence#2937017770_74707e09be_o.png",
+  "name": "4#Architecture#4#Fence#2937017770_74707e09be_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "5#Artifact#3#Handcraft#3200169331_ed8bdc1442_o.jpg",
+  "mask_file": "5#Artifact#3#Handcraft#3200169331_ed8bdc1442_o.png",
+  "name": "5#Artifact#3#Handcraft#3200169331_ed8bdc1442_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#6#Excavator#5951817065_f05b344d22_o.jpg",
+  "mask_file": "6#Automobile#6#Excavator#5951817065_f05b344d22_o.png",
+  "name": "6#Automobile#6#Excavator#5951817065_f05b344d22_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#11#VacuumCleaner#190217387_3d3341b054_o.jpg",
+  "mask_file": "7#Electrical#11#VacuumCleaner#190217387_3d3341b054_o.png",
+  "name": "7#Electrical#11#VacuumCleaner#190217387_3d3341b054_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#2#CeilingLamp#IMG_20210701_211402.jpg",
+  "mask_file": "7#Electrical#2#CeilingLamp#IMG_20210701_211402.png",
+  "name": "7#Electrical#2#CeilingLamp#IMG_20210701_211402",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#4#FloorLamp#16372043352_3aa6d33447_o.jpg",
+  "mask_file": "7#Electrical#4#FloorLamp#16372043352_3aa6d33447_o.png",
+  "name": "7#Electrical#4#FloorLamp#16372043352_3aa6d33447_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#6#StreetLamp#14621370284_240ed68f88_o.jpg",
+  "mask_file": "7#Electrical#6#StreetLamp#14621370284_240ed68f88_o.png",
+  "name": "7#Electrical#6#StreetLamp#14621370284_240ed68f88_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#6#StreetLamp#23699457914_e1c4269036_o.jpg",
+  "mask_file": "7#Electrical#6#StreetLamp#23699457914_e1c4269036_o.png",
+  "name": "7#Electrical#6#StreetLamp#23699457914_e1c4269036_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#6#StreetLamp#4581796536_471792b605_o.jpg",
+  "mask_file": "7#Electrical#6#StreetLamp#4581796536_471792b605_o.png",
+  "name": "7#Electrical#6#StreetLamp#4581796536_471792b605_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#6#StreetLamp#8749147390_5b1b1fe819_o.jpg",
+  "mask_file": "7#Electrical#6#StreetLamp#8749147390_5b1b1fe819_o.png",
+  "name": "7#Electrical#6#StreetLamp#8749147390_5b1b1fe819_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#11#TV#48922840461_91f8312e12_o.jpg",
+  "mask_file": "8#Electronics#11#TV#48922840461_91f8312e12_o.png",
+  "name": "8#Electronics#11#TV#48922840461_91f8312e12_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#11#TV#48923036067_842e6dea0b_o.jpg",
+  "mask_file": "8#Electronics#11#TV#48923036067_842e6dea0b_o.png",
+  "name": "8#Electronics#11#TV#48923036067_842e6dea0b_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#3#Earphone#5921839022_46dd33f036_o.jpg",
+  "mask_file": "8#Electronics#3#Earphone#5921839022_46dd33f036_o.png",
+  "name": "8#Electronics#3#Earphone#5921839022_46dd33f036_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#6#Microphone#3337261228_388abe7f08_o.jpg",
+  "mask_file": "8#Electronics#6#Microphone#3337261228_388abe7f08_o.png",
+  "name": "8#Electronics#6#Microphone#3337261228_388abe7f08_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#8#Monitor#8944140_c6a5240060_o.jpg",
+  "mask_file": "8#Electronics#8#Monitor#8944140_c6a5240060_o.png",
+  "name": "8#Electronics#8#Monitor#8944140_c6a5240060_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "9#Entertainment#1#GymEquipment#7445931272_faa0d94e67_o.jpg",
+  "mask_file": "9#Entertainment#1#GymEquipment#7445931272_faa0d94e67_o.png",
+  "name": "9#Entertainment#1#GymEquipment#7445931272_faa0d94e67_o",
+  "subset": "TE1",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#1#Bag#3713356643_ff7bdcdbf6_o.jpg",
+  "mask_file": "1#Accessories#1#Bag#3713356643_ff7bdcdbf6_o.png",
+  "name": "1#Accessories#1#Bag#3713356643_ff7bdcdbf6_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#2#Clothes#817386204_81323c496d_o.jpg",
+  "mask_file": "1#Accessories#2#Clothes#817386204_81323c496d_o.png",
+  "name": "1#Accessories#2#Clothes#817386204_81323c496d_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#7#Shoe#3935077963_f4ee0784b2_o.jpg",
+  "mask_file": "1#Accessories#7#Shoe#3935077963_f4ee0784b2_o.png",
+  "name": "1#Accessories#7#Shoe#3935077963_f4ee0784b2_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#8497004318_1bab9e1067_o.jpg",
+  "mask_file": "10#Frame#5#Rack#8497004318_1bab9e1067_o.png",
+  "name": "10#Frame#5#Rack#8497004318_1bab9e1067_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#1#Bed#5200815376_fdf8ce3e7d_o.jpg",
+  "mask_file": "11#Furniture#1#Bed#5200815376_fdf8ce3e7d_o.png",
+  "name": "11#Furniture#1#Bed#5200815376_fdf8ce3e7d_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#11#Handrail#14395997955_5337113ed9_o.jpg",
+  "mask_file": "11#Furniture#11#Handrail#14395997955_5337113ed9_o.png",
+  "name": "11#Furniture#11#Handrail#14395997955_5337113ed9_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#11#Handrail#14467236300_392f298836_o.jpg",
+  "mask_file": "11#Furniture#11#Handrail#14467236300_392f298836_o.png",
+  "name": "11#Furniture#11#Handrail#14467236300_392f298836_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#13#Ladder#8991327585_24c0f15beb_o.jpg",
+  "mask_file": "11#Furniture#13#Ladder#8991327585_24c0f15beb_o.png",
+  "name": "11#Furniture#13#Ladder#8991327585_24c0f15beb_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#17#Table#4996714470_df4aae067b_o.jpg",
+  "mask_file": "11#Furniture#17#Table#4996714470_df4aae067b_o.png",
+  "name": "11#Furniture#17#Table#4996714470_df4aae067b_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#17#Table#9888395205_52b2524b82_o.jpg",
+  "mask_file": "11#Furniture#17#Table#9888395205_52b2524b82_o.png",
+  "name": "11#Furniture#17#Table#9888395205_52b2524b82_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#17#Table#IMG_20210521_150030.jpg",
+  "mask_file": "11#Furniture#17#Table#IMG_20210521_150030.png",
+  "name": "11#Furniture#17#Table#IMG_20210521_150030",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#19#Shower#29721988470_e68ac6fe65_o.jpg",
+  "mask_file": "11#Furniture#19#Shower#29721988470_e68ac6fe65_o.png",
+  "name": "11#Furniture#19#Shower#29721988470_e68ac6fe65_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#27512627664_6b558dd6f8_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#27512627664_6b558dd6f8_o.png",
+  "name": "11#Furniture#2#Bench#27512627664_6b558dd6f8_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#3397828627_5cba497412_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#3397828627_5cba497412_o.png",
+  "name": "11#Furniture#2#Bench#3397828627_5cba497412_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#7912265188_d41b7d8148_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#7912265188_d41b7d8148_o.png",
+  "name": "11#Furniture#2#Bench#7912265188_d41b7d8148_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#3#BunkBed#126250054_d132d72f65_o.jpg",
+  "mask_file": "11#Furniture#3#BunkBed#126250054_d132d72f65_o.png",
+  "name": "11#Furniture#3#BunkBed#126250054_d132d72f65_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#3#BunkBed#42976627064_9e505a47b4_o.jpg",
+  "mask_file": "11#Furniture#3#BunkBed#42976627064_9e505a47b4_o.png",
+  "name": "11#Furniture#3#BunkBed#42976627064_9e505a47b4_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#16096616007_43b58027de_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#16096616007_43b58027de_o.png",
+  "name": "11#Furniture#4#Chair#16096616007_43b58027de_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#3366879426_9790c8ea93_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#3366879426_9790c8ea93_o.png",
+  "name": "11#Furniture#4#Chair#3366879426_9790c8ea93_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#4#TrafficSign#44195540344_13d24c0fa8_o.jpg",
+  "mask_file": "12#Graphics#4#TrafficSign#44195540344_13d24c0fa8_o.png",
+  "name": "12#Graphics#4#TrafficSign#44195540344_13d24c0fa8_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#1#Ant#7757229062_264b5952d7_o.jpg",
+  "mask_file": "13#Insect#1#Ant#7757229062_264b5952d7_o.png",
+  "name": "13#Insect#1#Ant#7757229062_264b5952d7_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#11#Spider#205215116_8f81c79b0b_o.jpg",
+  "mask_file": "13#Insect#11#Spider#205215116_8f81c79b0b_o.png",
+  "name": "13#Insect#11#Spider#205215116_8f81c79b0b_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#6#Centipede#3410867143_5c194c6a2d_o.jpg",
+  "mask_file": "13#Insect#6#Centipede#3410867143_5c194c6a2d_o.png",
+  "name": "13#Insect#6#Centipede#3410867143_5c194c6a2d_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#7#Dragonfly#5677867370_864329874b_o.jpg",
+  "mask_file": "13#Insect#7#Dragonfly#5677867370_864329874b_o.png",
+  "name": "13#Insect#7#Dragonfly#5677867370_864329874b_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#8#Locust#16349186669_a30006bdb6_o.jpg",
+  "mask_file": "13#Insect#8#Locust#16349186669_a30006bdb6_o.png",
+  "name": "13#Insect#8#Locust#16349186669_a30006bdb6_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#9#Mantis#5077622905_197b8fa2e5_o.jpg",
+  "mask_file": "13#Insect#9#Mantis#5077622905_197b8fa2e5_o.png",
+  "name": "13#Insect#9#Mantis#5077622905_197b8fa2e5_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#9#Mantis#50888227033_e1c2f25f22_o.jpg",
+  "mask_file": "13#Insect#9#Mantis#50888227033_e1c2f25f22_o.png",
+  "name": "13#Insect#9#Mantis#50888227033_e1c2f25f22_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#9#Mantis#9557233166_314c612363_o.jpg",
+  "mask_file": "13#Insect#9#Mantis#9557233166_314c612363_o.png",
+  "name": "13#Insect#9#Mantis#9557233166_314c612363_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#1#Cup#10263016545_fea8fa2774_o.jpg",
+  "mask_file": "14#Kitchenware#1#Cup#10263016545_fea8fa2774_o.png",
+  "name": "14#Kitchenware#1#Cup#10263016545_fea8fa2774_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#1#Cup#24687802436_312223ede3_o.jpg",
+  "mask_file": "14#Kitchenware#1#Cup#24687802436_312223ede3_o.png",
+  "name": "14#Kitchenware#1#Cup#24687802436_312223ede3_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#8#SweetStand#5605527168_4771ebe7b2_o.jpg",
+  "mask_file": "14#Kitchenware#8#SweetStand#5605527168_4771ebe7b2_o.png",
+  "name": "14#Kitchenware#8#SweetStand#5605527168_4771ebe7b2_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#2#Harp#28058219806_28e05ff24a_o.jpg",
+  "mask_file": "16#Music Instrument#2#Harp#28058219806_28e05ff24a_o.png",
+  "name": "16#Music Instrument#2#Harp#28058219806_28e05ff24a_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#4#Piano#22788914219_ce57becf68_o.jpg",
+  "mask_file": "16#Music Instrument#4#Piano#22788914219_ce57becf68_o.png",
+  "name": "16#Music Instrument#4#Piano#22788914219_ce57becf68_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#6#Trumpet#29667180644_112250bcc4_o.jpg",
+  "mask_file": "16#Music Instrument#6#Trumpet#29667180644_112250bcc4_o.png",
+  "name": "16#Music Instrument#6#Trumpet#29667180644_112250bcc4_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#4#Cart#5694004789_4e6bef3703_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#4#Cart#5694004789_4e6bef3703_o.png",
+  "name": "17#Non-motor Vehicle#4#Cart#5694004789_4e6bef3703_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#7#Mower#9488829354_529deee13c_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#7#Mower#9488829354_529deee13c_o.png",
+  "name": "17#Non-motor Vehicle#7#Mower#9488829354_529deee13c_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#9#ShoppingCart#5986147189_6cd2eabe67_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#9#ShoppingCart#5986147189_6cd2eabe67_o.png",
+  "name": "17#Non-motor Vehicle#9#ShoppingCart#5986147189_6cd2eabe67_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#1#Boat#6168916876_58d423bcfe_o.jpg",
+  "mask_file": "19#Ship#1#Boat#6168916876_58d423bcfe_o.png",
+  "name": "19#Ship#1#Boat#6168916876_58d423bcfe_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#13970972040_d28a3a3db5_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#13970972040_d28a3a3db5_o.png",
+  "name": "2#Aircraft#1#Airplane#13970972040_d28a3a3db5_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#26008758618_e0005c3b33_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#26008758618_e0005c3b33_o.png",
+  "name": "2#Aircraft#1#Airplane#26008758618_e0005c3b33_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#27270480112_ac476d506d_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#27270480112_ac476d506d_o.png",
+  "name": "2#Aircraft#1#Airplane#27270480112_ac476d506d_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#3#HangGlider#9322430002_e39940ec46_o.jpg",
+  "mask_file": "2#Aircraft#3#HangGlider#9322430002_e39940ec46_o.png",
+  "name": "2#Aircraft#3#HangGlider#9322430002_e39940ec46_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#8853363685_0aebbb4f40_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#8853363685_0aebbb4f40_o.png",
+  "name": "2#Aircraft#4#Helicopter#8853363685_0aebbb4f40_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#7#UAV#27732850730_edb3b30fe9_o.jpg",
+  "mask_file": "2#Aircraft#7#UAV#27732850730_edb3b30fe9_o.png",
+  "name": "2#Aircraft#7#UAV#27732850730_edb3b30fe9_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#2#Fencing#3105146919_a25db759dc_o.jpg",
+  "mask_file": "20#Sports#2#Fencing#3105146919_a25db759dc_o.png",
+  "name": "20#Sports#2#Fencing#3105146919_a25db759dc_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#3#Fishing#11257327813_504c7b243a_o.jpg",
+  "mask_file": "20#Sports#3#Fishing#11257327813_504c7b243a_o.png",
+  "name": "20#Sports#3#Fishing#11257327813_504c7b243a_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#3#Fishing#16103588192_dfaab1ea82_o.jpg",
+  "mask_file": "20#Sports#3#Fishing#16103588192_dfaab1ea82_o.png",
+  "name": "20#Sports#3#Fishing#16103588192_dfaab1ea82_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#3#Fishing#7180458965_bc2bc3279d_o.jpg",
+  "mask_file": "20#Sports#3#Fishing#7180458965_bc2bc3279d_o.png",
+  "name": "20#Sports#3#Fishing#7180458965_bc2bc3279d_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#12#Stationary#3267227227_e6a7024482_o.jpg",
+  "mask_file": "21#Tool#12#Stationary#3267227227_e6a7024482_o.png",
+  "name": "21#Tool#12#Stationary#3267227227_e6a7024482_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#14#Sword#7225659620_0efd0b86fa_o.jpg",
+  "mask_file": "21#Tool#14#Sword#7225659620_0efd0b86fa_o.png",
+  "name": "21#Tool#14#Sword#7225659620_0efd0b86fa_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#14#Sword#9884801566_b2e931b2d0_o.jpg",
+  "mask_file": "21#Tool#14#Sword#9884801566_b2e931b2d0_o.png",
+  "name": "21#Tool#14#Sword#9884801566_b2e931b2d0_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#16#Telescope#4022809227_8a55de3489_o.jpg",
+  "mask_file": "21#Tool#16#Telescope#4022809227_8a55de3489_o.png",
+  "name": "21#Tool#16#Telescope#4022809227_8a55de3489_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#17#Tripod#7808919732_c90a7e4105_o.jpg",
+  "mask_file": "21#Tool#17#Tripod#7808919732_c90a7e4105_o.png",
+  "name": "21#Tool#17#Tripod#7808919732_c90a7e4105_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#18#Umbrella#5937730860_6d2b99d87b_o.jpg",
+  "mask_file": "21#Tool#18#Umbrella#5937730860_6d2b99d87b_o.png",
+  "name": "21#Tool#18#Umbrella#5937730860_6d2b99d87b_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#2#Clip#14871971667_059e507134_o.jpg",
+  "mask_file": "21#Tool#2#Clip#14871971667_059e507134_o.png",
+  "name": "21#Tool#2#Clip#14871971667_059e507134_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#2#Clip#4367116723_e6bbdedf9a_o.jpg",
+  "mask_file": "21#Tool#2#Clip#4367116723_e6bbdedf9a_o.png",
+  "name": "21#Tool#2#Clip#4367116723_e6bbdedf9a_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#4#Flag#7410822508_0d11bfa7a7_o.jpg",
+  "mask_file": "21#Tool#4#Flag#7410822508_0d11bfa7a7_o.png",
+  "name": "21#Tool#4#Flag#7410822508_0d11bfa7a7_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#5#Hook#4570154545_f59e1e0dfe_o.jpg",
+  "mask_file": "21#Tool#5#Hook#4570154545_f59e1e0dfe_o.png",
+  "name": "21#Tool#5#Hook#4570154545_f59e1e0dfe_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#6#Key#2168174621_5443134212_o.jpg",
+  "mask_file": "21#Tool#6#Key#2168174621_5443134212_o.png",
+  "name": "21#Tool#6#Key#2168174621_5443134212_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#6#Key#7950977422_d8a6e030c9_o.jpg",
+  "mask_file": "21#Tool#6#Key#7950977422_d8a6e030c9_o.png",
+  "name": "21#Tool#6#Key#7950977422_d8a6e030c9_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#1#Cannon#195010066_669d2b5551_o.jpg",
+  "mask_file": "22#Weapon#1#Cannon#195010066_669d2b5551_o.png",
+  "name": "22#Weapon#1#Cannon#195010066_669d2b5551_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#1#Cannon#4091155034_22585e9d26_o.jpg",
+  "mask_file": "22#Weapon#1#Cannon#4091155034_22585e9d26_o.png",
+  "name": "22#Weapon#1#Cannon#4091155034_22585e9d26_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#2#MachineGun#17527806473_7b6afccbc3_o.jpg",
+  "mask_file": "22#Weapon#2#MachineGun#17527806473_7b6afccbc3_o.png",
+  "name": "22#Weapon#2#MachineGun#17527806473_7b6afccbc3_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "22#Weapon#4#Rifle#47352052972_86007a8ebe_o.jpg",
+  "mask_file": "22#Weapon#4#Rifle#47352052972_86007a8ebe_o.png",
+  "name": "22#Weapon#4#Rifle#47352052972_86007a8ebe_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "3#Aquatic#1#Lobster#3913410567_bec09fda3f_o.jpg",
+  "mask_file": "3#Aquatic#1#Lobster#3913410567_bec09fda3f_o.png",
+  "name": "3#Aquatic#1#Lobster#3913410567_bec09fda3f_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "3#Aquatic#5#Shrimp#2290393776_b646f8a750_o.jpg",
+  "mask_file": "3#Aquatic#5#Shrimp#2290393776_b646f8a750_o.png",
+  "name": "3#Aquatic#5#Shrimp#2290393776_b646f8a750_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "3#Aquatic#6#Dragonfish#150609394_90faffead4_o.jpg",
+  "mask_file": "3#Aquatic#6#Dragonfish#150609394_90faffead4_o.png",
+  "name": "3#Aquatic#6#Dragonfish#150609394_90faffead4_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "3#Aquatic#7#Octopus#15555653797_1c5c6b3227_o.jpg",
+  "mask_file": "3#Aquatic#7#Octopus#15555653797_1c5c6b3227_o.png",
+  "name": "3#Aquatic#7#Octopus#15555653797_1c5c6b3227_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#1#Balcony#6751123923_239473fa4b_o.jpg",
+  "mask_file": "4#Architecture#1#Balcony#6751123923_239473fa4b_o.png",
+  "name": "4#Architecture#1#Balcony#6751123923_239473fa4b_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#10#Pavilion#5872762427_8d0ea8a652_o.jpg",
+  "mask_file": "4#Architecture#10#Pavilion#5872762427_8d0ea8a652_o.png",
+  "name": "4#Architecture#10#Pavilion#5872762427_8d0ea8a652_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#12#Scaffold#6176833563_141ecefc5a_o.jpg",
+  "mask_file": "4#Architecture#12#Scaffold#6176833563_141ecefc5a_o.png",
+  "name": "4#Architecture#12#Scaffold#6176833563_141ecefc5a_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#13#Sculpture#28572396673_fe2464508a_o.jpg",
+  "mask_file": "4#Architecture#13#Sculpture#28572396673_fe2464508a_o.png",
+  "name": "4#Architecture#13#Sculpture#28572396673_fe2464508a_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#13#Sculpture#31310751977_1a364196d4_o.jpg",
+  "mask_file": "4#Architecture#13#Sculpture#31310751977_1a364196d4_o.png",
+  "name": "4#Architecture#13#Sculpture#31310751977_1a364196d4_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#13#Sculpture#3231787160_5f6ac96eb7_o.jpg",
+  "mask_file": "4#Architecture#13#Sculpture#3231787160_5f6ac96eb7_o.png",
+  "name": "4#Architecture#13#Sculpture#3231787160_5f6ac96eb7_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#3#Crack#3550765831_7e6718c3a5_o.jpg",
+  "mask_file": "4#Architecture#3#Crack#3550765831_7e6718c3a5_o.png",
+  "name": "4#Architecture#3#Crack#3550765831_7e6718c3a5_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#3#Crack#5523634564_36064e3d74_o.jpg",
+  "mask_file": "4#Architecture#3#Crack#5523634564_36064e3d74_o.png",
+  "name": "4#Architecture#3#Crack#5523634564_36064e3d74_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#4#Fence#1242344908_c635c0251d_o.jpg",
+  "mask_file": "4#Architecture#4#Fence#1242344908_c635c0251d_o.png",
+  "name": "4#Architecture#4#Fence#1242344908_c635c0251d_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#4#Fence#3989249760_e86d7af9d9_o.jpg",
+  "mask_file": "4#Architecture#4#Fence#3989249760_e86d7af9d9_o.png",
+  "name": "4#Architecture#4#Fence#3989249760_e86d7af9d9_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#5#GasStation#39027202221_2f848349cc_o.jpg",
+  "mask_file": "4#Architecture#5#GasStation#39027202221_2f848349cc_o.png",
+  "name": "4#Architecture#5#GasStation#39027202221_2f848349cc_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#5#GasStation#6693484481_a15358e544_o.jpg",
+  "mask_file": "4#Architecture#5#GasStation#6693484481_a15358e544_o.png",
+  "name": "4#Architecture#5#GasStation#6693484481_a15358e544_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#6#Gate#8435804138_535b7845a1_o.jpg",
+  "mask_file": "4#Architecture#6#Gate#8435804138_535b7845a1_o.png",
+  "name": "4#Architecture#6#Gate#8435804138_535b7845a1_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "4#Architecture#9#OilWell#50110143861_39be346066_o.jpg",
+  "mask_file": "4#Architecture#9#OilWell#50110143861_39be346066_o.png",
+  "name": "4#Architecture#9#OilWell#50110143861_39be346066_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "5#Artifact#3#Handcraft#5569624681_84383ea747_o.jpg",
+  "mask_file": "5#Artifact#3#Handcraft#5569624681_84383ea747_o.png",
+  "name": "5#Artifact#3#Handcraft#5569624681_84383ea747_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "5#Artifact#5#Toy#5920975879_ffc01bb5b2_o.jpg",
+  "mask_file": "5#Artifact#5#Toy#5920975879_ffc01bb5b2_o.png",
+  "name": "5#Artifact#5#Toy#5920975879_ffc01bb5b2_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#10#SteeringWheel#34497884010_5ab898c437_o.jpg",
+  "mask_file": "6#Automobile#10#SteeringWheel#34497884010_5ab898c437_o.png",
+  "name": "6#Automobile#10#SteeringWheel#34497884010_5ab898c437_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#12#Truck#2278142076_0a4dffcde6_o.jpg",
+  "mask_file": "6#Automobile#12#Truck#2278142076_0a4dffcde6_o.png",
+  "name": "6#Automobile#12#Truck#2278142076_0a4dffcde6_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#2#CableLift#18290204131_29aa104cdd_o.jpg",
+  "mask_file": "6#Automobile#2#CableLift#18290204131_29aa104cdd_o.png",
+  "name": "6#Automobile#2#CableLift#18290204131_29aa104cdd_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#3#Car#22822164354_4c562cb545_o.jpg",
+  "mask_file": "6#Automobile#3#Car#22822164354_4c562cb545_o.png",
+  "name": "6#Automobile#3#Car#22822164354_4c562cb545_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#7#Forklift#111142691_646e10469e_o.jpg",
+  "mask_file": "6#Automobile#7#Forklift#111142691_646e10469e_o.png",
+  "name": "6#Automobile#7#Forklift#111142691_646e10469e_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "6#Automobile#7#Forklift#2798559381_1d0f0af828_o.jpg",
+  "mask_file": "6#Automobile#7#Forklift#2798559381_1d0f0af828_o.png",
+  "name": "6#Automobile#7#Forklift#2798559381_1d0f0af828_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#1#Cable#3308140771_48f4578ec0_o.jpg",
+  "mask_file": "7#Electrical#1#Cable#3308140771_48f4578ec0_o.png",
+  "name": "7#Electrical#1#Cable#3308140771_48f4578ec0_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#1#Cable#4844219306_40f350574e_o.jpg",
+  "mask_file": "7#Electrical#1#Cable#4844219306_40f350574e_o.png",
+  "name": "7#Electrical#1#Cable#4844219306_40f350574e_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#1#Cable#5168210976_b1904990e3_o.jpg",
+  "mask_file": "7#Electrical#1#Cable#5168210976_b1904990e3_o.png",
+  "name": "7#Electrical#1#Cable#5168210976_b1904990e3_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "7#Electrical#6#StreetLamp#7924240682_2eb3f9a30e_o.jpg",
+  "mask_file": "7#Electrical#6#StreetLamp#7924240682_2eb3f9a30e_o.png",
+  "name": "7#Electrical#6#StreetLamp#7924240682_2eb3f9a30e_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#1#Antenna#4185755619_20663b7708_o.jpg",
+  "mask_file": "8#Electronics#1#Antenna#4185755619_20663b7708_o.png",
+  "name": "8#Electronics#1#Antenna#4185755619_20663b7708_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#3#Earphone#32656222547_e5ff545f54_o.jpg",
+  "mask_file": "8#Electronics#3#Earphone#32656222547_e5ff545f54_o.png",
+  "name": "8#Electronics#3#Earphone#32656222547_e5ff545f54_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#3#Earphone#355214036_398ae68977_o.jpg",
+  "mask_file": "8#Electronics#3#Earphone#355214036_398ae68977_o.png",
+  "name": "8#Electronics#3#Earphone#355214036_398ae68977_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#6#Microphone#47411477652_6da66cbc10_o.jpg",
+  "mask_file": "8#Electronics#6#Microphone#47411477652_6da66cbc10_o.png",
+  "name": "8#Electronics#6#Microphone#47411477652_6da66cbc10_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#7#MobileHolder#49733319552_128c6d195a_o.jpg",
+  "mask_file": "8#Electronics#7#MobileHolder#49733319552_128c6d195a_o.png",
+  "name": "8#Electronics#7#MobileHolder#49733319552_128c6d195a_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "8#Electronics#9#MusicPlayer#3415622064_f4f5bb6236_o.jpg",
+  "mask_file": "8#Electronics#9#MusicPlayer#3415622064_f4f5bb6236_o.png",
+  "name": "8#Electronics#9#MusicPlayer#3415622064_f4f5bb6236_o",
+  "subset": "TE2",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#1#Bag#23874064818_0f48ebc912_o.jpg",
+  "mask_file": "1#Accessories#1#Bag#23874064818_0f48ebc912_o.png",
+  "name": "1#Accessories#1#Bag#23874064818_0f48ebc912_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#1#Bag#4077792735_6e68f66b60_o.jpg",
+  "mask_file": "1#Accessories#1#Bag#4077792735_6e68f66b60_o.png",
+  "name": "1#Accessories#1#Bag#4077792735_6e68f66b60_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#5#Jewelry#37741375584_772a67b247_o.jpg",
+  "mask_file": "1#Accessories#5#Jewelry#37741375584_772a67b247_o.png",
+  "name": "1#Accessories#5#Jewelry#37741375584_772a67b247_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#5#Jewelry#4066319527_2e62a37568_o.jpg",
+  "mask_file": "1#Accessories#5#Jewelry#4066319527_2e62a37568_o.png",
+  "name": "1#Accessories#5#Jewelry#4066319527_2e62a37568_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#7#Shoe#30831355246_1ab3480879_o.jpg",
+  "mask_file": "1#Accessories#7#Shoe#30831355246_1ab3480879_o.png",
+  "name": "1#Accessories#7#Shoe#30831355246_1ab3480879_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#4#MagazineRack#12198237533_99e2e2f429_o.jpg",
+  "mask_file": "10#Frame#4#MagazineRack#12198237533_99e2e2f429_o.png",
+  "name": "10#Frame#4#MagazineRack#12198237533_99e2e2f429_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#14019063435_a1594749a7_o.jpg",
+  "mask_file": "10#Frame#5#Rack#14019063435_a1594749a7_o.png",
+  "name": "10#Frame#5#Rack#14019063435_a1594749a7_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#141528765_4e57e53e1a_o.jpg",
+  "mask_file": "10#Frame#5#Rack#141528765_4e57e53e1a_o.png",
+  "name": "10#Frame#5#Rack#141528765_4e57e53e1a_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#18986790474_c32299e440_o.jpg",
+  "mask_file": "10#Frame#5#Rack#18986790474_c32299e440_o.png",
+  "name": "10#Frame#5#Rack#18986790474_c32299e440_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#25795113068_00bff18286_o.jpg",
+  "mask_file": "10#Frame#5#Rack#25795113068_00bff18286_o.png",
+  "name": "10#Frame#5#Rack#25795113068_00bff18286_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#34607211574_f586f7e0df_o.jpg",
+  "mask_file": "10#Frame#5#Rack#34607211574_f586f7e0df_o.png",
+  "name": "10#Frame#5#Rack#34607211574_f586f7e0df_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#3686801683_49ffe26d92_o.jpg",
+  "mask_file": "10#Frame#5#Rack#3686801683_49ffe26d92_o.png",
+  "name": "10#Frame#5#Rack#3686801683_49ffe26d92_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#1#Bed#18863524008_ac1ce7a1a5_o.jpg",
+  "mask_file": "11#Furniture#1#Bed#18863524008_ac1ce7a1a5_o.png",
+  "name": "11#Furniture#1#Bed#18863524008_ac1ce7a1a5_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#10#Hammock#21207487562_f939f7649b_o.jpg",
+  "mask_file": "11#Furniture#10#Hammock#21207487562_f939f7649b_o.png",
+  "name": "11#Furniture#10#Hammock#21207487562_f939f7649b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#10#Hammock#2274347371_ca744b4220_o.jpg",
+  "mask_file": "11#Furniture#10#Hammock#2274347371_ca744b4220_o.png",
+  "name": "11#Furniture#10#Hammock#2274347371_ca744b4220_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#11#Handrail#4460337113_908cacd005_o.jpg",
+  "mask_file": "11#Furniture#11#Handrail#4460337113_908cacd005_o.png",
+  "name": "11#Furniture#11#Handrail#4460337113_908cacd005_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#11#Handrail#IMG_20210512_192748.jpg",
+  "mask_file": "11#Furniture#11#Handrail#IMG_20210512_192748.png",
+  "name": "11#Furniture#11#Handrail#IMG_20210512_192748",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#14#LaundryRack#48441114027_448d0d8550_o.jpg",
+  "mask_file": "11#Furniture#14#LaundryRack#48441114027_448d0d8550_o.png",
+  "name": "11#Furniture#14#LaundryRack#48441114027_448d0d8550_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#171344123_e9eabc3fed_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#171344123_e9eabc3fed_o.png",
+  "name": "11#Furniture#18#TableChair#171344123_e9eabc3fed_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#20715318361_cc865f7fcc_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#20715318361_cc865f7fcc_o.png",
+  "name": "11#Furniture#18#TableChair#20715318361_cc865f7fcc_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#27288484375_9d99db998c_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#27288484375_9d99db998c_o.png",
+  "name": "11#Furniture#18#TableChair#27288484375_9d99db998c_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#3569574687_43fe1dfd9c_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#3569574687_43fe1dfd9c_o.png",
+  "name": "11#Furniture#18#TableChair#3569574687_43fe1dfd9c_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#3833592501_b72ca5b59f_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#3833592501_b72ca5b59f_o.png",
+  "name": "11#Furniture#18#TableChair#3833592501_b72ca5b59f_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#4754704212_cce991a221_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#4754704212_cce991a221_o.png",
+  "name": "11#Furniture#18#TableChair#4754704212_cce991a221_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#5335831067_a067beacee_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#5335831067_a067beacee_o.png",
+  "name": "11#Furniture#18#TableChair#5335831067_a067beacee_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#5986947560_a68cf0e345_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#5986947560_a68cf0e345_o.png",
+  "name": "11#Furniture#18#TableChair#5986947560_a68cf0e345_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#6960946159_10c0ba78fc_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#6960946159_10c0ba78fc_o.png",
+  "name": "11#Furniture#18#TableChair#6960946159_10c0ba78fc_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#30763788367_b881f0f62f_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#30763788367_b881f0f62f_o.png",
+  "name": "11#Furniture#2#Bench#30763788367_b881f0f62f_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#34166006653_4bd28bdc34_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#34166006653_4bd28bdc34_o.png",
+  "name": "11#Furniture#2#Bench#34166006653_4bd28bdc34_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#34759432560_bf993c2e7f_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#34759432560_bf993c2e7f_o.png",
+  "name": "11#Furniture#2#Bench#34759432560_bf993c2e7f_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#41499900014_4ae6f8df43_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#41499900014_4ae6f8df43_o.png",
+  "name": "11#Furniture#2#Bench#41499900014_4ae6f8df43_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#8731614432_9b45860a8e_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#8731614432_9b45860a8e_o.png",
+  "name": "11#Furniture#2#Bench#8731614432_9b45860a8e_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#16519736446_08c042b3ac_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#16519736446_08c042b3ac_o.png",
+  "name": "11#Furniture#4#Chair#16519736446_08c042b3ac_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#3016162995_96c611c667_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#3016162995_96c611c667_o.png",
+  "name": "11#Furniture#4#Chair#3016162995_96c611c667_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#5841151002_98e80e6de9_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#5841151002_98e80e6de9_o.png",
+  "name": "11#Furniture#4#Chair#5841151002_98e80e6de9_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#6130143793_ca6de939a2_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#6130143793_ca6de939a2_o.png",
+  "name": "11#Furniture#4#Chair#6130143793_ca6de939a2_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#IMG_20210520_204710.jpg",
+  "mask_file": "11#Furniture#4#Chair#IMG_20210520_204710.png",
+  "name": "11#Furniture#4#Chair#IMG_20210520_204710",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#7#Desk#2952281650_d2aa47929e_o.jpg",
+  "mask_file": "11#Furniture#7#Desk#2952281650_d2aa47929e_o.png",
+  "name": "11#Furniture#7#Desk#2952281650_d2aa47929e_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#7#Desk#4289763142_f6dfef1d81_o.jpg",
+  "mask_file": "11#Furniture#7#Desk#4289763142_f6dfef1d81_o.png",
+  "name": "11#Furniture#7#Desk#4289763142_f6dfef1d81_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#9#Easel#21469230390_5ba89afb11_o.jpg",
+  "mask_file": "11#Furniture#9#Easel#21469230390_5ba89afb11_o.png",
+  "name": "11#Furniture#9#Easel#21469230390_5ba89afb11_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#1#Diagram#4697613106_6207d976bb_o.jpg",
+  "mask_file": "12#Graphics#1#Diagram#4697613106_6207d976bb_o.png",
+  "name": "12#Graphics#1#Diagram#4697613106_6207d976bb_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#10#Mosquito#4540835580_46b65f5cf1_o.jpg",
+  "mask_file": "13#Insect#10#Mosquito#4540835580_46b65f5cf1_o.png",
+  "name": "13#Insect#10#Mosquito#4540835580_46b65f5cf1_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#3#Bee#50551749567_56c1272284_o.jpg",
+  "mask_file": "13#Insect#3#Bee#50551749567_56c1272284_o.png",
+  "name": "13#Insect#3#Bee#50551749567_56c1272284_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#6#Centipede#5770133477_91d01fae9e_o.jpg",
+  "mask_file": "13#Insect#6#Centipede#5770133477_91d01fae9e_o.png",
+  "name": "13#Insect#6#Centipede#5770133477_91d01fae9e_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#7#Dragonfly#17780453174_a937674543_o.jpg",
+  "mask_file": "13#Insect#7#Dragonfly#17780453174_a937674543_o.png",
+  "name": "13#Insect#7#Dragonfly#17780453174_a937674543_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#4#Kitchenware#2451122898_ef883175dd_o.jpg",
+  "mask_file": "14#Kitchenware#4#Kitchenware#2451122898_ef883175dd_o.png",
+  "name": "14#Kitchenware#4#Kitchenware#2451122898_ef883175dd_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "14#Kitchenware#9#Teapot#5366257180_9437b2eb45_o.jpg",
+  "mask_file": "14#Kitchenware#9#Teapot#5366257180_9437b2eb45_o.png",
+  "name": "14#Kitchenware#9#Teapot#5366257180_9437b2eb45_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "15#Machine#1#Gear#14770886171_fe8732ebbe_o.jpg",
+  "mask_file": "15#Machine#1#Gear#14770886171_fe8732ebbe_o.png",
+  "name": "15#Machine#1#Gear#14770886171_fe8732ebbe_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "15#Machine#3#PlowHarrow#5202785917_44291f5b26_o.jpg",
+  "mask_file": "15#Machine#3#PlowHarrow#5202785917_44291f5b26_o.png",
+  "name": "15#Machine#3#PlowHarrow#5202785917_44291f5b26_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "15#Machine#4#SewingMachine#9311164128_97ba1d3947_o.jpg",
+  "mask_file": "15#Machine#4#SewingMachine#9311164128_97ba1d3947_o.png",
+  "name": "15#Machine#4#SewingMachine#9311164128_97ba1d3947_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#1#Drum#10153148245_11ff2f0e62_o.jpg",
+  "mask_file": "16#Music Instrument#1#Drum#10153148245_11ff2f0e62_o.png",
+  "name": "16#Music Instrument#1#Drum#10153148245_11ff2f0e62_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#1#Drum#2568563453_d2b5cfd55a_o.jpg",
+  "mask_file": "16#Music Instrument#1#Drum#2568563453_d2b5cfd55a_o.png",
+  "name": "16#Music Instrument#1#Drum#2568563453_d2b5cfd55a_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#1#Drum#3246282295_e2e997ff6b_o.jpg",
+  "mask_file": "16#Music Instrument#1#Drum#3246282295_e2e997ff6b_o.png",
+  "name": "16#Music Instrument#1#Drum#3246282295_e2e997ff6b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#2#Harp#12575632433_691a91cd41_o.jpg",
+  "mask_file": "16#Music Instrument#2#Harp#12575632433_691a91cd41_o.png",
+  "name": "16#Music Instrument#2#Harp#12575632433_691a91cd41_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#2#Harp#28490663133_f1f693dd2c_o.jpg",
+  "mask_file": "16#Music Instrument#2#Harp#28490663133_f1f693dd2c_o.png",
+  "name": "16#Music Instrument#2#Harp#28490663133_f1f693dd2c_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#2#Harp#7670920550_59e992fd7b_o.jpg",
+  "mask_file": "16#Music Instrument#2#Harp#7670920550_59e992fd7b_o.png",
+  "name": "16#Music Instrument#2#Harp#7670920550_59e992fd7b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#3#MusicStand#6360259165_2e5d778bfb_o.jpg",
+  "mask_file": "16#Music Instrument#3#MusicStand#6360259165_2e5d778bfb_o.png",
+  "name": "16#Music Instrument#3#MusicStand#6360259165_2e5d778bfb_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#6#Trumpet#45909634775_eed4a184ee_o.jpg",
+  "mask_file": "16#Music Instrument#6#Trumpet#45909634775_eed4a184ee_o.png",
+  "name": "16#Music Instrument#6#Trumpet#45909634775_eed4a184ee_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "16#Music Instrument#7#Tuba#30110680307_0d923b4235_o.jpg",
+  "mask_file": "16#Music Instrument#7#Tuba#30110680307_0d923b4235_o.png",
+  "name": "16#Music Instrument#7#Tuba#30110680307_0d923b4235_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#1#BabyCarriage#6284645710_f1e1a7ba5b_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#1#BabyCarriage#6284645710_f1e1a7ba5b_o.png",
+  "name": "17#Non-motor Vehicle#1#BabyCarriage#6284645710_f1e1a7ba5b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#23946197778_bcba898f59_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#23946197778_bcba898f59_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#23946197778_bcba898f59_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#6190914730_0fdea16dd1_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#6190914730_0fdea16dd1_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#6190914730_0fdea16dd1_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#12#Wheel#15761404287_b3099b49c7_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#12#Wheel#15761404287_b3099b49c7_o.png",
+  "name": "17#Non-motor Vehicle#12#Wheel#15761404287_b3099b49c7_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#12#Wheel#45907459955_da650c9117_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#12#Wheel#45907459955_da650c9117_o.png",
+  "name": "17#Non-motor Vehicle#12#Wheel#45907459955_da650c9117_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#12#Wheel#48798979222_1b07dd127b_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#12#Wheel#48798979222_1b07dd127b_o.png",
+  "name": "17#Non-motor Vehicle#12#Wheel#48798979222_1b07dd127b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#12#Wheel#6249922713_4142576415_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#12#Wheel#6249922713_4142576415_o.png",
+  "name": "17#Non-motor Vehicle#12#Wheel#6249922713_4142576415_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#19804456_01e0163fb7_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#19804456_01e0163fb7_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#19804456_01e0163fb7_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#4205340411_cecbf6600d_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#4205340411_cecbf6600d_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#4205340411_cecbf6600d_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#3#Carriage#1256962592_4c6144e13e_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#3#Carriage#1256962592_4c6144e13e_o.png",
+  "name": "17#Non-motor Vehicle#3#Carriage#1256962592_4c6144e13e_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#3#Carriage#5947122724_98e0fc3d1f_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#3#Carriage#5947122724_98e0fc3d1f_o.png",
+  "name": "17#Non-motor Vehicle#3#Carriage#5947122724_98e0fc3d1f_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#4#Cart#4495564137_9eb81dc5a2_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#4#Cart#4495564137_9eb81dc5a2_o.png",
+  "name": "17#Non-motor Vehicle#4#Cart#4495564137_9eb81dc5a2_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#4#Cart#48312748221_edab981eb2_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#4#Cart#48312748221_edab981eb2_o.png",
+  "name": "17#Non-motor Vehicle#4#Cart#48312748221_edab981eb2_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#4#Cart#IMG_20210512_194551.jpg",
+  "mask_file": "17#Non-motor Vehicle#4#Cart#IMG_20210512_194551.png",
+  "name": "17#Non-motor Vehicle#4#Cart#IMG_20210512_194551",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#7#Mower#26846677144_a170755210_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#7#Mower#26846677144_a170755210_o.png",
+  "name": "17#Non-motor Vehicle#7#Mower#26846677144_a170755210_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#1#Boat#14045810570_5378d73227_o.jpg",
+  "mask_file": "19#Ship#1#Boat#14045810570_5378d73227_o.png",
+  "name": "19#Ship#1#Boat#14045810570_5378d73227_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#1#Boat#16398058316_0d765f8413_o.jpg",
+  "mask_file": "19#Ship#1#Boat#16398058316_0d765f8413_o.png",
+  "name": "19#Ship#1#Boat#16398058316_0d765f8413_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#5#SpeedBoat#6068901583_4a0900b0b3_o.jpg",
+  "mask_file": "19#Ship#5#SpeedBoat#6068901583_4a0900b0b3_o.png",
+  "name": "19#Ship#5#SpeedBoat#6068901583_4a0900b0b3_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#6#Yacht#41825259124_669e30b61d_o.jpg",
+  "mask_file": "19#Ship#6#Yacht#41825259124_669e30b61d_o.png",
+  "name": "19#Ship#6#Yacht#41825259124_669e30b61d_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#6#Yacht#44099619612_b50c1e231c_o.jpg",
+  "mask_file": "19#Ship#6#Yacht#44099619612_b50c1e231c_o.png",
+  "name": "19#Ship#6#Yacht#44099619612_b50c1e231c_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#19662110459_8ba02a3c95_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#19662110459_8ba02a3c95_o.png",
+  "name": "2#Aircraft#1#Airplane#19662110459_8ba02a3c95_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#51203187822_5f57e7068b_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#51203187822_5f57e7068b_o.png",
+  "name": "2#Aircraft#1#Airplane#51203187822_5f57e7068b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#1791884621_d79be91074_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#1791884621_d79be91074_o.png",
+  "name": "2#Aircraft#4#Helicopter#1791884621_d79be91074_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#335000596_24a538508b_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#335000596_24a538508b_o.png",
+  "name": "2#Aircraft#4#Helicopter#335000596_24a538508b_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#37109865844_01b0f754cb_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#37109865844_01b0f754cb_o.png",
+  "name": "2#Aircraft#4#Helicopter#37109865844_01b0f754cb_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#4542914206_14465041d9_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#4542914206_14465041d9_o.png",
+  "name": "2#Aircraft#4#Helicopter#4542914206_14465041d9_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#7416160842_ca8003cb3f_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#7416160842_ca8003cb3f_o.png",
+  "name": "2#Aircraft#4#Helicopter#7416160842_ca8003cb3f_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#5#Kite#4414557470_896931f8a2_o.jpg",
+  "mask_file": "2#Aircraft#5#Kite#4414557470_896931f8a2_o.png",
+  "name": "2#Aircraft#5#Kite#4414557470_896931f8a2_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#2686524930_d46e96f809_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#2686524930_d46e96f809_o.png",
+  "name": "2#Aircraft#6#Parachute#2686524930_d46e96f809_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#5975444991_bea474d7e9_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#5975444991_bea474d7e9_o.png",
+  "name": "2#Aircraft#6#Parachute#5975444991_bea474d7e9_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#7#UAV#16017536839_bbf80afeb0_o.jpg",
+  "mask_file": "2#Aircraft#7#UAV#16017536839_bbf80afeb0_o.png",
+  "name": "2#Aircraft#7#UAV#16017536839_bbf80afeb0_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#7#UAV#21633076030_80def2afb0_o.jpg",
+  "mask_file": "2#Aircraft#7#UAV#21633076030_80def2afb0_o.png",
+  "name": "2#Aircraft#7#UAV#21633076030_80def2afb0_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#1#Archery#10195804594_e09dc70b40_o.jpg",
+  "mask_file": "20#Sports#1#Archery#10195804594_e09dc70b40_o.png",
+  "name": "20#Sports#1#Archery#10195804594_e09dc70b40_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#1#Archery#1271163886_868c81e0cb_o.jpg",
+  "mask_file": "20#Sports#1#Archery#1271163886_868c81e0cb_o.png",
+  "name": "20#Sports#1#Archery#1271163886_868c81e0cb_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#1#Archery#15002862666_941a6569e3_o.jpg",
+  "mask_file": "20#Sports#1#Archery#15002862666_941a6569e3_o.png",
+  "name": "20#Sports#1#Archery#15002862666_941a6569e3_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#1#Archery#21209640878_a0cd122650_o.jpg",
+  "mask_file": "20#Sports#1#Archery#21209640878_a0cd122650_o.png",
+  "name": "20#Sports#1#Archery#21209640878_a0cd122650_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#1#Archery#7730586140_7749341154_o.jpg",
+  "mask_file": "20#Sports#1#Archery#7730586140_7749341154_o.png",
+  "name": "20#Sports#1#Archery#7730586140_7749341154_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#10#Skateboarding#15170632912_601e81933f_o.jpg",
+  "mask_file": "20#Sports#10#Skateboarding#15170632912_601e81933f_o.png",
+  "name": "20#Sports#10#Skateboarding#15170632912_601e81933f_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#12#TableTennis#43801770260_39d0771848_o.jpg",
+  "mask_file": "20#Sports#12#TableTennis#43801770260_39d0771848_o.png",
+  "name": "20#Sports#12#TableTennis#43801770260_39d0771848_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#3#Fishing#11339821046_53b717f4a2_o.jpg",
+  "mask_file": "20#Sports#3#Fishing#11339821046_53b717f4a2_o.png",
+  "name": "20#Sports#3#Fishing#11339821046_53b717f4a2_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#3#Fishing#7180454681_de02ffb31c_o.jpg",
+  "mask_file": "20#Sports#3#Fishing#7180454681_de02ffb31c_o.png",
+  "name": "20#Sports#3#Fishing#7180454681_de02ffb31c_o",
+  "subset": "TE3",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#1#Bag#15093797296_ea85bf2869_o.jpg",
+  "mask_file": "1#Accessories#1#Bag#15093797296_ea85bf2869_o.png",
+  "name": "1#Accessories#1#Bag#15093797296_ea85bf2869_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "1#Accessories#5#Jewelry#14207242006_7b5db300c1_o.jpg",
+  "mask_file": "1#Accessories#5#Jewelry#14207242006_7b5db300c1_o.png",
+  "name": "1#Accessories#5#Jewelry#14207242006_7b5db300c1_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#3#BicycleStand#22730071003_e5e0be4ea9_o.jpg",
+  "mask_file": "10#Frame#3#BicycleStand#22730071003_e5e0be4ea9_o.png",
+  "name": "10#Frame#3#BicycleStand#22730071003_e5e0be4ea9_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#3#BicycleStand#33406531652_61c7b7b9c6_o.jpg",
+  "mask_file": "10#Frame#3#BicycleStand#33406531652_61c7b7b9c6_o.png",
+  "name": "10#Frame#3#BicycleStand#33406531652_61c7b7b9c6_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#16465572223_4d0891c0e7_o.jpg",
+  "mask_file": "10#Frame#5#Rack#16465572223_4d0891c0e7_o.png",
+  "name": "10#Frame#5#Rack#16465572223_4d0891c0e7_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#27622268197_a906c596e2_o.jpg",
+  "mask_file": "10#Frame#5#Rack#27622268197_a906c596e2_o.png",
+  "name": "10#Frame#5#Rack#27622268197_a906c596e2_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#30704698995_f08e0988a9_o.jpg",
+  "mask_file": "10#Frame#5#Rack#30704698995_f08e0988a9_o.png",
+  "name": "10#Frame#5#Rack#30704698995_f08e0988a9_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#4812942710_d8e6b4de1e_o.jpg",
+  "mask_file": "10#Frame#5#Rack#4812942710_d8e6b4de1e_o.png",
+  "name": "10#Frame#5#Rack#4812942710_d8e6b4de1e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#5#Rack#IMG_20210520_204809.jpg",
+  "mask_file": "10#Frame#5#Rack#IMG_20210520_204809.png",
+  "name": "10#Frame#5#Rack#IMG_20210520_204809",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#6#Skeleton#15483101729_92b2af5987_o.jpg",
+  "mask_file": "10#Frame#6#Skeleton#15483101729_92b2af5987_o.png",
+  "name": "10#Frame#6#Skeleton#15483101729_92b2af5987_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#6#Skeleton#34022711112_dcc443a3c6_o.jpg",
+  "mask_file": "10#Frame#6#Skeleton#34022711112_dcc443a3c6_o.png",
+  "name": "10#Frame#6#Skeleton#34022711112_dcc443a3c6_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#6#Skeleton#34139683436_1ba0d713df_o.jpg",
+  "mask_file": "10#Frame#6#Skeleton#34139683436_1ba0d713df_o.png",
+  "name": "10#Frame#6#Skeleton#34139683436_1ba0d713df_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#6#Skeleton#6373365043_c7061bf104_o.jpg",
+  "mask_file": "10#Frame#6#Skeleton#6373365043_c7061bf104_o.png",
+  "name": "10#Frame#6#Skeleton#6373365043_c7061bf104_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "10#Frame#6#Skeleton#7577034800_5c5183a693_o.jpg",
+  "mask_file": "10#Frame#6#Skeleton#7577034800_5c5183a693_o.png",
+  "name": "10#Frame#6#Skeleton#7577034800_5c5183a693_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#10#Hammock#1347925223_c12df42faa_o.jpg",
+  "mask_file": "11#Furniture#10#Hammock#1347925223_c12df42faa_o.png",
+  "name": "11#Furniture#10#Hammock#1347925223_c12df42faa_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#13#Ladder#49178730458_3d54828ce7_o.jpg",
+  "mask_file": "11#Furniture#13#Ladder#49178730458_3d54828ce7_o.png",
+  "name": "11#Furniture#13#Ladder#49178730458_3d54828ce7_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#15#OperatingTable#14474959796_b51319d3ed_o.jpg",
+  "mask_file": "11#Furniture#15#OperatingTable#14474959796_b51319d3ed_o.png",
+  "name": "11#Furniture#15#OperatingTable#14474959796_b51319d3ed_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#17#Table#12606756403_6e21720274_o.jpg",
+  "mask_file": "11#Furniture#17#Table#12606756403_6e21720274_o.png",
+  "name": "11#Furniture#17#Table#12606756403_6e21720274_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#10856493865_3ea7664435_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#10856493865_3ea7664435_o.png",
+  "name": "11#Furniture#18#TableChair#10856493865_3ea7664435_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#4496257212_c8337b156a_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#4496257212_c8337b156a_o.png",
+  "name": "11#Furniture#18#TableChair#4496257212_c8337b156a_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#18#TableChair#48746714681_24ce829076_o.jpg",
+  "mask_file": "11#Furniture#18#TableChair#48746714681_24ce829076_o.png",
+  "name": "11#Furniture#18#TableChair#48746714681_24ce829076_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#21072078980_d6b9b849de_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#21072078980_d6b9b849de_o.png",
+  "name": "11#Furniture#2#Bench#21072078980_d6b9b849de_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#27472672169_bb0a7eeb76_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#27472672169_bb0a7eeb76_o.png",
+  "name": "11#Furniture#2#Bench#27472672169_bb0a7eeb76_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#6075877354_e63983b412_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#6075877354_e63983b412_o.png",
+  "name": "11#Furniture#2#Bench#6075877354_e63983b412_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#2#Bench#6342037397_765ef1f930_o.jpg",
+  "mask_file": "11#Furniture#2#Bench#6342037397_765ef1f930_o.png",
+  "name": "11#Furniture#2#Bench#6342037397_765ef1f930_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#4#Chair#5901486619_49e094c10e_o.jpg",
+  "mask_file": "11#Furniture#4#Chair#5901486619_49e094c10e_o.png",
+  "name": "11#Furniture#4#Chair#5901486619_49e094c10e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "11#Furniture#6#DentalChair#23198511506_f49d3df71d_o.jpg",
+  "mask_file": "11#Furniture#6#DentalChair#23198511506_f49d3df71d_o.png",
+  "name": "11#Furniture#6#DentalChair#23198511506_f49d3df71d_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#1#Diagram#16600341241_bbabc7d498_o.jpg",
+  "mask_file": "12#Graphics#1#Diagram#16600341241_bbabc7d498_o.png",
+  "name": "12#Graphics#1#Diagram#16600341241_bbabc7d498_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#1#Diagram#3745168759_623b6a7555_o.jpg",
+  "mask_file": "12#Graphics#1#Diagram#3745168759_623b6a7555_o.png",
+  "name": "12#Graphics#1#Diagram#3745168759_623b6a7555_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#1#Diagram#5495006497_cb8114614c_o.jpg",
+  "mask_file": "12#Graphics#1#Diagram#5495006497_cb8114614c_o.png",
+  "name": "12#Graphics#1#Diagram#5495006497_cb8114614c_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "12#Graphics#1#Diagram#8387482942_55d4af7981_o.jpg",
+  "mask_file": "12#Graphics#1#Diagram#8387482942_55d4af7981_o.png",
+  "name": "12#Graphics#1#Diagram#8387482942_55d4af7981_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "13#Insect#5#Caterpillar#15560240615_3d71f87320_o.jpg",
+  "mask_file": "13#Insect#5#Caterpillar#15560240615_3d71f87320_o.png",
+  "name": "13#Insect#5#Caterpillar#15560240615_3d71f87320_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "15#Machine#1#Gear#3370780415_8ca0fa58d9_o.jpg",
+  "mask_file": "15#Machine#1#Gear#3370780415_8ca0fa58d9_o.png",
+  "name": "15#Machine#1#Gear#3370780415_8ca0fa58d9_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "15#Machine#3#PlowHarrow#5411969747_f34e844558_o.jpg",
+  "mask_file": "15#Machine#3#PlowHarrow#5411969747_f34e844558_o.png",
+  "name": "15#Machine#3#PlowHarrow#5411969747_f34e844558_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#10#ShoppingTrolley#236605647_b1835c085e_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#10#ShoppingTrolley#236605647_b1835c085e_o.png",
+  "name": "17#Non-motor Vehicle#10#ShoppingTrolley#236605647_b1835c085e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#11127996446_0a8691781d_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#11127996446_0a8691781d_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#11127996446_0a8691781d_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#14930967360_2364f4e23a_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#14930967360_2364f4e23a_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#14930967360_2364f4e23a_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#20834728610_8be9f7f710_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#20834728610_8be9f7f710_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#20834728610_8be9f7f710_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#29325650750_d7e5dac6a8_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#29325650750_d7e5dac6a8_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#29325650750_d7e5dac6a8_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#29815054052_5c3997bd7e_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#29815054052_5c3997bd7e_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#29815054052_5c3997bd7e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#4619218787_07711392ba_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#4619218787_07711392ba_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#4619218787_07711392ba_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#527710130_590d9ec89d_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#527710130_590d9ec89d_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#527710130_590d9ec89d_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#11#Tricycle#8624956537_f02fb0250b_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#11#Tricycle#8624956537_f02fb0250b_o.png",
+  "name": "17#Non-motor Vehicle#11#Tricycle#8624956537_f02fb0250b_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#12#Wheel#22733681211_f79e1d81d4_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#12#Wheel#22733681211_f79e1d81d4_o.png",
+  "name": "17#Non-motor Vehicle#12#Wheel#22733681211_f79e1d81d4_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#12#Wheel#7574367106_e0a4c90f29_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#12#Wheel#7574367106_e0a4c90f29_o.png",
+  "name": "17#Non-motor Vehicle#12#Wheel#7574367106_e0a4c90f29_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#13#Wheelchair#4111470679_03b8376297_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#13#Wheelchair#4111470679_03b8376297_o.png",
+  "name": "17#Non-motor Vehicle#13#Wheelchair#4111470679_03b8376297_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#13#Wheelchair#5420253957_1853ab0db4_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#13#Wheelchair#5420253957_1853ab0db4_o.png",
+  "name": "17#Non-motor Vehicle#13#Wheelchair#5420253957_1853ab0db4_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#14377891975_0b490f3141_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#14377891975_0b490f3141_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#14377891975_0b490f3141_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#165189498_25ec3fa279_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#165189498_25ec3fa279_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#165189498_25ec3fa279_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#17272337541_4ae8e45cac_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#17272337541_4ae8e45cac_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#17272337541_4ae8e45cac_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#226638550_61ff35e4da_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#226638550_61ff35e4da_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#226638550_61ff35e4da_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#2754907638_18009b4e3b_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#2754907638_18009b4e3b_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#2754907638_18009b4e3b_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#7177933106_57ea4dba0f_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#7177933106_57ea4dba0f_o.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#7177933106_57ea4dba0f_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#2#Bicycle#IMG_20210630_130725.jpg",
+  "mask_file": "17#Non-motor Vehicle#2#Bicycle#IMG_20210630_130725.png",
+  "name": "17#Non-motor Vehicle#2#Bicycle#IMG_20210630_130725",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#3#Carriage#16320560050_475ccb2e7a_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#3#Carriage#16320560050_475ccb2e7a_o.png",
+  "name": "17#Non-motor Vehicle#3#Carriage#16320560050_475ccb2e7a_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#3#Carriage#32327142906_84a0c06d41_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#3#Carriage#32327142906_84a0c06d41_o.png",
+  "name": "17#Non-motor Vehicle#3#Carriage#32327142906_84a0c06d41_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#3#Carriage#3747866430_c4ef428f66_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#3#Carriage#3747866430_c4ef428f66_o.png",
+  "name": "17#Non-motor Vehicle#3#Carriage#3747866430_c4ef428f66_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#5#Handcart#25899669720_ced326bc3b_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#5#Handcart#25899669720_ced326bc3b_o.png",
+  "name": "17#Non-motor Vehicle#5#Handcart#25899669720_ced326bc3b_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#9#ShoppingCart#2079151349_348b518074_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#9#ShoppingCart#2079151349_348b518074_o.png",
+  "name": "17#Non-motor Vehicle#9#ShoppingCart#2079151349_348b518074_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#9#ShoppingCart#2339150432_bd6e9a0195_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#9#ShoppingCart#2339150432_bd6e9a0195_o.png",
+  "name": "17#Non-motor Vehicle#9#ShoppingCart#2339150432_bd6e9a0195_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "17#Non-motor Vehicle#9#ShoppingCart#5506080728_1b7a2020bf_o.jpg",
+  "mask_file": "17#Non-motor Vehicle#9#ShoppingCart#5506080728_1b7a2020bf_o.png",
+  "name": "17#Non-motor Vehicle#9#ShoppingCart#5506080728_1b7a2020bf_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "18#Plant#1#Bonsai#3051517569_41555313a1_o.jpg",
+  "mask_file": "18#Plant#1#Bonsai#3051517569_41555313a1_o.png",
+  "name": "18#Plant#1#Bonsai#3051517569_41555313a1_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "18#Plant#1#Bonsai#3539420884_ca8973e2c0_o.jpg",
+  "mask_file": "18#Plant#1#Bonsai#3539420884_ca8973e2c0_o.png",
+  "name": "18#Plant#1#Bonsai#3539420884_ca8973e2c0_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "18#Plant#1#Bonsai#9587552458_5c6e5fa154_o.jpg",
+  "mask_file": "18#Plant#1#Bonsai#9587552458_5c6e5fa154_o.png",
+  "name": "18#Plant#1#Bonsai#9587552458_5c6e5fa154_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#1#Boat#27104578571_51f396dff9_o.jpg",
+  "mask_file": "19#Ship#1#Boat#27104578571_51f396dff9_o.png",
+  "name": "19#Ship#1#Boat#27104578571_51f396dff9_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#1#Boat#7127481103_a3aec75f7e_o.jpg",
+  "mask_file": "19#Ship#1#Boat#7127481103_a3aec75f7e_o.png",
+  "name": "19#Ship#1#Boat#7127481103_a3aec75f7e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#3#Sailboat#14297524998_16f0f535f3_o.jpg",
+  "mask_file": "19#Ship#3#Sailboat#14297524998_16f0f535f3_o.png",
+  "name": "19#Ship#3#Sailboat#14297524998_16f0f535f3_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#3#Sailboat#29117142501_c26c78cfe0_o.jpg",
+  "mask_file": "19#Ship#3#Sailboat#29117142501_c26c78cfe0_o.png",
+  "name": "19#Ship#3#Sailboat#29117142501_c26c78cfe0_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#3#Sailboat#36028012300_c2dc0614d7_o.jpg",
+  "mask_file": "19#Ship#3#Sailboat#36028012300_c2dc0614d7_o.png",
+  "name": "19#Ship#3#Sailboat#36028012300_c2dc0614d7_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#4#Ship#27388090661_4dccaaeeac_o.jpg",
+  "mask_file": "19#Ship#4#Ship#27388090661_4dccaaeeac_o.png",
+  "name": "19#Ship#4#Ship#27388090661_4dccaaeeac_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#4#Ship#5787746966_5dd0e4287e_o.jpg",
+  "mask_file": "19#Ship#4#Ship#5787746966_5dd0e4287e_o.png",
+  "name": "19#Ship#4#Ship#5787746966_5dd0e4287e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#4#Ship#6075469575_8a3e620ab8_o.jpg",
+  "mask_file": "19#Ship#4#Ship#6075469575_8a3e620ab8_o.png",
+  "name": "19#Ship#4#Ship#6075469575_8a3e620ab8_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "19#Ship#4#Ship#7489229956_c95b159354_o.jpg",
+  "mask_file": "19#Ship#4#Ship#7489229956_c95b159354_o.png",
+  "name": "19#Ship#4#Ship#7489229956_c95b159354_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#1#Airplane#3495566193_bee48bc7f2_o.jpg",
+  "mask_file": "2#Aircraft#1#Airplane#3495566193_bee48bc7f2_o.png",
+  "name": "2#Aircraft#1#Airplane#3495566193_bee48bc7f2_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#2#Balloon#27775728506_759389fe74_o.jpg",
+  "mask_file": "2#Aircraft#2#Balloon#27775728506_759389fe74_o.png",
+  "name": "2#Aircraft#2#Balloon#27775728506_759389fe74_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#28891244925_c7fd5b5639_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#28891244925_c7fd5b5639_o.png",
+  "name": "2#Aircraft#4#Helicopter#28891244925_c7fd5b5639_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#4#Helicopter#4693285576_51c7e938e3_o.jpg",
+  "mask_file": "2#Aircraft#4#Helicopter#4693285576_51c7e938e3_o.png",
+  "name": "2#Aircraft#4#Helicopter#4693285576_51c7e938e3_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#2069245609_a9a21dbe1e_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#2069245609_a9a21dbe1e_o.png",
+  "name": "2#Aircraft#6#Parachute#2069245609_a9a21dbe1e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#33590416634_9d6f2325e7_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#33590416634_9d6f2325e7_o.png",
+  "name": "2#Aircraft#6#Parachute#33590416634_9d6f2325e7_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#3802992829_34b9305c6c_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#3802992829_34b9305c6c_o.png",
+  "name": "2#Aircraft#6#Parachute#3802992829_34b9305c6c_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#5200429018_a28af53f93_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#5200429018_a28af53f93_o.png",
+  "name": "2#Aircraft#6#Parachute#5200429018_a28af53f93_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#6889859246_d483931636_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#6889859246_d483931636_o.png",
+  "name": "2#Aircraft#6#Parachute#6889859246_d483931636_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "2#Aircraft#6#Parachute#7384025722_f1bfe636ed_o.jpg",
+  "mask_file": "2#Aircraft#6#Parachute#7384025722_f1bfe636ed_o.png",
+  "name": "2#Aircraft#6#Parachute#7384025722_f1bfe636ed_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#1#Archery#46924476515_0be1caa684_o.jpg",
+  "mask_file": "20#Sports#1#Archery#46924476515_0be1caa684_o.png",
+  "name": "20#Sports#1#Archery#46924476515_0be1caa684_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#12#TableTennis#23725810700_0e0480721e_o.jpg",
+  "mask_file": "20#Sports#12#TableTennis#23725810700_0e0480721e_o.png",
+  "name": "20#Sports#12#TableTennis#23725810700_0e0480721e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#5#Goal#IMG_20210514_231808.jpg",
+  "mask_file": "20#Sports#5#Goal#IMG_20210514_231808.png",
+  "name": "20#Sports#5#Goal#IMG_20210514_231808",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#8#Racket#18611033989_6bd0729176_o.jpg",
+  "mask_file": "20#Sports#8#Racket#18611033989_6bd0729176_o.png",
+  "name": "20#Sports#8#Racket#18611033989_6bd0729176_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#8#Racket#19337607166_dd1985fb59_o.jpg",
+  "mask_file": "20#Sports#8#Racket#19337607166_dd1985fb59_o.png",
+  "name": "20#Sports#8#Racket#19337607166_dd1985fb59_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#8#Racket#2808821117_dae01fe274_o.jpg",
+  "mask_file": "20#Sports#8#Racket#2808821117_dae01fe274_o.png",
+  "name": "20#Sports#8#Racket#2808821117_dae01fe274_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "20#Sports#8#Racket#7761572314_c21a3a0068_o.jpg",
+  "mask_file": "20#Sports#8#Racket#7761572314_c21a3a0068_o.png",
+  "name": "20#Sports#8#Racket#7761572314_c21a3a0068_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#11#Stand#IMG_20210520_205406.jpg",
+  "mask_file": "21#Tool#11#Stand#IMG_20210520_205406.png",
+  "name": "21#Tool#11#Stand#IMG_20210520_205406",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#14#Sword#49852575413_7e5dde1d98_o.jpg",
+  "mask_file": "21#Tool#14#Sword#49852575413_7e5dde1d98_o.png",
+  "name": "21#Tool#14#Sword#49852575413_7e5dde1d98_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#14#Sword#9871906203_e141f4ec1e_o.jpg",
+  "mask_file": "21#Tool#14#Sword#9871906203_e141f4ec1e_o.png",
+  "name": "21#Tool#14#Sword#9871906203_e141f4ec1e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#17#Tripod#6882032659_4edefe231c_o.jpg",
+  "mask_file": "21#Tool#17#Tripod#6882032659_4edefe231c_o.png",
+  "name": "21#Tool#17#Tripod#6882032659_4edefe231c_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#3#Clock#19374226769_1bf72ef7c3_o.jpg",
+  "mask_file": "21#Tool#3#Clock#19374226769_1bf72ef7c3_o.png",
+  "name": "21#Tool#3#Clock#19374226769_1bf72ef7c3_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#6#Key#3193329588_839b0c74ce_o.jpg",
+  "mask_file": "21#Tool#6#Key#3193329588_839b0c74ce_o.png",
+  "name": "21#Tool#6#Key#3193329588_839b0c74ce_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#8#Scale#15417235644_45ed9c6c1b_o.jpg",
+  "mask_file": "21#Tool#8#Scale#15417235644_45ed9c6c1b_o.png",
+  "name": "21#Tool#8#Scale#15417235644_45ed9c6c1b_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#8#Scale#2721831637_9d3670c3f5_o.jpg",
+  "mask_file": "21#Tool#8#Scale#2721831637_9d3670c3f5_o.png",
+  "name": "21#Tool#8#Scale#2721831637_9d3670c3f5_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#8#Scale#2941655917_4303580d6e_o.jpg",
+  "mask_file": "21#Tool#8#Scale#2941655917_4303580d6e_o.png",
+  "name": "21#Tool#8#Scale#2941655917_4303580d6e_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ },
+ {
+  "file": "21#Tool#8#Scale#30520173376_9aabfae30b_o.jpg",
+  "mask_file": "21#Tool#8#Scale#30520173376_9aabfae30b_o.png",
+  "name": "21#Tool#8#Scale#30520173376_9aabfae30b_o",
+  "subset": "TE4",
+  "source": "DIS-TE"
+ }
+]

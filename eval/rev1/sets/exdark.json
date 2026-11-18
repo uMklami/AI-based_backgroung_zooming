@@ -1,0 +1,1952 @@
+[
+ {
+  "file": "2015_07039.jpg",
+  "mask_file": null,
+  "name": "2015_07039",
+  "category": "Table",
+  "bbox": [
+   198.0,
+   464.0,
+   412.0,
+   396.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01254.jpg",
+  "mask_file": null,
+  "name": "2015_01254",
+  "category": "Boat",
+  "bbox": [
+   276.0,
+   167.0,
+   337.0,
+   466.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04859.jpg",
+  "mask_file": null,
+  "name": "2015_04859",
+  "category": "People",
+  "bbox": [
+   25.0,
+   106.0,
+   397.0,
+   599.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02121.jpg",
+  "mask_file": null,
+  "name": "2015_02121",
+  "category": "Bus",
+  "bbox": [
+   118.0,
+   95.0,
+   375.0,
+   336.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04936.jpg",
+  "mask_file": null,
+  "name": "2015_04936",
+  "category": "Cup",
+  "bbox": [
+   168.0,
+   19.0,
+   268.0,
+   428.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01301.jpg",
+  "mask_file": null,
+  "name": "2015_01301",
+  "category": "Boat",
+  "bbox": [
+   68.0,
+   171.0,
+   264.0,
+   201.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02986.jpg",
+  "mask_file": null,
+  "name": "2015_02986",
+  "category": "Car",
+  "bbox": [
+   273.0,
+   244.0,
+   560.0,
+   348.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01578.jpg",
+  "mask_file": null,
+  "name": "2015_01578",
+  "category": "Chair",
+  "bbox": [
+   47.0,
+   450.0,
+   621.0,
+   314.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_07261.jpg",
+  "mask_file": null,
+  "name": "2015_07261",
+  "category": "Table",
+  "bbox": [
+   131.0,
+   370.0,
+   700.0,
+   576.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03777.jpg",
+  "mask_file": null,
+  "name": "2015_03777",
+  "category": "Chair",
+  "bbox": [
+   73.0,
+   178.0,
+   100.0,
+   100.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03203.jpg",
+  "mask_file": null,
+  "name": "2015_03203",
+  "category": "Cat",
+  "bbox": [
+   34.0,
+   57.0,
+   440.0,
+   851.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04807.jpg",
+  "mask_file": null,
+  "name": "2015_04807",
+  "category": "Cup",
+  "bbox": [
+   36.0,
+   127.0,
+   424.0,
+   372.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02338.jpg",
+  "mask_file": null,
+  "name": "2015_02338",
+  "category": "Bus",
+  "bbox": [
+   77.0,
+   87.0,
+   513.0,
+   402.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02763.jpg",
+  "mask_file": null,
+  "name": "2015_02763",
+  "category": "Car",
+  "bbox": [
+   4.0,
+   245.0,
+   322.0,
+   130.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05296.jpg",
+  "mask_file": null,
+  "name": "2015_05296",
+  "category": "Dog",
+  "bbox": [
+   272.0,
+   41.0,
+   329.0,
+   379.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_07264.jpg",
+  "mask_file": null,
+  "name": "2015_07264",
+  "category": "Table",
+  "bbox": [
+   319.0,
+   175.0,
+   339.0,
+   336.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03175.jpg",
+  "mask_file": null,
+  "name": "2015_03175",
+  "category": "Cat",
+  "bbox": [
+   216.0,
+   105.0,
+   136.0,
+   221.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06966.jpg",
+  "mask_file": null,
+  "name": "2015_06966",
+  "category": "Table",
+  "bbox": [
+   11.0,
+   128.0,
+   615.0,
+   254.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02582.jpg",
+  "mask_file": null,
+  "name": "2015_02582",
+  "category": "Car",
+  "bbox": [
+   59.0,
+   158.0,
+   261.0,
+   158.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04839.jpg",
+  "mask_file": null,
+  "name": "2015_04839",
+  "category": "Cup",
+  "bbox": [
+   155.0,
+   17.0,
+   203.0,
+   264.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01883.jpg",
+  "mask_file": null,
+  "name": "2015_01883",
+  "category": "Bus",
+  "bbox": [
+   178.0,
+   115.0,
+   194.0,
+   81.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03392.jpg",
+  "mask_file": null,
+  "name": "2015_03392",
+  "category": "Cat",
+  "bbox": [
+   404.0,
+   297.0,
+   198.0,
+   228.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02411.jpg",
+  "mask_file": null,
+  "name": "2015_02411",
+  "category": "Car",
+  "bbox": [
+   29.0,
+   200.0,
+   345.0,
+   127.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01731.jpg",
+  "mask_file": null,
+  "name": "2015_01731",
+  "category": "Table",
+  "bbox": [
+   442.0,
+   1874.0,
+   2524.0,
+   2083.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05372.jpg",
+  "mask_file": null,
+  "name": "2015_05372",
+  "category": "Dog",
+  "bbox": [
+   79.0,
+   55.0,
+   239.0,
+   356.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01447.jpg",
+  "mask_file": null,
+  "name": "2015_01447",
+  "category": "Bottle",
+  "bbox": [
+   129.0,
+   88.0,
+   176.0,
+   438.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06407.jpg",
+  "mask_file": null,
+  "name": "2015_06407",
+  "category": "People",
+  "bbox": [
+   75.0,
+   51.0,
+   196.0,
+   396.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06910.jpg",
+  "mask_file": null,
+  "name": "2015_06910",
+  "category": "Table",
+  "bbox": [
+   116.0,
+   344.0,
+   546.0,
+   313.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02211.jpg",
+  "mask_file": null,
+  "name": "2015_02211",
+  "category": "Bus",
+  "bbox": [
+   124.0,
+   103.0,
+   471.0,
+   291.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04819.jpg",
+  "mask_file": null,
+  "name": "2015_04819",
+  "category": "People",
+  "bbox": [
+   43.0,
+   146.0,
+   281.0,
+   457.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03695.jpg",
+  "mask_file": null,
+  "name": "2015_03695",
+  "category": "Cat",
+  "bbox": [
+   172.0,
+   83.0,
+   700.0,
+   442.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00062.jpg",
+  "mask_file": null,
+  "name": "2015_00062",
+  "category": "Bicycle",
+  "bbox": [
+   86.0,
+   196.0,
+   229.0,
+   215.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03320.jpg",
+  "mask_file": null,
+  "name": "2015_03320",
+  "category": "Cat",
+  "bbox": [
+   309.0,
+   186.0,
+   113.0,
+   142.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05939.jpg",
+  "mask_file": null,
+  "name": "2015_05939",
+  "category": "Motorbike",
+  "bbox": [
+   28.0,
+   150.0,
+   698.0,
+   509.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04855.jpg",
+  "mask_file": null,
+  "name": "2015_04855",
+  "category": "Cup",
+  "bbox": [
+   205.0,
+   98.0,
+   185.0,
+   163.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04565.jpg",
+  "mask_file": null,
+  "name": "2015_04565",
+  "category": "Cup",
+  "bbox": [
+   300.0,
+   59.0,
+   211.0,
+   326.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05600.jpg",
+  "mask_file": null,
+  "name": "2015_05600",
+  "category": "People",
+  "bbox": [
+   20.0,
+   121.0,
+   524.0,
+   770.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02347.jpg",
+  "mask_file": null,
+  "name": "2015_02347",
+  "category": "Bus",
+  "bbox": [
+   594.0,
+   22.0,
+   100.0,
+   106.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03176.jpg",
+  "mask_file": null,
+  "name": "2015_03176",
+  "category": "Cat",
+  "bbox": [
+   275.0,
+   17.0,
+   340.0,
+   460.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01987.jpg",
+  "mask_file": null,
+  "name": "2015_01987",
+  "category": "Bus",
+  "bbox": [
+   155.0,
+   237.0,
+   302.0,
+   244.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06993.jpg",
+  "mask_file": null,
+  "name": "2015_06993",
+  "category": "Table",
+  "bbox": [
+   266.0,
+   255.0,
+   116.0,
+   124.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02833.jpg",
+  "mask_file": null,
+  "name": "2015_02833",
+  "category": "Car",
+  "bbox": [
+   377.0,
+   266.0,
+   436.0,
+   244.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02661.jpg",
+  "mask_file": null,
+  "name": "2015_02661",
+  "category": "Car",
+  "bbox": [
+   255.0,
+   921.0,
+   1909.0,
+   897.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04194.jpg",
+  "mask_file": null,
+  "name": "2015_04194",
+  "category": "Chair",
+  "bbox": [
+   806.0,
+   513.0,
+   1660.0,
+   2653.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02705.jpg",
+  "mask_file": null,
+  "name": "2015_02705",
+  "category": "Car",
+  "bbox": [
+   546.0,
+   97.0,
+   346.0,
+   208.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01931.jpg",
+  "mask_file": null,
+  "name": "2015_01931",
+  "category": "Bus",
+  "bbox": [
+   194.0,
+   192.0,
+   101.0,
+   132.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05149.jpg",
+  "mask_file": null,
+  "name": "2015_05149",
+  "category": "Dog",
+  "bbox": [
+   388.0,
+   21.0,
+   623.0,
+   402.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06154.jpg",
+  "mask_file": null,
+  "name": "2015_06154",
+  "category": "Motorbike",
+  "bbox": [
+   48.0,
+   125.0,
+   426.0,
+   248.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05752.jpg",
+  "mask_file": null,
+  "name": "2015_05752",
+  "category": "Motorbike",
+  "bbox": [
+   220.0,
+   119.0,
+   262.0,
+   242.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00344.jpg",
+  "mask_file": null,
+  "name": "2015_00344",
+  "category": "Bicycle",
+  "bbox": [
+   49.0,
+   402.0,
+   247.0,
+   168.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06054.jpg",
+  "mask_file": null,
+  "name": "2015_06054",
+  "category": "Motorbike",
+  "bbox": [
+   519.0,
+   95.0,
+   1818.0,
+   2264.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02495.jpg",
+  "mask_file": null,
+  "name": "2015_02495",
+  "category": "People",
+  "bbox": [
+   296.0,
+   136.0,
+   199.0,
+   225.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00772.jpg",
+  "mask_file": null,
+  "name": "2015_00772",
+  "category": "Boat",
+  "bbox": [
+   66.0,
+   383.0,
+   126.0,
+   85.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02984.jpg",
+  "mask_file": null,
+  "name": "2015_02984",
+  "category": "Car",
+  "bbox": [
+   281.0,
+   71.0,
+   690.0,
+   415.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06183.jpg",
+  "mask_file": null,
+  "name": "2015_06183",
+  "category": "Motorbike",
+  "bbox": [
+   68.0,
+   317.0,
+   313.0,
+   288.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05393.jpg",
+  "mask_file": null,
+  "name": "2015_05393",
+  "category": "Dog",
+  "bbox": [
+   268.0,
+   132.0,
+   305.0,
+   362.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01728.jpg",
+  "mask_file": null,
+  "name": "2015_01728",
+  "category": "Table",
+  "bbox": [
+   30.0,
+   457.0,
+   2398.0,
+   1965.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03907.jpg",
+  "mask_file": null,
+  "name": "2015_03907",
+  "category": "Chair",
+  "bbox": [
+   123.0,
+   199.0,
+   273.0,
+   114.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02785.jpg",
+  "mask_file": null,
+  "name": "2015_02785",
+  "category": "Car",
+  "bbox": [
+   9.0,
+   114.0,
+   85.0,
+   99.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03829.jpg",
+  "mask_file": null,
+  "name": "2015_03829",
+  "category": "Chair",
+  "bbox": [
+   219.0,
+   86.0,
+   334.0,
+   331.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04478.jpg",
+  "mask_file": null,
+  "name": "2015_04478",
+  "category": "Table",
+  "bbox": [
+   6.0,
+   314.0,
+   366.0,
+   176.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04713.jpg",
+  "mask_file": null,
+  "name": "2015_04713",
+  "category": "Cup",
+  "bbox": [
+   383.0,
+   6.0,
+   112.0,
+   183.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00939.jpg",
+  "mask_file": null,
+  "name": "2015_00939",
+  "category": "Boat",
+  "bbox": [
+   465.0,
+   137.0,
+   380.0,
+   151.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04828.jpg",
+  "mask_file": null,
+  "name": "2015_04828",
+  "category": "Cup",
+  "bbox": [
+   117.0,
+   296.0,
+   592.0,
+   807.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05914.jpg",
+  "mask_file": null,
+  "name": "2015_05914",
+  "category": "Motorbike",
+  "bbox": [
+   94.0,
+   81.0,
+   170.0,
+   148.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02032.jpg",
+  "mask_file": null,
+  "name": "2015_02032",
+  "category": "Bus",
+  "bbox": [
+   67.0,
+   187.0,
+   130.0,
+   130.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02872.jpg",
+  "mask_file": null,
+  "name": "2015_02872",
+  "category": "Car",
+  "bbox": [
+   22.0,
+   89.0,
+   435.0,
+   181.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03714.jpg",
+  "mask_file": null,
+  "name": "2015_03714",
+  "category": "Cat",
+  "bbox": [
+   329.0,
+   307.0,
+   179.0,
+   240.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05828.jpg",
+  "mask_file": null,
+  "name": "2015_05828",
+  "category": "Motorbike",
+  "bbox": [
+   240.0,
+   187.0,
+   363.0,
+   194.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01710.jpg",
+  "mask_file": null,
+  "name": "2015_01710",
+  "category": "Bottle",
+  "bbox": [
+   121.0,
+   32.0,
+   137.0,
+   452.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00742.jpg",
+  "mask_file": null,
+  "name": "2015_00742",
+  "category": "Boat",
+  "bbox": [
+   91.0,
+   107.0,
+   94.0,
+   95.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00043.jpg",
+  "mask_file": null,
+  "name": "2015_00043",
+  "category": "Bicycle",
+  "bbox": [
+   14.0,
+   251.0,
+   623.0,
+   342.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05313.jpg",
+  "mask_file": null,
+  "name": "2015_05313",
+  "category": "Dog",
+  "bbox": [
+   242.0,
+   179.0,
+   265.0,
+   168.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06758.jpg",
+  "mask_file": null,
+  "name": "2015_06758",
+  "category": "People",
+  "bbox": [
+   602.0,
+   280.0,
+   221.0,
+   475.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02380.jpg",
+  "mask_file": null,
+  "name": "2015_02380",
+  "category": "Bus",
+  "bbox": [
+   106.0,
+   284.0,
+   555.0,
+   245.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00724.jpg",
+  "mask_file": null,
+  "name": "2015_00724",
+  "category": "Boat",
+  "bbox": [
+   123.0,
+   323.0,
+   210.0,
+   100.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01456.jpg",
+  "mask_file": null,
+  "name": "2015_01456",
+  "category": "Table",
+  "bbox": [
+   7.0,
+   265.0,
+   630.0,
+   158.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01195.jpg",
+  "mask_file": null,
+  "name": "2015_01195",
+  "category": "Boat",
+  "bbox": [
+   100.0,
+   54.0,
+   196.0,
+   128.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03105.jpg",
+  "mask_file": null,
+  "name": "2015_03105",
+  "category": "Table",
+  "bbox": [
+   24.0,
+   102.0,
+   585.0,
+   193.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05731.jpg",
+  "mask_file": null,
+  "name": "2015_05731",
+  "category": "People",
+  "bbox": [
+   448.0,
+   283.0,
+   133.0,
+   270.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03757.jpg",
+  "mask_file": null,
+  "name": "2015_03757",
+  "category": "Cat",
+  "bbox": [
+   359.0,
+   18.0,
+   233.0,
+   495.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06047.jpg",
+  "mask_file": null,
+  "name": "2015_06047",
+  "category": "Motorbike",
+  "bbox": [
+   313.0,
+   602.0,
+   1581.0,
+   986.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03035.jpg",
+  "mask_file": null,
+  "name": "2015_03035",
+  "category": "Car",
+  "bbox": [
+   62.0,
+   176.0,
+   801.0,
+   327.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02540.jpg",
+  "mask_file": null,
+  "name": "2015_02540",
+  "category": "Car",
+  "bbox": [
+   55.0,
+   153.0,
+   411.0,
+   321.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01363.jpg",
+  "mask_file": null,
+  "name": "2015_01363",
+  "category": "Bottle",
+  "bbox": [
+   133.0,
+   137.0,
+   388.0,
+   141.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05960.jpg",
+  "mask_file": null,
+  "name": "2015_05960",
+  "category": "Motorbike",
+  "bbox": [
+   90.0,
+   135.0,
+   346.0,
+   272.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03589.jpg",
+  "mask_file": null,
+  "name": "2015_03589",
+  "category": "People",
+  "bbox": [
+   240.0,
+   146.0,
+   212.0,
+   307.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02021.jpg",
+  "mask_file": null,
+  "name": "2015_02021",
+  "category": "Bus",
+  "bbox": [
+   146.0,
+   99.0,
+   282.0,
+   176.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05974.jpg",
+  "mask_file": null,
+  "name": "2015_05974",
+  "category": "Motorbike",
+  "bbox": [
+   266.0,
+   218.0,
+   167.0,
+   145.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02558.jpg",
+  "mask_file": null,
+  "name": "2015_02558",
+  "category": "Car",
+  "bbox": [
+   481.0,
+   454.0,
+   835.0,
+   333.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05404.jpg",
+  "mask_file": null,
+  "name": "2015_05404",
+  "category": "Dog",
+  "bbox": [
+   320.0,
+   38.0,
+   528.0,
+   504.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05622.jpg",
+  "mask_file": null,
+  "name": "2015_05622",
+  "category": "Dog",
+  "bbox": [
+   233.0,
+   47.0,
+   100.0,
+   121.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05461.jpg",
+  "mask_file": null,
+  "name": "2015_05461",
+  "category": "Dog",
+  "bbox": [
+   76.0,
+   139.0,
+   732.0,
+   549.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03387.jpg",
+  "mask_file": null,
+  "name": "2015_03387",
+  "category": "Car",
+  "bbox": [
+   471.0,
+   565.0,
+   288.0,
+   188.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06864.jpg",
+  "mask_file": null,
+  "name": "2015_06864",
+  "category": "Table",
+  "bbox": [
+   251.0,
+   300.0,
+   343.0,
+   262.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05218.jpg",
+  "mask_file": null,
+  "name": "2015_05218",
+  "category": "Dog",
+  "bbox": [
+   124.0,
+   316.0,
+   200.0,
+   128.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05676.jpg",
+  "mask_file": null,
+  "name": "2015_05676",
+  "category": "Dog",
+  "bbox": [
+   451.0,
+   59.0,
+   551.0,
+   322.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02507.jpg",
+  "mask_file": null,
+  "name": "2015_02507",
+  "category": "Car",
+  "bbox": [
+   129.0,
+   238.0,
+   307.0,
+   254.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04051.jpg",
+  "mask_file": null,
+  "name": "2015_04051",
+  "category": "Table",
+  "bbox": [
+   61.0,
+   232.0,
+   308.0,
+   104.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05607.jpg",
+  "mask_file": null,
+  "name": "2015_05607",
+  "category": "Dog",
+  "bbox": [
+   58.0,
+   95.0,
+   565.0,
+   455.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01276.jpg",
+  "mask_file": null,
+  "name": "2015_01276",
+  "category": "Boat",
+  "bbox": [
+   243.0,
+   226.0,
+   316.0,
+   291.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05575.jpg",
+  "mask_file": null,
+  "name": "2015_05575",
+  "category": "People",
+  "bbox": [
+   115.0,
+   263.0,
+   244.0,
+   282.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01433.jpg",
+  "mask_file": null,
+  "name": "2015_01433",
+  "category": "Bottle",
+  "bbox": [
+   146.0,
+   73.0,
+   98.0,
+   243.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00846.jpg",
+  "mask_file": null,
+  "name": "2015_00846",
+  "category": "Boat",
+  "bbox": [
+   10.0,
+   203.0,
+   289.0,
+   72.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01810.jpg",
+  "mask_file": null,
+  "name": "2015_01810",
+  "category": "Bottle",
+  "bbox": [
+   31.0,
+   289.0,
+   253.0,
+   80.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01463.jpg",
+  "mask_file": null,
+  "name": "2015_01463",
+  "category": "Car",
+  "bbox": [
+   3.0,
+   4.0,
+   422.0,
+   292.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05605.jpg",
+  "mask_file": null,
+  "name": "2015_05605",
+  "category": "Dog",
+  "bbox": [
+   310.0,
+   397.0,
+   148.0,
+   207.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03374.jpg",
+  "mask_file": null,
+  "name": "2015_03374",
+  "category": "Car",
+  "bbox": [
+   1986.0,
+   46.0,
+   1987.0,
+   2042.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04228.jpg",
+  "mask_file": null,
+  "name": "2015_04228",
+  "category": "Chair",
+  "bbox": [
+   384.0,
+   510.0,
+   318.0,
+   493.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04282.jpg",
+  "mask_file": null,
+  "name": "2015_04282",
+  "category": "Chair",
+  "bbox": [
+   13.0,
+   83.0,
+   311.0,
+   358.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01520.jpg",
+  "mask_file": null,
+  "name": "2015_01520",
+  "category": "People",
+  "bbox": [
+   428.0,
+   83.0,
+   207.0,
+   349.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04451.jpg",
+  "mask_file": null,
+  "name": "2015_04451",
+  "category": "Cup",
+  "bbox": [
+   226.0,
+   241.0,
+   1246.0,
+   637.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00023.jpg",
+  "mask_file": null,
+  "name": "2015_00023",
+  "category": "Bicycle",
+  "bbox": [
+   30.0,
+   355.0,
+   330.0,
+   268.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06211.jpg",
+  "mask_file": null,
+  "name": "2015_06211",
+  "category": "Motorbike",
+  "bbox": [
+   420.0,
+   463.0,
+   782.0,
+   592.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02042.jpg",
+  "mask_file": null,
+  "name": "2015_02042",
+  "category": "Bus",
+  "bbox": [
+   110.0,
+   67.0,
+   412.0,
+   267.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05368.jpg",
+  "mask_file": null,
+  "name": "2015_05368",
+  "category": "Dog",
+  "bbox": [
+   15.0,
+   43.0,
+   269.0,
+   401.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05395.jpg",
+  "mask_file": null,
+  "name": "2015_05395",
+  "category": "Dog",
+  "bbox": [
+   206.0,
+   78.0,
+   325.0,
+   591.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02988.jpg",
+  "mask_file": null,
+  "name": "2015_02988",
+  "category": "Car",
+  "bbox": [
+   437.0,
+   288.0,
+   358.0,
+   150.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05004.jpg",
+  "mask_file": null,
+  "name": "2015_05004",
+  "category": "Dog",
+  "bbox": [
+   101.0,
+   269.0,
+   65.0,
+   145.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05556.jpg",
+  "mask_file": null,
+  "name": "2015_05556",
+  "category": "Dog",
+  "bbox": [
+   56.0,
+   125.0,
+   289.0,
+   197.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05197.jpg",
+  "mask_file": null,
+  "name": "2015_05197",
+  "category": "Dog",
+  "bbox": [
+   325.0,
+   118.0,
+   107.0,
+   148.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06678.jpg",
+  "mask_file": null,
+  "name": "2015_06678",
+  "category": "People",
+  "bbox": [
+   949.0,
+   703.0,
+   1375.0,
+   2902.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00409.jpg",
+  "mask_file": null,
+  "name": "2015_00409",
+  "category": "Car",
+  "bbox": [
+   87.0,
+   200.0,
+   403.0,
+   173.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04523.jpg",
+  "mask_file": null,
+  "name": "2015_04523",
+  "category": "Table",
+  "bbox": [
+   9.0,
+   277.0,
+   548.0,
+   191.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04846.jpg",
+  "mask_file": null,
+  "name": "2015_04846",
+  "category": "Cup",
+  "bbox": [
+   136.0,
+   32.0,
+   207.0,
+   311.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02346.jpg",
+  "mask_file": null,
+  "name": "2015_02346",
+  "category": "Bus",
+  "bbox": [
+   21.0,
+   428.0,
+   346.0,
+   210.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00155.jpg",
+  "mask_file": null,
+  "name": "2015_00155",
+  "category": "Bus",
+  "bbox": [
+   193.0,
+   42.0,
+   305.0,
+   263.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_07273.jpg",
+  "mask_file": null,
+  "name": "2015_07273",
+  "category": "Dog",
+  "bbox": [
+   73.0,
+   35.0,
+   231.0,
+   336.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03263.jpg",
+  "mask_file": null,
+  "name": "2015_03263",
+  "category": "Cat",
+  "bbox": [
+   141.0,
+   4.0,
+   409.0,
+   436.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00575.jpg",
+  "mask_file": null,
+  "name": "2015_00575",
+  "category": "Bus",
+  "bbox": [
+   208.0,
+   5.0,
+   356.0,
+   367.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_04961.jpg",
+  "mask_file": null,
+  "name": "2015_04961",
+  "category": "Dog",
+  "bbox": [
+   51.0,
+   43.0,
+   445.0,
+   382.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02155.jpg",
+  "mask_file": null,
+  "name": "2015_02155",
+  "category": "Bus",
+  "bbox": [
+   229.0,
+   198.0,
+   188.0,
+   112.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06175.jpg",
+  "mask_file": null,
+  "name": "2015_06175",
+  "category": "Motorbike",
+  "bbox": [
+   506.0,
+   225.0,
+   647.0,
+   615.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00337.jpg",
+  "mask_file": null,
+  "name": "2015_00337",
+  "category": "Bicycle",
+  "bbox": [
+   46.0,
+   282.0,
+   317.0,
+   194.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00648.jpg",
+  "mask_file": null,
+  "name": "2015_00648",
+  "category": "People",
+  "bbox": [
+   558.0,
+   149.0,
+   482.0,
+   467.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03868.jpg",
+  "mask_file": null,
+  "name": "2015_03868",
+  "category": "Table",
+  "bbox": [
+   258.0,
+   274.0,
+   367.0,
+   126.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03649.jpg",
+  "mask_file": null,
+  "name": "2015_03649",
+  "category": "Cat",
+  "bbox": [
+   47.0,
+   205.0,
+   841.0,
+   332.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00264.jpg",
+  "mask_file": null,
+  "name": "2015_00264",
+  "category": "Bicycle",
+  "bbox": [
+   197.0,
+   178.0,
+   153.0,
+   147.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_00270.jpg",
+  "mask_file": null,
+  "name": "2015_00270",
+  "category": "Bicycle",
+  "bbox": [
+   3.0,
+   3.0,
+   555.0,
+   618.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02737.jpg",
+  "mask_file": null,
+  "name": "2015_02737",
+  "category": "Car",
+  "bbox": [
+   374.0,
+   159.0,
+   396.0,
+   273.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_01287.jpg",
+  "mask_file": null,
+  "name": "2015_01287",
+  "category": "Boat",
+  "bbox": [
+   4.0,
+   129.0,
+   532.0,
+   398.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_07104.jpg",
+  "mask_file": null,
+  "name": "2015_07104",
+  "category": "Table",
+  "bbox": [
+   65.0,
+   409.0,
+   355.0,
+   216.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03960.jpg",
+  "mask_file": null,
+  "name": "2015_03960",
+  "category": "Chair",
+  "bbox": [
+   227.0,
+   291.0,
+   335.0,
+   414.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05834.jpg",
+  "mask_file": null,
+  "name": "2015_05834",
+  "category": "Motorbike",
+  "bbox": [
+   85.0,
+   66.0,
+   212.0,
+   253.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05682.jpg",
+  "mask_file": null,
+  "name": "2015_05682",
+  "category": "Dog",
+  "bbox": [
+   426.0,
+   136.0,
+   202.0,
+   326.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_06165.jpg",
+  "mask_file": null,
+  "name": "2015_06165",
+  "category": "Motorbike",
+  "bbox": [
+   82.0,
+   376.0,
+   428.0,
+   275.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_03830.jpg",
+  "mask_file": null,
+  "name": "2015_03830",
+  "category": "Chair",
+  "bbox": [
+   280.0,
+   215.0,
+   102.0,
+   115.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_05085.jpg",
+  "mask_file": null,
+  "name": "2015_05085",
+  "category": "People",
+  "bbox": [
+   338.0,
+   70.0,
+   135.0,
+   340.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_07255.jpg",
+  "mask_file": null,
+  "name": "2015_07255",
+  "category": "Table",
+  "bbox": [
+   254.0,
+   245.0,
+   572.0,
+   276.0
+  ],
+  "source": "ExDark"
+ },
+ {
+  "file": "2015_02408.jpg",
+  "mask_file": null,
+  "name": "2015_02408",
+  "category": "Car",
+  "bbox": [
+   134.0,
+   74.0,
+   310.0,
+   155.0
+  ],
+  "source": "ExDark"
+ }
+]
